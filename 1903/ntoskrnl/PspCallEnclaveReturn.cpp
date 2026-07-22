@@ -1,0 +1,2 @@
+// RVA 0x572950, ALMOSTRO
+__int64 PspCallEnclaveReturn = 0x0000000000000000; // 0

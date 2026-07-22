@@ -1,0 +1,2 @@
+// RVA 0x3BDD0, .rdata
+__int64 EfiBootVariablesGuid = 0x11D293CA8BE4DF61; // 1284251341893721953

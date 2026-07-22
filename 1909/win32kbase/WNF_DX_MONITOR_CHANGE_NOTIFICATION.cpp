@@ -1,0 +1,2 @@
+// RVA 0x1EA3D0, .rdata
+unsigned char WNF_DX_MONITOR_CHANGE_NOTIFICATION = 0x35; // 53

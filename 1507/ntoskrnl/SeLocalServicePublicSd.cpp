@@ -1,0 +1,2 @@
+// RVA 0x77EED8, PAGEDATA
+__int64 SeLocalServicePublicSd = 0x0000000000000000; // 0

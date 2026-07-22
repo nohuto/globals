@@ -1,0 +1,2 @@
+// RVA 0x375580, .rdata
+unsigned char MITIGATION_ENFORCE_PROHIBIT_DYNAMIC_CODE = 0x02; // 2

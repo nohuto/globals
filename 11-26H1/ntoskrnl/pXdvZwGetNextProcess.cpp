@@ -1,0 +1,2 @@
+// RVA 0xFF26D8, PAGEVRFD
+__int64 pXdvZwGetNextProcess = 0x0000000000000000; // 0

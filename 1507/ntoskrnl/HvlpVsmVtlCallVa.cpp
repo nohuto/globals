@@ -1,0 +1,2 @@
+// RVA 0x3D0188, ALMOSTRO
+__int64 HvlpVsmVtlCallVa = 0x0000000000000000; // 0

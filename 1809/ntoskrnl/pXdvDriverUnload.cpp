@@ -1,0 +1,2 @@
+// RVA 0x986C38, PAGEVRFD
+__int64 pXdvDriverUnload = 0x0000000000000000; // 0

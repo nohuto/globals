@@ -1,0 +1,2 @@
+// RVA 0x747B40, PAGEDATA
+__int64 CmpMasterHive = 0x0000000000000000; // 0

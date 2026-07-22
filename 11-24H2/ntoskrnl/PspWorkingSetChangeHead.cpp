@@ -1,0 +1,2 @@
+// RVA 0xFC70D8, ALMOSTRO
+__int64 PspWorkingSetChangeHead = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x25F588, .rdata
+unsigned char POP_ETW_EVENT_PRESLEEP_CALLBACKS_START = 0x44; // 68

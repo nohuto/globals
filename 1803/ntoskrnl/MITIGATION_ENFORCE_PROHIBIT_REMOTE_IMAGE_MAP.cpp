@@ -1,0 +1,2 @@
+// RVA 0x310210, .rdata
+unsigned char MITIGATION_ENFORCE_PROHIBIT_REMOTE_IMAGE_MAP = 0x08; // 8

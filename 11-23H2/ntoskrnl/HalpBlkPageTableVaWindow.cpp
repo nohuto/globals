@@ -1,0 +1,2 @@
+// RVA 0xD81738, INITDATA
+__int64 HalpBlkPageTableVaWindow = 0x0000000000000000; // 0

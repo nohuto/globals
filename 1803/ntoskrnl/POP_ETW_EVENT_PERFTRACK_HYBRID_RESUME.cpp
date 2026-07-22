@@ -1,0 +1,2 @@
+// RVA 0x310000, .rdata
+unsigned char POP_ETW_EVENT_PERFTRACK_HYBRID_RESUME = 0x7C; // 124

@@ -1,0 +1,2 @@
+// RVA 0xD004C0, ALMOSTRO
+__int64 KeRootProcNumaNodeLps = 0x0000000000000000; // 0

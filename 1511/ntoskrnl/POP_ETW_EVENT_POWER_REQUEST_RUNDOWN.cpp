@@ -1,0 +1,2 @@
+// RVA 0x256118, .rdata
+unsigned char POP_ETW_EVENT_POWER_REQUEST_RUNDOWN = 0x63; // 99

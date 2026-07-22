@@ -1,0 +1,2 @@
+// RVA 0x7BD4B8, PAGEVRFD
+__int64 pXdvMmAllocatePagesForMdl = 0x0000000000000000; // 0

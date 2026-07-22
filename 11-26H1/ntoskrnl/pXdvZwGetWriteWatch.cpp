@@ -1,0 +1,2 @@
+// RVA 0xFF28C0, PAGEVRFD
+__int64 pXdvZwGetWriteWatch = 0x0000000000000000; // 0

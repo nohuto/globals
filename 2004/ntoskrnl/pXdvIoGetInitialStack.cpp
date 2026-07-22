@@ -1,0 +1,2 @@
+// RVA 0xD48F98, PAGEVRFD
+__int64 pXdvIoGetInitialStack = 0x0000000000000000; // 0

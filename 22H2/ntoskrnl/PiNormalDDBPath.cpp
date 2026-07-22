@@ -1,0 +1,2 @@
+// RVA 0x983B28, PAGE
+unsigned long long PiNormalDDBPath = 0x000000014098BEF0; // 5378719472

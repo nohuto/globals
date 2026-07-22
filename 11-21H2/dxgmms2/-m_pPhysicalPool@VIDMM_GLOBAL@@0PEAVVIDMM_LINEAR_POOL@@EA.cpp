@@ -1,0 +1,3 @@
+// RVA 0x6E208, .data
+// Symbol: ?m_pPhysicalPool@VIDMM_GLOBAL@@0PEAVVIDMM_LINEAR_POOL@@EA
+PVOID _m_pPhysicalPool_VIDMM_GLOBAL__0PEAVVIDMM_LINEAR_POOL__EA = reinterpret_cast<decltype(_m_pPhysicalPool_VIDMM_GLOBAL__0PEAVVIDMM_LINEAR_POOL__EA)>(0x0000000000000000); // 0

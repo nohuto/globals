@@ -1,0 +1,2 @@
+// RVA 0xFF26F0, PAGEVRFD
+__int64 pXdvZwCompareTokens = 0x0000000000000000; // 0

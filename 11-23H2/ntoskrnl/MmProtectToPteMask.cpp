@@ -1,0 +1,2 @@
+// RVA 0x16540, .rdata
+__int64 MmProtectToPteMask = 0x8000000000000000; // -9223372036854775808

@@ -1,0 +1,2 @@
+// RVA 0xFD8130, PAGEDATA
+unsigned long long PspSystemDlls = 0x0000000140FD8980; // 5385324928

@@ -1,0 +1,3 @@
+// RVA 0x575D0, .rdata
+// Symbol: ??_7VIDMM_MEMORY_SEGMENT@@6B@
+void *___7VIDMM_MEMORY_SEGMENT__6B_ = reinterpret_cast<decltype(___7VIDMM_MEMORY_SEGMENT__6B_)>(0x000000014004DED0); // 5369028304

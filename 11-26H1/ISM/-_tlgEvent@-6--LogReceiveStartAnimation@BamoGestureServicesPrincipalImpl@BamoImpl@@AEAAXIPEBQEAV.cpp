@@ -1,0 +1,3 @@
+// RVA 0x223FC6, .rdata
+// Symbol: ?_tlgEvent@?6??LogReceiveStartAnimation@BamoGestureServicesPrincipalImpl@BamoImpl@@AEAAXIPEBQEAVBamoAnimationTargetClientProxy@@IPEAVBamoDragManagerClientProxy@@W4GestureProcessorType@@@Z@4U_unnamed_type__tlgEvent_@?6??123@AEAAXI0I12@Z@B
+unsigned char __tlgEvent__6__LogReceiveStartAnimation_BamoGestureServicesPrincipalImpl_BamoImpl__AEAAXIPEBQEAVBamoAnimationTargetClientProxy__IPEAVBamoDragManagerClientProxy__W4GestureProcessorType___Z_4U_unnamed_type__tlgEvent___6__123_AEAAXI0I12_Z_B = 0x06; // 6

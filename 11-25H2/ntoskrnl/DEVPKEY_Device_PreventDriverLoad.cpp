@@ -1,0 +1,2 @@
+// RVA 0x13AE8, .rdata
+const __int64 DEVPKEY_Device_PreventDriverLoad = 0x408897A683DA6326; // 4650133356692529958

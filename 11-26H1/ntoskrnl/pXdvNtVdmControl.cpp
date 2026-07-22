@@ -1,0 +1,2 @@
+// RVA 0xFF2730, PAGEVRFD
+__int64 pXdvNtVdmControl = 0x0000000000000000; // 0

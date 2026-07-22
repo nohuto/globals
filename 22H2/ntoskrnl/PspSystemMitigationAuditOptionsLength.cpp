@@ -1,0 +1,2 @@
+// RVA 0xCFB0AC, ALMOSTRO
+size_t PspSystemMitigationAuditOptionsLength = 0xFFFFFFFF00000018; // 18446744069414584344

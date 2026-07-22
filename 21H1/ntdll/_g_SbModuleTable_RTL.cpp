@@ -1,0 +1,5 @@
+// RVA 0x1058, .text
+// Type: char[5]
+unsigned char _g_SbModuleTable_RTL[0x5] = {
+    0x6B, 0x4C, 0x73, 0x45
+};

@@ -1,0 +1,2 @@
+// RVA 0x12DE0, .rdata
+__int64 RtlpUnwindOpSlotTable = 0x0302030201010201; // 216739039208866305

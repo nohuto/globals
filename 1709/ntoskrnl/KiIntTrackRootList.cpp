@@ -1,0 +1,2 @@
+// RVA 0x36A850, .data
+ULONG_PTR KiIntTrackRootList = 0x0000000000000000; // 0

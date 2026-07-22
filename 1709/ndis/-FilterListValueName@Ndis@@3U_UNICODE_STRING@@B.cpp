@@ -1,0 +1,7 @@
+// RVA 0x7E1C8, .rdata
+// Symbol: ?FilterListValueName@Ndis@@3U_UNICODE_STRING@@B
+// Type: const struct _UNICODE_STRING
+unsigned char _FilterListValueName_Ndis__3U_UNICODE_STRING__B[0x10] = {
+    0x14, 0x00, 0x16, 0x00, 0x00, 0x00, 0x00, 0x00, 0x48, 0x2B, 0x08, 0xC0,
+    0x01
+};

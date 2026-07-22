@@ -1,0 +1,2 @@
+// RVA 0xD1EC70, ALMOSTRO
+__int64 PsNtosImageEnd = 0x0000000000000000; // 0

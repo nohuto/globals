@@ -1,0 +1,2 @@
+// RVA 0x123690, .rdata
+_UNKNOWN *Feature_Standalone_25_05_NonSec__private_descriptor = reinterpret_cast<decltype(Feature_Standalone_25_05_NonSec__private_descriptor)>(0x0000000140127A98); // 5369920152

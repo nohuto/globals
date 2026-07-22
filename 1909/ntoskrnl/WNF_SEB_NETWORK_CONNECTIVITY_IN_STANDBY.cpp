@@ -1,0 +1,2 @@
+// RVA 0x37A408, .rdata
+unsigned char WNF_SEB_NETWORK_CONNECTIVITY_IN_STANDBY = 0x75; // 117

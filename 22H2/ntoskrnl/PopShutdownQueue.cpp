@@ -1,0 +1,2 @@
+// RVA 0xC24600, .data
+__int64 PopShutdownQueue = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0x1DEF18, .rdata
+// Symbol: ?Methods@?$IUIAHitTestInputObjectProxy_Receive@VBamoUIAHitTestInputObjectProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+__int64 (__fastcall *_Methods___IUIAHitTestInputObjectProxy_Receive_VBamoUIAHitTestInputObjectProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IUIAHitTestInputObjectProxy_Receive_VBamoUIAHitTestInputObjectProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x00000001801249B0); // 6443649456

@@ -1,0 +1,2 @@
+// RVA 0x32C2C0, .data
+ULONG_PTR RawGlobalLock = 0x0000000000000000; // 0

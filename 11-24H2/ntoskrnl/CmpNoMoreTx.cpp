@@ -1,0 +1,2 @@
+// RVA 0xEEFB30, .data
+char CmpNoMoreTx = 0x00; // 0

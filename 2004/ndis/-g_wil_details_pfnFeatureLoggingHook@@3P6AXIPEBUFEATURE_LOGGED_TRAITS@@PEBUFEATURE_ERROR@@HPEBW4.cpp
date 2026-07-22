@@ -1,0 +1,3 @@
+// RVA 0xE6230, .data
+// Symbol: ?g_wil_details_pfnFeatureLoggingHook@@3P6AXIPEBUFEATURE_LOGGED_TRAITS@@PEBUFEATURE_ERROR@@HPEBW4wil_ReportingKind@@PEBW4wil_VariantReportingKind@@E_K@ZEA
+void (*_g_wil_details_pfnFeatureLoggingHook__3P6AXIPEBUFEATURE_LOGGED_TRAITS__PEBUFEATURE_ERROR__HPEBW4wil_ReportingKind__PEBW4wil_VariantReportingKind__E_K_ZEA)(unsigned int, const struct FEATURE_LOGGED_TRAITS *, const struct FEATURE_ERROR *, int, const enum wil_ReportingKind *, const enum wil_VariantReportingKind *, unsigned __int8, unsigned __int64) = reinterpret_cast<decltype(_g_wil_details_pfnFeatureLoggingHook__3P6AXIPEBUFEATURE_LOGGED_TRAITS__PEBUFEATURE_ERROR__HPEBW4wil_ReportingKind__PEBW4wil_VariantReportingKind__E_K_ZEA)>(0x0000000000000000); // 0

@@ -1,0 +1,2 @@
+// RVA 0x3D1518, ALMOSTRO
+__int64 pIoFreeIrp = 0x0000000000000000; // 0

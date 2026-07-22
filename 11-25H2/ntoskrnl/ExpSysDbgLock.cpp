@@ -1,0 +1,2 @@
+// RVA 0xEFE4C0, .data
+ULONG_PTR ExpSysDbgLock = 0x0000000000000000; // 0

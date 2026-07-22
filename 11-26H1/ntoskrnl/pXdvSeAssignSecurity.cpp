@@ -1,0 +1,2 @@
+// RVA 0xFF23B0, PAGEVRFD
+__int64 pXdvSeAssignSecurity = 0x0000000000000000; // 0

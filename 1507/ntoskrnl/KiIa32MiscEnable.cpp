@@ -1,0 +1,2 @@
+// RVA 0x3D1708, ALMOSTRO
+__int64 KiIa32MiscEnable = 0x0000000000000000; // 0

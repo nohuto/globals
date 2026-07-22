@@ -1,0 +1,2 @@
+// RVA 0x9C8718, PAGEVRFD
+__int64 pXdvZwLoadKey = 0x0000000000000000; // 0

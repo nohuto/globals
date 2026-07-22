@@ -1,0 +1,2 @@
+// RVA 0x987C00, PAGEVRFD
+__int64 pXdvKeAcquireSpinLockForDpc = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xF0FC40, .data
+ULONG_PTR KiTpStateLock = 0x0000000000000000; // 0

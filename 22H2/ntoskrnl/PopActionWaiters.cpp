@@ -1,0 +1,2 @@
+// RVA 0xC23240, .data
+__int64 PopActionWaiters = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0x586E0, .rdata
+// Symbol: ??_7VIDMM_SCHCLASS_IDLE@@6B@
+void *___7VIDMM_SCHCLASS_IDLE__6B_ = reinterpret_cast<decltype(___7VIDMM_SCHCLASS_IDLE__6B_)>(0x00000001400A4A90); // 5369383568

@@ -1,0 +1,2 @@
+// RVA 0x874570, PAGEVRFD
+__int64 pXdvKeRemoveQueueDpc = 0x0000000000000000; // 0

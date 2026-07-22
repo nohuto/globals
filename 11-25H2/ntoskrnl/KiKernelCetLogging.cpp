@@ -1,0 +1,2 @@
+// RVA 0xFC70A0, ALMOSTRO
+ULONG KiKernelCetLogging = 0x00000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xB9FF28, INIT
+__int64 CmpPhaseString = 0x00000000000C000A; // 786442

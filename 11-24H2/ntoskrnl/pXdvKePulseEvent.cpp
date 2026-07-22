@@ -1,0 +1,2 @@
+// RVA 0xFFDEF8, PAGEVRFD
+__int64 pXdvKePulseEvent = 0x0000000000000000; // 0

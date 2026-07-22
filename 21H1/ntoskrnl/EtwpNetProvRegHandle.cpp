@@ -1,0 +1,2 @@
+// RVA 0xC19B20, .data
+REGHANDLE EtwpNetProvRegHandle = 0x0000000000000000; // 0

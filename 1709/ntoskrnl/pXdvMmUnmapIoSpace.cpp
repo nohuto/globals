@@ -1,0 +1,2 @@
+// RVA 0x804490, PAGEVRFD
+__int64 pXdvMmUnmapIoSpace = 0x0000000000000000; // 0

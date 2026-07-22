@@ -1,0 +1,2 @@
+// RVA 0x2A3F50, .data
+int Feature_WebThreatDefenseToggle__private_featureState = 0x00000000; // 0

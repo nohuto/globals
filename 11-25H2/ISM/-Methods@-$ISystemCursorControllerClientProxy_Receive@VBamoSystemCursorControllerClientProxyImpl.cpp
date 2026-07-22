@@ -1,0 +1,3 @@
+// RVA 0x1DFF88, .rdata
+// Symbol: ?Methods@?$ISystemCursorControllerClientProxy_Receive@VBamoSystemCursorControllerClientProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+__int64 (__fastcall *_Methods___ISystemCursorControllerClientProxy_Receive_VBamoSystemCursorControllerClientProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___ISystemCursorControllerClientProxy_Receive_VBamoSystemCursorControllerClientProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180124DC0); // 6443650496

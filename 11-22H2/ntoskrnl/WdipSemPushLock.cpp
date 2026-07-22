@@ -1,0 +1,2 @@
+// RVA 0xC34EA0, .data
+ULONG_PTR WdipSemPushLock = 0x0000000000000000; // 0

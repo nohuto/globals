@@ -1,0 +1,2 @@
+// RVA 0xD58668, INITDATA
+__int64 BBTPagesToReserve = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x34C1A0, .data
+ULONG_PTR PopFxDeviceList = 0x0000000000000000; // 0

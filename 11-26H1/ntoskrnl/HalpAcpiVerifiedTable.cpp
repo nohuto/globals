@@ -1,0 +1,5 @@
+// RVA 0x13F00, .rdata
+// Type: char[5]
+unsigned char HalpAcpiVerifiedTable[0x5] = {
+    0x53, 0x4C, 0x49, 0x43
+};

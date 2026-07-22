@@ -1,0 +1,3 @@
+// RVA 0x1E8310, .rdata
+// Symbol: ??_7BamoActivationConfigurationInputObjectProxy@@6BIActivationConfigurationInputObjectProxy@@@
+void *___7BamoActivationConfigurationInputObjectProxy__6BIActivationConfigurationInputObjectProxy___ = reinterpret_cast<decltype(___7BamoActivationConfigurationInputObjectProxy__6BIActivationConfigurationInputObjectProxy___)>(0x0000000180050380); // 6442779520

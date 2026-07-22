@@ -1,0 +1,2 @@
+// RVA 0x7C5550, INITDATA
+size_t InitNlsTableSize = 0x0000000000000000; // 0

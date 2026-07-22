@@ -1,0 +1,2 @@
+// RVA 0xC14F40, .data
+REGHANDLE WheapEtwHandle = 0x0000000000000000; // 0

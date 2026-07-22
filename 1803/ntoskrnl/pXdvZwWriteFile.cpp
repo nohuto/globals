@@ -1,0 +1,2 @@
+// RVA 0x8749A0, PAGEVRFD
+__int64 pXdvZwWriteFile = 0x0000000000000000; // 0

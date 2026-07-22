@@ -1,0 +1,2 @@
+// RVA 0x3E4148, ALMOSTRO
+POBJECT_TYPE EtwpRegistrationObjectType = reinterpret_cast<decltype(EtwpRegistrationObjectType)>(0x0000000000000000); // 0

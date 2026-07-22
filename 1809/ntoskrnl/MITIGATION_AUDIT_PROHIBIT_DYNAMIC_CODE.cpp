@@ -1,0 +1,2 @@
+// RVA 0x358BB0, .rdata
+unsigned char MITIGATION_AUDIT_PROHIBIT_DYNAMIC_CODE = 0x01; // 1

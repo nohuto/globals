@@ -1,0 +1,2 @@
+// RVA 0x7F32D0, PAGEDATA
+__int64 g_qwSystemInitTime = 0x0000000000000000; // 0

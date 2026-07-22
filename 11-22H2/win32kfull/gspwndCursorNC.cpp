@@ -1,0 +1,2 @@
+// RVA 0x35E768, .data
+EPOINTFIX gspwndCursorNC = 0x0000000000000000; // 0

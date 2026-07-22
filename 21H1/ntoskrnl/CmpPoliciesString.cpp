@@ -1,0 +1,2 @@
+// RVA 0xA96998, INIT
+__int64 CmpPoliciesString = 0x0000000000120010; // 1179664

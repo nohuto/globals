@@ -1,0 +1,2 @@
+// RVA 0xCFC9B0, ALMOSTRO
+__int64 HvlpQueryNodeDistance = 0x0000000000000000; // 0

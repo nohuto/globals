@@ -1,0 +1,2 @@
+// RVA 0x572958, ALMOSTRO
+__int64 PspEnclaveDispatch = 0x0000000000000000; // 0

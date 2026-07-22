@@ -1,0 +1,2 @@
+// RVA 0x70BD30, PAGEVRFD
+__int64 (__usercall *pXdvFsRtlNotifyFilterChangeDirectory)@<rax>(PFAST_MUTEX FastMutex@<rcx>, BOOLEAN WatchTree, BOOLEAN IgnoreBuffer, ULONG CompletionFilter, PIRP NotifyIrp, PCHECK_FOR_TRAVERSE_ACCESS TraverseCallback, PSECURITY_SUBJECT_CONTEXT SubjectContext, PFILTER_REPORT_CHANGE FilterCallback) = reinterpret_cast<decltype(pXdvFsRtlNotifyFilterChangeDirectory)>(0x000000014048D310); // 5373481744

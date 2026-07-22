@@ -1,0 +1,2 @@
+// RVA 0xAB7120, PAGEVRFY
+__int64 VfRdbssServiceName = 0x00000000000C000A; // 786442

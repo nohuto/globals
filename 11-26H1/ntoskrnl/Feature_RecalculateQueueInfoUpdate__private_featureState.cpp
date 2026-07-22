@@ -1,0 +1,2 @@
+// RVA 0xFBE0B0, .data
+unsigned char Feature_RecalculateQueueInfoUpdate__private_featureState = 0x00; // 0

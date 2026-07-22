@@ -1,0 +1,2 @@
+// RVA 0x40003C, ALMOSTRO
+int KiDPCTimeout = 0x00004E20; // 20000

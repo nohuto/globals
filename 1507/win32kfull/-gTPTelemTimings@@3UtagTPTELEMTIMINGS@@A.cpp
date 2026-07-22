@@ -1,0 +1,3 @@
+// RVA 0x321BB0, .data
+// Symbol: ?gTPTelemTimings@@3UtagTPTELEMTIMINGS@@A
+struct tagTPTELEMTIMINGS _gTPTelemTimings__3UtagTPTELEMTIMINGS__A = 0x0000000000000000; // 0

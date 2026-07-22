@@ -1,0 +1,3 @@
+// RVA 0x250CE0, .data
+// Symbol: ?gpfnHidP_GetSpecificValueCaps@@3P6AJW4_HIDP_REPORT_TYPE@@GGGPEAU_HIDP_VALUE_CAPS@@PEAGPEAU_HIDP_PREPARSED_DATA@@@ZEA
+int (*_gpfnHidP_GetSpecificValueCaps__3P6AJW4_HIDP_REPORT_TYPE__GGGPEAU_HIDP_VALUE_CAPS__PEAGPEAU_HIDP_PREPARSED_DATA___ZEA)(enum _HIDP_REPORT_TYPE, unsigned __int16, unsigned __int16, unsigned __int16, struct _HIDP_VALUE_CAPS *, unsigned __int16 *, struct _HIDP_PREPARSED_DATA *) = reinterpret_cast<decltype(_gpfnHidP_GetSpecificValueCaps__3P6AJW4_HIDP_REPORT_TYPE__GGGPEAU_HIDP_VALUE_CAPS__PEAGPEAU_HIDP_PREPARSED_DATA___ZEA)>(0x0000000000000000); // 0

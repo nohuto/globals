@@ -1,0 +1,2 @@
+// RVA 0xD47BD0, PAGEVRFD
+__int64 pXdvZwOpenEnlistment = 0x0000000000000000; // 0

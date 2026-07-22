@@ -1,0 +1,2 @@
+// RVA 0xFF4008, PAGEVRFD
+unsigned char ViProtectBuffers = 0x01; // 1

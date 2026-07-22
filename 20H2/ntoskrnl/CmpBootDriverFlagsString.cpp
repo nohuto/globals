@@ -1,0 +1,2 @@
+// RVA 0xA9BD48, INIT
+__int64 CmpBootDriverFlagsString = 0x000000000020001E; // 2097182

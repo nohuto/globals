@@ -1,0 +1,2 @@
+// RVA 0x383170, ALMOSTRO
+__int64 KiPendingTimerBitmaps = 0x0000000000000000; // 0

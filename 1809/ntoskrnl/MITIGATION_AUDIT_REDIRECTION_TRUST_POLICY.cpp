@@ -1,0 +1,2 @@
+// RVA 0x35B720, .rdata
+unsigned char MITIGATION_AUDIT_REDIRECTION_TRUST_POLICY = 0x1F; // 31

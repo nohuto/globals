@@ -1,0 +1,2 @@
+// RVA 0x395440, CACHEALI
+__int64 KeNodeBlock = 0x0000000000000000; // 0

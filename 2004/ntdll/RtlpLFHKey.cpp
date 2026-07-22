@@ -1,0 +1,2 @@
+// RVA 0x16B750, .data
+__int64 RtlpLFHKey = 0x0000000000000000; // 0

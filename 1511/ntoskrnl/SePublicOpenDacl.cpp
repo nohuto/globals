@@ -1,0 +1,2 @@
+// RVA 0x6FBC18, PAGEDATA
+PACL SePublicOpenDacl = reinterpret_cast<decltype(SePublicOpenDacl)>(0x0000000000000000); // 0

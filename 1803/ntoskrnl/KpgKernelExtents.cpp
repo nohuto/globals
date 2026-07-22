@@ -1,0 +1,2 @@
+// RVA 0x8F2568, INITDATA
+__int64 KpgKernelExtents = 0x0000000000000000; // 0

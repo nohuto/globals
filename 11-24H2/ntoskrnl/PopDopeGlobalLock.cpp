@@ -1,0 +1,2 @@
+// RVA 0xF0B550, .data
+KSPIN_LOCK PopDopeGlobalLock = 0x0000000000000000; // 0

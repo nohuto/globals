@@ -1,0 +1,5 @@
+// RVA 0x2A140, .rdata
+// Type: const char[]
+unsigned char HalpSzNoBiosEmulator[0x6] = {
+    0x4E, 0x4F, 0x56, 0x47, 0x41
+};

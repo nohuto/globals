@@ -1,0 +1,2 @@
+// RVA 0x3A9A80, .data
+REGHANDLE PopBatteryEtwHandle = 0x0000000000000000; // 0

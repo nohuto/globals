@@ -1,0 +1,2 @@
+// RVA 0xFD9D08, PAGEDATA
+__int64 PpDDBPatchHandle = 0x0000000000000000; // 0

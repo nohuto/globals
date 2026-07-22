@@ -1,0 +1,2 @@
+// RVA 0x3AA728, .data
+KSPIN_LOCK PopIrpSerialLock = 0x0000000000000000; // 0

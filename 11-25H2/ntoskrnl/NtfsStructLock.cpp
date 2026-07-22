@@ -1,0 +1,2 @@
+// RVA 0xFCE600, CACHEALI
+__int64 NtfsStructLock = 0x0000000000000000; // 0

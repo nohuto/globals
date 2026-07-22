@@ -1,0 +1,3 @@
+// RVA 0xA8CA8, .rdata
+// Symbol: ??_7MPCInputRouter@@6BISystemInputRouter@@@
+void *___7MPCInputRouter__6BISystemInputRouter___ = reinterpret_cast<decltype(___7MPCInputRouter__6BISystemInputRouter___)>(0x0000000180084340); // 6442992448

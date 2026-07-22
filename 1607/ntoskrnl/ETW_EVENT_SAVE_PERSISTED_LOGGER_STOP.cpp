@@ -1,0 +1,2 @@
+// RVA 0x2805C8, .rdata
+unsigned char ETW_EVENT_SAVE_PERSISTED_LOGGER_STOP = 0x16; // 22

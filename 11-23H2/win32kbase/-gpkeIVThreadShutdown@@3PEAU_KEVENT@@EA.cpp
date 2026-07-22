@@ -1,0 +1,3 @@
+// RVA 0x28F558, .data
+// Symbol: ?gpkeIVThreadShutdown@@3PEAU_KEVENT@@EA
+PRKEVENT _gpkeIVThreadShutdown__3PEAU_KEVENT__EA = reinterpret_cast<decltype(_gpkeIVThreadShutdown__3PEAU_KEVENT__EA)>(0x0000000000000000); // 0

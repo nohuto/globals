@@ -1,0 +1,2 @@
+// RVA 0x1F660, .rdata
+__int64 PopCompressMethodMap = 0x0104000401030003; // 73183511141613571

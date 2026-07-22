@@ -1,0 +1,2 @@
+// RVA 0xD47C70, PAGEVRFD
+__int64 pXdvCcWaitForCurrentLazyWriterActivity = 0x0000000000000000; // 0

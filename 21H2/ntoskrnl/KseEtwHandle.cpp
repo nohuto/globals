@@ -1,0 +1,2 @@
+// RVA 0xCF4668, .data
+REGHANDLE KseEtwHandle = 0x0000000000000000; // 0

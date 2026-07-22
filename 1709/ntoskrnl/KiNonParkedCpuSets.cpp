@@ -1,0 +1,2 @@
+// RVA 0x4021E0, ALMOSTRO
+__int64 KiNonParkedCpuSets = 0x0000000000000000; // 0

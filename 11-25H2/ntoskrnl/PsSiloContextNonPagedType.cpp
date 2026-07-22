@@ -1,0 +1,2 @@
+// RVA 0xFD8EA8, PAGEDATA
+__int64 PsSiloContextNonPagedType = 0x0000000000000000; // 0

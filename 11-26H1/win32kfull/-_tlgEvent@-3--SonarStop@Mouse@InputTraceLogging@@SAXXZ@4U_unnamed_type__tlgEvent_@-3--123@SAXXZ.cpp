@@ -1,0 +1,3 @@
+// RVA 0x36D600, .rdata
+// Symbol: ?_tlgEvent@?3??SonarStop@Mouse@InputTraceLogging@@SAXXZ@4U_unnamed_type__tlgEvent_@?3??123@SAXXZ@B
+unsigned char __tlgEvent__3__SonarStop_Mouse_InputTraceLogging__SAXXZ_4U_unnamed_type__tlgEvent___3__123_SAXXZ_B = 0x06; // 6

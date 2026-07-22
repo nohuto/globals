@@ -1,0 +1,3 @@
+// RVA 0xA4C40, .rdata
+// Symbol: ??_7?$DoublyLinkedList@UCCD_MODE_RESULT_SEGMENT@CCD_MODE_RESULT_SET@@U?$DoublyLinkedListElementPlainDeleter@UCCD_MODE_RESULT_SEGMENT@CCD_MODE_RESULT_SET@@@@@@6B@
+void *___7__DoublyLinkedList_UCCD_MODE_RESULT_SEGMENT_CCD_MODE_RESULT_SET__U__DoublyLinkedListElementPlainDeleter_UCCD_MODE_RESULT_SEGMENT_CCD_MODE_RESULT_SET______6B_ = reinterpret_cast<decltype(___7__DoublyLinkedList_UCCD_MODE_RESULT_SEGMENT_CCD_MODE_RESULT_SET__U__DoublyLinkedListElementPlainDeleter_UCCD_MODE_RESULT_SEGMENT_CCD_MODE_RESULT_SET______6B_)>(0x000000014004D430); // 5369025584

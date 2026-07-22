@@ -1,0 +1,3 @@
+// RVA 0x1AE810, .rdata
+// Symbol: ?Methods@?$IActivationControllerProxy_Receive@VBamoActivationControllerProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+_UNKNOWN *_Methods___IActivationControllerProxy_Receive_VBamoActivationControllerProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B = reinterpret_cast<decltype(_Methods___IActivationControllerProxy_Receive_VBamoActivationControllerProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180011980); // 6442523008

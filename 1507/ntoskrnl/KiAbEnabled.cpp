@@ -1,0 +1,2 @@
+// RVA 0x3D1354, ALMOSTRO
+int KiAbEnabled = 0x00000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x7F9A90, PAGE
+__int64 PspDefaultSiloName = 0x0000000000160014; // 1441812

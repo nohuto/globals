@@ -1,0 +1,3 @@
+// RVA 0x92070, .data
+// Symbol: ?ndisStackTraces@@3U_NDIS_STACK_TRACE_TABLE@@A
+KSPIN_LOCK _ndisStackTraces__3U_NDIS_STACK_TRACE_TABLE__A = 0x0000000000000000; // 0

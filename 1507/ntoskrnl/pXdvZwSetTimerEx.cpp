@@ -1,0 +1,2 @@
+// RVA 0x78F358, PAGEVRFD
+unsigned long long pXdvZwSetTimerEx = 0x0000000140182250; // 5370290768

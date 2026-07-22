@@ -1,0 +1,2 @@
+// RVA 0xF046C0, .data
+KSPIN_LOCK ViIrpLogDatabaseLock = 0x0000000000000000; // 0

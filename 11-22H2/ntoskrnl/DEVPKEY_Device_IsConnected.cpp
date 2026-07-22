@@ -1,0 +1,2 @@
+// RVA 0xE6D8, .rdata
+__int64 DEVPKEY_Device_IsConnected = 0x408897A683DA6326; // 4650133356692529958

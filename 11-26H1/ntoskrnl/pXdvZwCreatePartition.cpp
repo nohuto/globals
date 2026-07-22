@@ -1,0 +1,2 @@
+// RVA 0xFF27E0, PAGEVRFD
+__int64 pXdvZwCreatePartition = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xFC5BE0, ALMOSTRO
+__int64 PpmHeteroCapability = 0x0000000000000000; // 0

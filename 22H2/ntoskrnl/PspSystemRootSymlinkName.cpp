@@ -1,0 +1,2 @@
+// RVA 0x984238, PAGE
+__int64 PspSystemRootSymlinkName = 0x0000000000180016; // 1572886

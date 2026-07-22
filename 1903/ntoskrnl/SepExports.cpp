@@ -1,0 +1,2 @@
+// RVA 0x9AEC10, PAGEDATA
+__int64 SepExports = 0x0000000000000000; // 0

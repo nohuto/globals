@@ -1,0 +1,2 @@
+// RVA 0xCFC960, ALMOSTRO
+__int64 PspDamExtensionHost = 0x0000000000000000; // 0

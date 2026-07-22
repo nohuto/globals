@@ -1,0 +1,2 @@
+// RVA 0x3E31F0, ALMOSTRO
+int PopApicMode = 0x00000004; // 4

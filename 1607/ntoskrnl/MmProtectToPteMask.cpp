@@ -1,0 +1,2 @@
+// RVA 0x3A9340, ALMOSTRO
+__int64 MmProtectToPteMask = 0x0000000000000000; // 0

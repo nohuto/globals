@@ -1,0 +1,2 @@
+// RVA 0xFF26E0, PAGEVRFD
+__int64 pXdvZwCreateProcessEx = 0x0000000000000000; // 0

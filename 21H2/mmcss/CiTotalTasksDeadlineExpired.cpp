@@ -1,0 +1,2 @@
+// RVA 0x727C, .data
+int CiTotalTasksDeadlineExpired = 0x00000000; // 0

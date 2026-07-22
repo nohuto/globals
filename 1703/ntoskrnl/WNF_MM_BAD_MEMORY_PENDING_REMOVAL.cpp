@@ -1,0 +1,2 @@
+// RVA 0x2B0428, .rdata
+unsigned char WNF_MM_BAD_MEMORY_PENDING_REMOVAL = 0x75; // 117

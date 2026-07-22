@@ -1,0 +1,2 @@
+// RVA 0xC207B8, .data
+ULONG_PTR PopBlackBoxLock = 0x0000000000000000; // 0

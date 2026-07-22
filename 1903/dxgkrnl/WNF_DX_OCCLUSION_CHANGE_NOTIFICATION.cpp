@@ -1,0 +1,2 @@
+// RVA 0x6E070, .rdata
+unsigned char WNF_DX_OCCLUSION_CHANGE_NOTIFICATION = 0x35; // 53

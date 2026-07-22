@@ -1,0 +1,2 @@
+// RVA 0xA97A50, INIT
+__int64 EmptyValue = 0x0000000000000000; // 0

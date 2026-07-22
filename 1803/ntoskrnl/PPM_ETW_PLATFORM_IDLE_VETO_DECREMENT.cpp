@@ -1,0 +1,2 @@
+// RVA 0x30FA20, .rdata
+unsigned char PPM_ETW_PLATFORM_IDLE_VETO_DECREMENT = 0x54; // 84

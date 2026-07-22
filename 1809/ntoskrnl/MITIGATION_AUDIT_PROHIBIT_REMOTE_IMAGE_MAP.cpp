@@ -1,0 +1,2 @@
+// RVA 0x376340, .rdata
+unsigned char MITIGATION_AUDIT_PROHIBIT_REMOTE_IMAGE_MAP = 0x07; // 7

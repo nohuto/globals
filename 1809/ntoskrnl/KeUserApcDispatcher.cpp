@@ -1,0 +1,2 @@
+// RVA 0x5428E8, ALMOSTRO
+__int64 KeUserApcDispatcher = 0x0000000000000000; // 0

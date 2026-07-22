@@ -1,0 +1,2 @@
+// RVA 0xD56190, INITDATA
+__int64 HalpDefaultPcIoSpace = 0x0000000000000000; // 0

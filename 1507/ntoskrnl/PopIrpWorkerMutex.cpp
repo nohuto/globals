@@ -1,0 +1,2 @@
+// RVA 0x32D5E0, .data
+ULONG_PTR PopIrpWorkerMutex = 0x0000000000000000; // 0

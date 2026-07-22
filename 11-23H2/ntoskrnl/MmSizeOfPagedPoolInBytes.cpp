@@ -1,0 +1,2 @@
+// RVA 0xD1EE28, ALMOSTRO
+__int64 MmSizeOfPagedPoolInBytes = 0x0000000000000000; // 0

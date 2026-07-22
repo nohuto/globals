@@ -1,0 +1,3 @@
+// RVA 0x1B0170, .rdata
+// Symbol: ?Methods@?$ISystemCursorControllerPrincipal_Receive@VBamoSystemCursorControllerPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+__int64 (__fastcall *_Methods___ISystemCursorControllerPrincipal_Receive_VBamoSystemCursorControllerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___ISystemCursorControllerPrincipal_Receive_VBamoSystemCursorControllerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x000000018013D980); // 6443751808

@@ -1,0 +1,3 @@
+// RVA 0x179298, .rdata
+// Symbol: ??_7?$RuntimeClass@U?$IIterator@PEAUHSTRING__@@@Collections@Foundation@Windows@@@WRL@Microsoft@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$00@WRL@Microsoft@@$00UIWeakReferenceSource@@@Details@12@@
+void *___7__RuntimeClass_U__IIterator_PEAUHSTRING_____Collections_Foundation_Windows___WRL_Microsoft__6B__ImplementsHelper_U__RuntimeClassFlags__00_WRL_Microsoft___00UIWeakReferenceSource___Details_12__ = reinterpret_cast<decltype(___7__RuntimeClass_U__IIterator_PEAUHSTRING_____Collections_Foundation_Windows___WRL_Microsoft__6B__ImplementsHelper_U__RuntimeClassFlags__00_WRL_Microsoft___00UIWeakReferenceSource___Details_12__)>(0x0000000180039C50); // 6442687568

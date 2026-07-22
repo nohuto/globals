@@ -1,0 +1,2 @@
+// RVA 0x763020, PAGEVRFB
+__int64 VfBugcheckTmpDataLock = 0x0000000000000000; // 0

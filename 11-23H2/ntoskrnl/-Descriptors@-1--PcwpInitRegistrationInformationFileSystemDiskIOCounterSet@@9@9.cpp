@@ -1,0 +1,7 @@
+// RVA 0x3B700, .rdata
+// Symbol: ?Descriptors@?1??PcwpInitRegistrationInformationFileSystemDiskIOCounterSet@@9@9
+// Type: __int64[2]
+unsigned char _Descriptors__1__PcwpInitRegistrationInformationFileSystemDiskIOCounterSet__9_9[0x10] = {
+    0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x08, 0x00, 0x01, 0x00, 0x00, 0x00,
+    0x08, 0x00, 0x08
+};

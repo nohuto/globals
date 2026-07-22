@@ -1,0 +1,2 @@
+// RVA 0x327A70, .data
+REGHANDLE EtwKernelProvRegHandle = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xFF2480, PAGEVRFD
+__int64 pXdvNtOpenProcessToken = 0x0000000000000000; // 0

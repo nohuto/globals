@@ -1,0 +1,2 @@
+// RVA 0xD70698, PAGEVRFD
+__int64 pXdvIoAcquireRemoveLockEx = 0x0000000000000000; // 0

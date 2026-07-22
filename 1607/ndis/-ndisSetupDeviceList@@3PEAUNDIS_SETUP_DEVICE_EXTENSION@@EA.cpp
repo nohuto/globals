@@ -1,0 +1,3 @@
+// RVA 0x8AFB8, .data
+// Symbol: ?ndisSetupDeviceList@@3PEAUNDIS_SETUP_DEVICE_EXTENSION@@EA
+struct NDIS_SETUP_DEVICE_EXTENSION *_ndisSetupDeviceList__3PEAUNDIS_SETUP_DEVICE_EXTENSION__EA = reinterpret_cast<decltype(_ndisSetupDeviceList__3PEAUNDIS_SETUP_DEVICE_EXTENSION__EA)>(0x0000000000000000); // 0

@@ -1,0 +1,3 @@
+// RVA 0x20A434, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlnklmvmghUrmkfghrgvnzmztviUhvieviUlyquivUznwGEUkxsOlyq@InputSiteManagerServer
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlnklmvmghUrmkfghrgvnzmztviUhvieviUlyquivUznwGEUkxsOlyq_InputSiteManagerServer = 0x00; // 0

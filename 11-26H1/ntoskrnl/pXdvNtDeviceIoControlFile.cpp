@@ -1,0 +1,2 @@
+// RVA 0xFF2568, PAGEVRFD
+__int64 pXdvNtDeviceIoControlFile = 0x0000000000000000; // 0

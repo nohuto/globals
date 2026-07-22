@@ -1,0 +1,3 @@
+// RVA 0xD7470, .rdata
+// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIInputDeliveryServer@@UIInputQueueHost@@UIInputServiceProxyOwner@@UIRemoteInputDelivery@@UIInputFocusListener@@@WRL@Microsoft@@6BIInputQueueHost@@@
+void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIInputDeliveryServer__UIInputQueueHost__UIInputServiceProxyOwner__UIRemoteInputDelivery__UIInputFocusListener___WRL_Microsoft__6BIInputQueueHost___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIInputDeliveryServer__UIInputQueueHost__UIInputServiceProxyOwner__UIRemoteInputDelivery__UIInputFocusListener___WRL_Microsoft__6BIInputQueueHost___)>(0x00000001800816A0); // 6442981024

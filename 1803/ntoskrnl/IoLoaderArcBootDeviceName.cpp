@@ -1,0 +1,2 @@
+// RVA 0x862908, PAGEDATA
+__int64 IoLoaderArcBootDeviceName = 0x0000000000000000; // 0

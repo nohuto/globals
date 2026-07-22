@@ -1,0 +1,2 @@
+// RVA 0x9AEE50, PAGEDATA
+__int64 PspShutdownThread = 0x0000000000000000; // 0

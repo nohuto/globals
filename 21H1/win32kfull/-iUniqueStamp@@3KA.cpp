@@ -1,0 +1,3 @@
+// RVA 0x263854, .data
+// Symbol: ?iUniqueStamp@@3KA
+unsigned int _iUniqueStamp__3KA = 0x00000000; // 0

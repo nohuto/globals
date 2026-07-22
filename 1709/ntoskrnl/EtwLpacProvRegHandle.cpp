@@ -1,0 +1,2 @@
+// RVA 0x35E780, .data
+REGHANDLE EtwLpacProvRegHandle = 0x0000000000000000; // 0

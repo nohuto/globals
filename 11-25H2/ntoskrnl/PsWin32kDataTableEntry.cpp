@@ -1,0 +1,2 @@
+// RVA 0xF055C0, .data
+ULONG_PTR PsWin32kDataTableEntry = 0x0000000000000000; // 0

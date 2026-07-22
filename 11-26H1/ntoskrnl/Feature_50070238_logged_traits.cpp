@@ -1,0 +1,5 @@
+// RVA 0x432E0, .rdata
+// Type: __int64[2]
+unsigned char Feature_50070238_logged_traits[0x10] = {
+    0x00, 0x00, 0x00, 0x00, 0x02
+};

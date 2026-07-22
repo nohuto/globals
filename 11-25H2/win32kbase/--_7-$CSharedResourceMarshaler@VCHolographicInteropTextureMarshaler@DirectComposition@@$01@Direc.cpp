@@ -1,0 +1,3 @@
+// RVA 0x259250, .rdata
+// Symbol: ??_7?$CSharedResourceMarshaler@VCHolographicInteropTextureMarshaler@DirectComposition@@$01@DirectComposition@@6B@
+void *___7__CSharedResourceMarshaler_VCHolographicInteropTextureMarshaler_DirectComposition___01_DirectComposition__6B_ = reinterpret_cast<decltype(___7__CSharedResourceMarshaler_VCHolographicInteropTextureMarshaler_DirectComposition___01_DirectComposition__6B_)>(0x0000000140115490); // 5369844880

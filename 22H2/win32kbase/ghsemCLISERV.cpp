@@ -1,0 +1,2 @@
+// RVA 0x24EBE0, .data
+__int64 ghsemCLISERV = 0x0000000000000000; // 0

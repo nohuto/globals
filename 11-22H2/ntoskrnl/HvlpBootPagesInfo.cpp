@@ -1,0 +1,2 @@
+// RVA 0xC5F500, .data
+ULONG_PTR HvlpBootPagesInfo = 0x0000000000000000; // 0

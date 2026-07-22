@@ -1,0 +1,2 @@
+// RVA 0x10087A0, INITDATA
+__int64 EtwBootPerfData = 0x0000000000000000; // 0

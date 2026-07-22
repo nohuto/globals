@@ -1,0 +1,2 @@
+// RVA 0xA7C30, .rdata
+_UNKNOWN **Feature_Dispdiag_AdvancedColorDiagnosticsLockInversionFix__private_requiresFeatures = reinterpret_cast<decltype(Feature_Dispdiag_AdvancedColorDiagnosticsLockInversionFix__private_requiresFeatures)>(0x000000014015E048); // 5370142792

@@ -1,0 +1,2 @@
+// RVA 0xFF28D0, PAGEVRFD
+__int64 pXdvZwLockVirtualMemory = 0x0000000000000000; // 0

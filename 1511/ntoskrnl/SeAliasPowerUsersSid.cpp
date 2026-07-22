@@ -1,0 +1,2 @@
+// RVA 0x6FBC88, PAGEDATA
+__int64 SeAliasPowerUsersSid = 0x0000000000000000; // 0

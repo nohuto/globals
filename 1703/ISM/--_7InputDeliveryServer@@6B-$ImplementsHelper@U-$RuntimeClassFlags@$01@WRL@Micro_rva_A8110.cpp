@@ -1,0 +1,3 @@
+// RVA 0xA8110, .rdata
+// Symbol: ??_7InputDeliveryServer@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@U?$InterfaceList@UIRemoteInputDelivery@@VNil@Details@WRL@Microsoft@@@Details@23@$00$0A@@Details@WRL@Microsoft@@@
+void *___7InputDeliveryServer__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft__U__InterfaceList_UIRemoteInputDelivery__VNil_Details_WRL_Microsoft___Details_23__00_0A__Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7InputDeliveryServer__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft__U__InterfaceList_UIRemoteInputDelivery__VNil_Details_WRL_Microsoft___Details_23__00_0A__Details_WRL_Microsoft___)>(0x000000018006B770); // 6442891120

@@ -1,0 +1,2 @@
+// RVA 0x2D60C8, .data
+ULONG_PTR ExWorkerQueue = 0x0000000000000000; // 0

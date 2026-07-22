@@ -1,0 +1,2 @@
+// RVA 0x2DE860, .data
+ULONG_PTR PopFanLock = 0x0000000000000000; // 0

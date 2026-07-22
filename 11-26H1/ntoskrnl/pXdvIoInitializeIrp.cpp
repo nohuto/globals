@@ -1,0 +1,2 @@
+// RVA 0xFF2030, PAGEVRFD
+__int64 pXdvIoInitializeIrp = 0x0000000000000000; // 0

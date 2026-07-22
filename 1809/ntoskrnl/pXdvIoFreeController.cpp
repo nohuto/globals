@@ -1,0 +1,2 @@
+// RVA 0x987A80, PAGEVRFD
+__int64 pXdvIoFreeController = 0x0000000000000000; // 0

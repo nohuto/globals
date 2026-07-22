@@ -1,0 +1,2 @@
+// RVA 0x38221C, ALMOSTRO
+ULONG KeMaximumIncrement = 0x00000000; // 0

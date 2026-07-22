@@ -1,0 +1,2 @@
+// RVA 0x1202AC0, CFGRO
+__int64 KiTrapFeatures = 0x0000000000000000; // 0

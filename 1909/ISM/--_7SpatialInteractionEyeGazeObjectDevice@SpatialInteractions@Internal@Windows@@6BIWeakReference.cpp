@@ -1,0 +1,3 @@
+// RVA 0x170510, .rdata
+// Symbol: ??_7SpatialInteractionEyeGazeObjectDevice@SpatialInteractions@Internal@Windows@@6BIWeakReferenceSource@@@
+void *___7SpatialInteractionEyeGazeObjectDevice_SpatialInteractions_Internal_Windows__6BIWeakReferenceSource___ = reinterpret_cast<decltype(___7SpatialInteractionEyeGazeObjectDevice_SpatialInteractions_Internal_Windows__6BIWeakReferenceSource___)>(0x0000000180038EC0); // 6442684096

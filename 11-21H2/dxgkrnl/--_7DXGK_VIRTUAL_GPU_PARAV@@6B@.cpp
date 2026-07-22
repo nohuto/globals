@@ -1,0 +1,3 @@
+// RVA 0x870A0, .rdata
+// Symbol: ??_7DXGK_VIRTUAL_GPU_PARAV@@6B@
+void *___7DXGK_VIRTUAL_GPU_PARAV__6B_ = reinterpret_cast<decltype(___7DXGK_VIRTUAL_GPU_PARAV__6B_)>(0x00000001C005C3B0); // 7516570544

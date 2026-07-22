@@ -1,0 +1,2 @@
+// RVA 0xFCE5C0, CACHEALI
+__int64 IopVpbSpinLock = 0x0000000000000000; // 0

@@ -1,0 +1,7 @@
+// RVA 0x1C45D8, .rdata
+// Symbol: ?ProtocolId@?1??GetProtocolId@BamoConnection@ISMBamos_AutoBamos@@EEBAAEBU_GUID@@XZ@4U4@B
+// Type: GUID
+unsigned char _ProtocolId__1__GetProtocolId_BamoConnection_ISMBamos_AutoBamos__EEBAAEBU_GUID__XZ_4U4_B[0x10] = {
+    0x68, 0xE9, 0x58, 0xAF, 0x55, 0x13, 0xDA, 0x84, 0xA9, 0x67, 0xE6, 0x74,
+    0x08, 0xE3, 0xDF, 0xDD
+};

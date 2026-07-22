@@ -1,0 +1,2 @@
+// RVA 0x376A90, .rdata
+unsigned char POP_ETW_EVENT_DEVICESSUSPENDLEVEL = 0x7E; // 126

@@ -1,0 +1,2 @@
+// RVA 0x3A2138, .data
+ULONG_PTR EtwpSecurityLock = 0x0000000000000000; // 0

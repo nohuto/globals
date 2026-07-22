@@ -1,0 +1,2 @@
+// RVA 0xC2A8B8, .data
+ULONG_PTR AlpcpLogLock = 0x0000000000000000; // 0

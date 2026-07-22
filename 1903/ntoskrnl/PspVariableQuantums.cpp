@@ -1,0 +1,2 @@
+// RVA 0x947348, PAGE
+__int64 PspVariableQuantums = 0x000024180C120C06; // 39685700324358

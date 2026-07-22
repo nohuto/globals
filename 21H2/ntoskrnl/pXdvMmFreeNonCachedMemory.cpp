@@ -1,0 +1,2 @@
+// RVA 0xD4A560, PAGEVRFD
+__int64 pXdvMmFreeNonCachedMemory = 0x0000000000000000; // 0

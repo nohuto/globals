@@ -1,0 +1,2 @@
+// RVA 0xD2EB90, PAGEDATA
+__int64 SeAnonymousLogonToken = 0x0000000000000000; // 0

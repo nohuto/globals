@@ -1,0 +1,2 @@
+// RVA 0x39C690, .data
+unsigned char Feature_PerfImpTest__private_featureState = 0x00; // 0

@@ -1,0 +1,2 @@
+// RVA 0xD2BA8, .rdata
+const NDIS_PARAMETER_TYPE WPP_ce88abd507b4341f7f3e7e732f33c3be_Traceguids = 0xCE88ABD5; // -829903915

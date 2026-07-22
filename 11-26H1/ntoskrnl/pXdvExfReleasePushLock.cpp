@@ -1,0 +1,2 @@
+// RVA 0xFF13D0, PAGEVRFD
+__int64 pXdvExfReleasePushLock = 0x0000000000000000; // 0

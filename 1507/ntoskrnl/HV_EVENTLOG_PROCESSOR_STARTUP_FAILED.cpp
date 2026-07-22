@@ -1,0 +1,2 @@
+// RVA 0x2A6FC8, .rdata
+unsigned char HV_EVENTLOG_PROCESSOR_STARTUP_FAILED = 0x60; // 96

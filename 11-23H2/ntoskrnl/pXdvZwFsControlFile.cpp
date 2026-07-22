@@ -1,0 +1,2 @@
+// RVA 0xD70CB8, PAGEVRFD
+__int64 pXdvZwFsControlFile = 0x0000000000000000; // 0

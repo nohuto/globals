@@ -1,0 +1,2 @@
+// RVA 0xD48220, PAGEVRFD
+__int64 pXdvMmCreateMirror = 0x0000000000000000; // 0

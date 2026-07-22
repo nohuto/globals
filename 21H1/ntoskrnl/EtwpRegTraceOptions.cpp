@@ -1,0 +1,2 @@
+// RVA 0xD2C0E0, PAGEDATA
+__int64 EtwpRegTraceOptions = 0x0000000000000000; // 0

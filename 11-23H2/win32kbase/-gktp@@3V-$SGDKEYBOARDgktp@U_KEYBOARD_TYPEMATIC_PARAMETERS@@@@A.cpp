@@ -1,0 +1,3 @@
+// RVA 0x28EFA0, .data
+// Symbol: ?gktp@@3V?$SGDKEYBOARDgktp@U_KEYBOARD_TYPEMATIC_PARAMETERS@@@@A
+unsigned char _gktp__3V__SGDKEYBOARDgktp_U_KEYBOARD_TYPEMATIC_PARAMETERS____A = 0x00; // 0

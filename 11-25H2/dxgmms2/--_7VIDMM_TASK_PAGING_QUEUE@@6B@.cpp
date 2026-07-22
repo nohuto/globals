@@ -1,0 +1,3 @@
+// RVA 0x58180, .rdata
+// Symbol: ??_7VIDMM_TASK_PAGING_QUEUE@@6B@
+void *___7VIDMM_TASK_PAGING_QUEUE__6B_ = reinterpret_cast<decltype(___7VIDMM_TASK_PAGING_QUEUE__6B_)>(0x000000014009EEF0); // 5369360112

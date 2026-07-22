@@ -1,0 +1,2 @@
+// RVA 0x70B508, PAGEVRFD
+unsigned long long pXdvKfRaiseIrql = 0x0000000140079D90; // 5369208208

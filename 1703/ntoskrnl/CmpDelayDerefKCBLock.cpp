@@ -1,0 +1,2 @@
+// RVA 0x36B0C0, .data
+ULONG_PTR CmpDelayDerefKCBLock = 0x0000000000000000; // 0

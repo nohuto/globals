@@ -1,0 +1,2 @@
+// RVA 0xFF2810, PAGEVRFD
+__int64 pXdvZwCreateWnfStateName = 0x0000000000000000; // 0

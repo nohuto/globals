@@ -1,0 +1,2 @@
+// RVA 0xA0B638, INITDATA
+__int64 MxBootDescriptorAnyNode = 0x0000000000000000; // 0

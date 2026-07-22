@@ -1,0 +1,2 @@
+// RVA 0x5423A8, ALMOSTRO
+__int64 MmPfnDatabase = 0x0000000000000000; // 0

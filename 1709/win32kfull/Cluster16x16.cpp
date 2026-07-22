@@ -1,0 +1,2 @@
+// RVA 0x2E3540, .rdata
+unsigned char Cluster16x16 = 0x5D; // 93

@@ -1,0 +1,2 @@
+// RVA 0x290B20, .rdata
+unsigned char POP_ETW_EVENT_DEVICE_POWER_REQUIREMENT_FROM_PEP = 0x3D; // 61

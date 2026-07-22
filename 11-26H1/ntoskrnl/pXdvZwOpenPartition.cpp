@@ -1,0 +1,2 @@
+// RVA 0xFF27D8, PAGEVRFD
+__int64 pXdvZwOpenPartition = 0x0000000000000000; // 0

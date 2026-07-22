@@ -1,0 +1,3 @@
+// RVA 0x25A880, .rdata
+// Symbol: ?Methods@?$IRegistrarClient_Receive@URegistrarClientThunk@CoreMessagingK@@@Registrar@CoreUI@Microsoft@@2QBUMsgCallMethodDefinition@@B
+void (__fastcall __noreturn *_Methods___IRegistrarClient_Receive_URegistrarClientThunk_CoreMessagingK___Registrar_CoreUI_Microsoft__2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IRegistrarClient_Receive_URegistrarClientThunk_CoreMessagingK___Registrar_CoreUI_Microsoft__2QBUMsgCallMethodDefinition__B)>(0x0000000140249B50); // 5371108176

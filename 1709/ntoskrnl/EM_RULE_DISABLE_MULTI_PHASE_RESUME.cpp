@@ -1,0 +1,2 @@
+// RVA 0x2D7C78, .rdata
+unsigned char EM_RULE_DISABLE_MULTI_PHASE_RESUME = 0xD3; // 211

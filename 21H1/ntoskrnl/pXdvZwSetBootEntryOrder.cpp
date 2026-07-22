@@ -1,0 +1,2 @@
+// RVA 0xD47A58, PAGEVRFD
+__int64 pXdvZwSetBootEntryOrder = 0x0000000000000000; // 0

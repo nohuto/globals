@@ -1,0 +1,2 @@
+// RVA 0xF851D0, .data
+int IopPerfDriverUniqueMatchId = 0x00000000; // 0

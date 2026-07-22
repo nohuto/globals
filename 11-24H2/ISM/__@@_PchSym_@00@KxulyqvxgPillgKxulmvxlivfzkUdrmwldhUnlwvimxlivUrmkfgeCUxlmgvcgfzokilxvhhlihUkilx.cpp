@@ -1,0 +1,3 @@
+// RVA 0x257698, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlmgvcgfzokilxvhhlihUkilxvhhlihUwvovtzgvwrmpxzmezhUoryUlyquivUznwGEUkxsOlyq@DelegatedInkCanvasProcessor
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlmgvcgfzokilxvhhlihUkilxvhhlihUwvovtzgvwrmpxzmezhUoryUlyquivUznwGEUkxsOlyq_DelegatedInkCanvasProcessor = 0x00; // 0

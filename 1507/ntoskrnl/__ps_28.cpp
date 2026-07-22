@@ -1,0 +1,5 @@
+// RVA 0x79A148, INIT
+// Type: char[4]
+unsigned char __ps_28[0x4] = {
+    0xA8, 0xFF, 0xFF, 0xFF
+};

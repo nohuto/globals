@@ -1,0 +1,2 @@
+// RVA 0xD1EE68, ALMOSTRO
+__int64 PsCpuPartitionType = 0x0000000000000000; // 0

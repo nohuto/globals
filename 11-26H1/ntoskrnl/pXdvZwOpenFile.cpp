@@ -1,0 +1,2 @@
+// RVA 0xFF1758, PAGEVRFD
+__int64 pXdvZwOpenFile = 0x0000000000000000; // 0

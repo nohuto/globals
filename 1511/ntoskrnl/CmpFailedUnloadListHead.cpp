@@ -1,0 +1,2 @@
+// RVA 0x6FC000, PAGEDATA
+__int64 CmpFailedUnloadListHead = 0x0000000000000000; // 0

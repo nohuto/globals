@@ -1,0 +1,3 @@
+// RVA 0x1E1F70, .rdata
+// Symbol: ??_7?$ListPrincipal@UDisplayOcclusionRect@@@ISMBamos_AutoBamos@Lib@Bamo@Microsoft@@6BIList_DisplayOcclusionRect_Principal@1234@@
+void *___7__ListPrincipal_UDisplayOcclusionRect___ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_DisplayOcclusionRect_Principal_1234__ = reinterpret_cast<decltype(___7__ListPrincipal_UDisplayOcclusionRect___ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_DisplayOcclusionRect_Principal_1234__)>(0x000000018013C6D0); // 6443747024

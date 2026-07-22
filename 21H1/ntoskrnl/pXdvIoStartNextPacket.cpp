@@ -1,0 +1,2 @@
+// RVA 0xD48098, PAGEVRFD
+__int64 pXdvIoStartNextPacket = 0x0000000000000000; // 0

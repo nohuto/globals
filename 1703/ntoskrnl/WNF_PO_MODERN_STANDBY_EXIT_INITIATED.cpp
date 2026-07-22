@@ -1,0 +1,2 @@
+// RVA 0x2B04A0, .rdata
+unsigned char WNF_PO_MODERN_STANDBY_EXIT_INITIATED = 0x75; // 117

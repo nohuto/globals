@@ -1,0 +1,3 @@
+// RVA 0x32BF18, .data
+// Symbol: ?gpfmffTable@@3PEAU_FONTMAPPERFAMILYFALLBACK@@EA
+void *_gpfmffTable__3PEAU_FONTMAPPERFAMILYFALLBACK__EA = reinterpret_cast<decltype(_gpfmffTable__3PEAU_FONTMAPPERFAMILYFALLBACK__EA)>(0x0000000000000000); // 0

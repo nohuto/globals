@@ -1,0 +1,2 @@
+// RVA 0xC1CA60, .data
+ULONG_PTR ViDriversLoadLock = 0x0000000000000000; // 0

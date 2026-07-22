@@ -1,0 +1,2 @@
+// RVA 0x2F6A90, .rdata
+unsigned char WNF_SRUM_SCREENONSTUDY_SESSION = 0x75; // 117

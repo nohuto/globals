@@ -1,0 +1,2 @@
+// RVA 0x3AA300, ALMOSTRO
+__int64 pIoAllocateIrp = 0x0000000000000000; // 0

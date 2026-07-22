@@ -1,0 +1,2 @@
+// RVA 0x2F6F28, .rdata
+unsigned char WNF_CONT_RESTORE_FROM_SNAPSHOT_COMPLETE = 0x75; // 117

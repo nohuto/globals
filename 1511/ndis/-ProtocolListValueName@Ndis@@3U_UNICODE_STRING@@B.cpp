@@ -1,0 +1,7 @@
+// RVA 0x70050, .rdata
+// Symbol: ?ProtocolListValueName@Ndis@@3U_UNICODE_STRING@@B
+// Type: const struct _UNICODE_STRING
+unsigned char _ProtocolListValueName_Ndis__3U_UNICODE_STRING__B[0x10] = {
+    0x18, 0x00, 0x1A, 0x00, 0x00, 0x00, 0x00, 0x00, 0x08, 0x1A, 0x07, 0xC0,
+    0x01
+};

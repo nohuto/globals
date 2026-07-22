@@ -1,0 +1,2 @@
+// RVA 0x291BA0, .rdata
+unsigned char POP_ETW_EVENT_COOLING_EXTENSION_RUNDOWN = 0x98; // 152

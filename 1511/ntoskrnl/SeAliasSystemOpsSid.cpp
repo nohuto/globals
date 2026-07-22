@@ -1,0 +1,2 @@
+// RVA 0x6FBC78, PAGEDATA
+__int64 SeAliasSystemOpsSid = 0x0000000000000000; // 0

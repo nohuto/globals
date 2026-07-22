@@ -1,0 +1,2 @@
+// RVA 0x25A6F0, .rdata
+unsigned char WNF_ISM_INPUT_UPDATE_AFTER_TRACK_INTERVAL = 0x35; // 53

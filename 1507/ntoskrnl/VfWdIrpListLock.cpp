@@ -1,0 +1,2 @@
+// RVA 0x7631C8, PAGEVRFB
+__int64 VfWdIrpListLock = 0x0000000000000000; // 0

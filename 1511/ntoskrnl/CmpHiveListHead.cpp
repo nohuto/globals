@@ -1,0 +1,2 @@
+// RVA 0x6FBD08, PAGEDATA
+__int64 CmpHiveListHead = 0x0000000000000000; // 0

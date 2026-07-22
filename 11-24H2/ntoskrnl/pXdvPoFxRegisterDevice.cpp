@@ -1,0 +1,2 @@
+// RVA 0xFFECB8, PAGEVRFD
+__int64 pXdvPoFxRegisterDevice = 0x0000000000000000; // 0

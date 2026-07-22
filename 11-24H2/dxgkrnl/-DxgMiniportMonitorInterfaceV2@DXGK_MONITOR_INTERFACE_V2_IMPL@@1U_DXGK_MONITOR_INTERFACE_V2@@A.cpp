@@ -1,0 +1,3 @@
+// RVA 0x1603D0, .data
+// Symbol: ?DxgMiniportMonitorInterfaceV2@DXGK_MONITOR_INTERFACE_V2_IMPL@@1U_DXGK_MONITOR_INTERFACE_V2@@A
+unsigned char _DxgMiniportMonitorInterfaceV2_DXGK_MONITOR_INTERFACE_V2_IMPL__1U_DXGK_MONITOR_INTERFACE_V2__A = 0x02; // 2

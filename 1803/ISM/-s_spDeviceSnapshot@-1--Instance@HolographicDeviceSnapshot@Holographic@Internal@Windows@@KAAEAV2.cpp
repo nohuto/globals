@@ -1,0 +1,3 @@
+// RVA 0x136320, .data
+// Symbol: ?s_spDeviceSnapshot@?1??Instance@HolographicDeviceSnapshot@Holographic@Internal@Windows@@KAAEAV2345@XZ@4V?$unique_ptr@VHolographicDeviceSnapshot@Holographic@Internal@Windows@@U?$default_delete@VHolographicDeviceSnapshot@Holographic@Internal@Windows@@@std@@@std@@A
+__int64 _s_spDeviceSnapshot__1__Instance_HolographicDeviceSnapshot_Holographic_Internal_Windows__KAAEAV2345_XZ_4V__unique_ptr_VHolographicDeviceSnapshot_Holographic_Internal_Windows__U__default_delete_VHolographicDeviceSnapshot_Holographic_Internal_Windows___std___std__A = 0x0000000000000000; // 0

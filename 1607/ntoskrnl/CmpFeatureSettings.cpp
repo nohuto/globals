@@ -1,0 +1,2 @@
+// RVA 0x7D68B0, INIT
+__int64 CmpFeatureSettings = 0x000000000020001E; // 2097182

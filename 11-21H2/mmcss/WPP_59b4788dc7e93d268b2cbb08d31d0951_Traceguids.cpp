@@ -1,0 +1,2 @@
+// RVA 0x5338, .rdata
+unsigned char WPP_59b4788dc7e93d268b2cbb08d31d0951_Traceguids = 0x8D; // 141

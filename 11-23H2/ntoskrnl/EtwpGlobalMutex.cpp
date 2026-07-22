@@ -1,0 +1,3 @@
+// RVA 0xC31CA0, .data
+// Type: struct _KMUTANT
+unsigned char EtwpGlobalMutex[0x38] = {};

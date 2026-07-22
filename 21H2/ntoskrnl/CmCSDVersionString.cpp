@@ -1,0 +1,3 @@
+// RVA 0xC4C220, .data
+// Type: UNICODE_STRING
+unsigned char CmCSDVersionString[0x10] = {};

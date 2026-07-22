@@ -1,0 +1,2 @@
+// RVA 0xF079E8, .data
+ULONG_PTR PopBootStatLock = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xF21708, .data
+KSPIN_LOCK KiCpuSetLock = 0x0000000000000000; // 0

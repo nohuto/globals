@@ -1,0 +1,2 @@
+// RVA 0x7AC134, PAGEDATA
+int CmpLKGEnabled = 0x00000000; // 0

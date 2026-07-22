@@ -1,0 +1,2 @@
+// RVA 0xD70B58, PAGEVRFD
+__int64 pXdvKeReadStateMutex = 0x0000000000000000; // 0

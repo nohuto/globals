@@ -1,0 +1,2 @@
+// RVA 0x9C8328, PAGEVRFD
+__int64 pXdvRtlCompareUnicodeString = 0x0000000000000000; // 0

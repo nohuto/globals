@@ -1,0 +1,3 @@
+// RVA 0x20C690, .rdata
+// Symbol: ??_7BamoList_SimpleHapticsControllerFeedback_StubImpl@ISMBamos_AutoBamos@BamoImpl@Lib@Bamo@Microsoft@@6B@
+void *___7BamoList_SimpleHapticsControllerFeedback_StubImpl_ISMBamos_AutoBamos_BamoImpl_Lib_Bamo_Microsoft__6B_ = reinterpret_cast<decltype(___7BamoList_SimpleHapticsControllerFeedback_StubImpl_ISMBamos_AutoBamos_BamoImpl_Lib_Bamo_Microsoft__6B_)>(0x000000018002BC60); // 6442630240

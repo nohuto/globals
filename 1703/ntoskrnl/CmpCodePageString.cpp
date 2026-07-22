@@ -1,0 +1,2 @@
+// RVA 0x83A020, INIT
+__int64 CmpCodePageString = 0x0000000000120010; // 1179664

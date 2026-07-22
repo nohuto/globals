@@ -1,0 +1,2 @@
+// RVA 0x77EAE8, PAGEDATA
+__int64 IopIoQosExtensionHost = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xA96288, INIT
+__int64 CmpOemCpString = 0x00000000000C000A; // 786442

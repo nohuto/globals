@@ -1,0 +1,2 @@
+// RVA 0xC22DB8, .data
+ULONGLONG PopTriggerDiagHandle = 0x0000000000000000; // 0

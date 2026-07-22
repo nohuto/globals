@@ -1,0 +1,2 @@
+// RVA 0x2BDFC8, .rdata
+unsigned char BATTERY_EVT_SYSTEM_BATTERY_STATUS_CHANGE = 0x01; // 1

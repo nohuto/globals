@@ -1,0 +1,2 @@
+// RVA 0x2F4B20, .rdata
+unsigned char PPM_ETW_INTERRUPT_STEERING_STATE_RETARGET = 0x06; // 6

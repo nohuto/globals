@@ -1,0 +1,2 @@
+// RVA 0x3E3340, ALMOSTRO
+__int64 KiCycleDivisorLongTerm = 0x00000000000F4240; // 1000000

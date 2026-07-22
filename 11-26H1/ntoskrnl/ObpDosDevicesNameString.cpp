@@ -1,0 +1,2 @@
+// RVA 0xBE0C08, PAGE
+__int64 ObpDosDevicesNameString = 0x0000000000160014; // 1441812

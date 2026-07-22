@@ -1,0 +1,2 @@
+// RVA 0xFD7100, PAGEDATA
+__int64 SepRmCapTable = 0x0000000000000000; // 0

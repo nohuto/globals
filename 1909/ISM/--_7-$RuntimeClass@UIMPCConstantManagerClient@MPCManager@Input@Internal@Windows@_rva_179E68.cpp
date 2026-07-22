@@ -1,0 +1,3 @@
+// RVA 0x179E68, .rdata
+// Symbol: ??_7?$RuntimeClass@UIMPCConstantManagerClient@MPCManager@Input@Internal@Windows@@@WRL@Microsoft@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$00@WRL@Microsoft@@$00UIWeakReferenceSource@@@Details@12@@
+void *___7__RuntimeClass_UIMPCConstantManagerClient_MPCManager_Input_Internal_Windows___WRL_Microsoft__6B__ImplementsHelper_U__RuntimeClassFlags__00_WRL_Microsoft___00UIWeakReferenceSource___Details_12__ = reinterpret_cast<decltype(___7__RuntimeClass_UIMPCConstantManagerClient_MPCManager_Input_Internal_Windows___WRL_Microsoft__6B__ImplementsHelper_U__RuntimeClassFlags__00_WRL_Microsoft___00UIWeakReferenceSource___Details_12__)>(0x00000001800397A0); // 6442686368

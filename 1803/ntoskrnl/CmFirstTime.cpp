@@ -1,0 +1,2 @@
+// RVA 0x8610DC, PAGEDATA
+int CmFirstTime = 0x00000001; // 1

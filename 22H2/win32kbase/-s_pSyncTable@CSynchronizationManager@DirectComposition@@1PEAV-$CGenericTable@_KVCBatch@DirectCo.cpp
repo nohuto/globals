@@ -1,0 +1,3 @@
+// RVA 0x250EA0, .data
+// Symbol: ?s_pSyncTable@CSynchronizationManager@DirectComposition@@1PEAV?$CGenericTable@_KVCBatch@DirectComposition@@$0GFHDEDEE@$0A@@2@EA
+PRTL_GENERIC_TABLE _s_pSyncTable_CSynchronizationManager_DirectComposition__1PEAV__CGenericTable__KVCBatch_DirectComposition___0GFHDEDEE__0A__2_EA = reinterpret_cast<decltype(_s_pSyncTable_CSynchronizationManager_DirectComposition__1PEAV__CGenericTable__KVCBatch_DirectComposition___0GFHDEDEE__0A__2_EA)>(0x0000000000000000); // 0

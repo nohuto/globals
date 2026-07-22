@@ -1,0 +1,3 @@
+// RVA 0x79C330, PAGEVRFY
+// Type: GUID
+unsigned char GUID_BOGUS_INTERFACE[0x10] = {};

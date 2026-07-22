@@ -1,0 +1,2 @@
+// RVA 0x7BD798, PAGEVRFD
+__int64 pXdvZwNotifyChangeKey = 0x0000000000000000; // 0

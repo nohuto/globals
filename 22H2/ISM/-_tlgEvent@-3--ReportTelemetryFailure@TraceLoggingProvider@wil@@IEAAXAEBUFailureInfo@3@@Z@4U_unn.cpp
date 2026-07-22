@@ -1,0 +1,3 @@
+// RVA 0x1C8226, .rdata
+// Symbol: ?_tlgEvent@?3??ReportTelemetryFailure@TraceLoggingProvider@wil@@IEAAXAEBUFailureInfo@3@@Z@4U_unnamed_type__tlgEvent_@?3??123@IEAAX0@Z@B
+unsigned char __tlgEvent__3__ReportTelemetryFailure_TraceLoggingProvider_wil__IEAAXAEBUFailureInfo_3__Z_4U_unnamed_type__tlgEvent___3__123_IEAAX0_Z_B = 0x06; // 6

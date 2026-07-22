@@ -1,0 +1,2 @@
+// RVA 0x7FED70, INIT
+__int64 PspSystemDriveString = 0x00000000001A0018; // 1703960

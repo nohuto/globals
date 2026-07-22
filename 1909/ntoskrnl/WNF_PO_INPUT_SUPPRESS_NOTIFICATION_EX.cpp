@@ -1,0 +1,2 @@
+// RVA 0x395468, .rdata
+unsigned char WNF_PO_INPUT_SUPPRESS_NOTIFICATION_EX = 0x75; // 117

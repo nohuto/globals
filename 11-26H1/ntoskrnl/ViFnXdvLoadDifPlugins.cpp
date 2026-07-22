@@ -1,0 +1,2 @@
+// RVA 0xFF1040, PAGEVRFD
+__int64 ViFnXdvLoadDifPlugins = 0x0000000000000000; // 0

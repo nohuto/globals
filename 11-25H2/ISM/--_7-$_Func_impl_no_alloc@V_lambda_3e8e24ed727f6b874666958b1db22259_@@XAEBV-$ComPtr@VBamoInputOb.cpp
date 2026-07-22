@@ -1,0 +1,3 @@
+// RVA 0x1E1838, .rdata
+// Symbol: ??_7?$_Func_impl_no_alloc@V_lambda_3e8e24ed727f6b874666958b1db22259_@@XAEBV?$ComPtr@VBamoInputObserverClientProxy@@@WRL@Microsoft@@@std@@6B@
+void *___7___Func_impl_no_alloc_V_lambda_3e8e24ed727f6b874666958b1db22259___XAEBV__ComPtr_VBamoInputObserverClientProxy___WRL_Microsoft___std__6B_ = reinterpret_cast<decltype(___7___Func_impl_no_alloc_V_lambda_3e8e24ed727f6b874666958b1db22259___XAEBV__ComPtr_VBamoInputObserverClientProxy___WRL_Microsoft___std__6B_)>(0x00000001801378F0); // 6443727088

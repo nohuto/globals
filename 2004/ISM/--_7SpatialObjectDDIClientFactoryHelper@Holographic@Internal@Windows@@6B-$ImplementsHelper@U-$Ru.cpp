@@ -1,0 +1,3 @@
+// RVA 0x1B0B38, .rdata
+// Symbol: ??_7SpatialObjectDDIClientFactoryHelper@Holographic@Internal@Windows@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$02@WRL@Microsoft@@$00U?$ImplementsMarker@VFtmBase@WRL@Microsoft@@@Details@23@@Details@WRL@Microsoft@@@
+void *___7SpatialObjectDDIClientFactoryHelper_Holographic_Internal_Windows__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00U__ImplementsMarker_VFtmBase_WRL_Microsoft___Details_23__Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7SpatialObjectDDIClientFactoryHelper_Holographic_Internal_Windows__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00U__ImplementsMarker_VFtmBase_WRL_Microsoft___Details_23__Details_WRL_Microsoft___)>(0x000000018004B1D0); // 6442758608

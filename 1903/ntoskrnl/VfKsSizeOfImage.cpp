@@ -1,0 +1,2 @@
+// RVA 0x9C7EF8, PAGEVRFD
+int VfKsSizeOfImage = 0x00000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xC4BD70, .data
+KSPIN_LOCK HalpDmaPdoListLock = 0x0000000000000000; // 0

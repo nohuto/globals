@@ -1,0 +1,3 @@
+// RVA 0x209498, .data
+// Symbol: ?s_DynamicNodeInfoBindingWaitBeforeRetryMilliseconds@SpatialInteractionSourceController@SpatialInteractions@Internal@Windows@@0KA
+DWORD _s_DynamicNodeInfoBindingWaitBeforeRetryMilliseconds_SpatialInteractionSourceController_SpatialInteractions_Internal_Windows__0KA = 0x00000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x986C98, PAGEVRFD
+__int64 pXdvKeReleaseMutant = 0x0000000000000000; // 0

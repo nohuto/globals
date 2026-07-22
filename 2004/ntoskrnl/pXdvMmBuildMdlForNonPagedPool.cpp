@@ -1,0 +1,2 @@
+// RVA 0xD48570, PAGEVRFD
+__int64 pXdvMmBuildMdlForNonPagedPool = 0x0000000000000000; // 0

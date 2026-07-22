@@ -1,0 +1,2 @@
+// RVA 0xD1EBC4, ALMOSTRO
+int MmSpecialPoolTag = 0x00000000; // 0

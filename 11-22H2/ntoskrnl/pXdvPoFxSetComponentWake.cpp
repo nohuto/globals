@@ -1,0 +1,2 @@
+// RVA 0xD71740, PAGEVRFD
+__int64 pXdvPoFxSetComponentWake = 0x0000000000000000; // 0

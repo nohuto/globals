@@ -1,0 +1,2 @@
+// RVA 0x542690, ALMOSTRO
+__int64 PoolVector = 0x0000000000000000; // 0

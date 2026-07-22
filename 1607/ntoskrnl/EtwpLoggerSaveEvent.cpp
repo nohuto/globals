@@ -1,0 +1,2 @@
+// RVA 0x747FD8, PAGEDATA
+__int64 EtwpLoggerSaveEvent = 0x0000000000000000; // 0

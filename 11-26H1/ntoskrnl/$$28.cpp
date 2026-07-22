@@ -1,0 +1,3 @@
+// RVA 0xFFC7D8, INITDATA
+// Symbol: $$28
+__int64 __28 = 0x0000000000000000; // 0

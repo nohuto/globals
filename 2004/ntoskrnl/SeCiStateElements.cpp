@@ -1,0 +1,2 @@
+// RVA 0xD56770, INITDATA
+__int64 SeCiStateElements = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x161848, .rdata
+unsigned char WNF_PO_PRIMARY_DISPLAY_LOGICAL_STATE = 0x75; // 117

@@ -1,0 +1,2 @@
+// RVA 0x17F000, NONPAGE
+__int64 g_ModuleName = 0x0000000000000000; // 0

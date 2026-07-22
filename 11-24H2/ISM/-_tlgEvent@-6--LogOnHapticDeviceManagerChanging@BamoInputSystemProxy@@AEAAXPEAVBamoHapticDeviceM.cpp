@@ -1,0 +1,3 @@
+// RVA 0x21AEF6, .rdata
+// Symbol: ?_tlgEvent@?6??LogOnHapticDeviceManagerChanging@BamoInputSystemProxy@@AEAAXPEAVBamoHapticDeviceManagerProxy@@@Z@4U_unnamed_type__tlgEvent_@?6??12@AEAAX0@Z@B
+unsigned char __tlgEvent__6__LogOnHapticDeviceManagerChanging_BamoInputSystemProxy__AEAAXPEAVBamoHapticDeviceManagerProxy___Z_4U_unnamed_type__tlgEvent___6__12_AEAAX0_Z_B = 0x06; // 6

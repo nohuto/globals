@@ -1,0 +1,3 @@
+// RVA 0x278950, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUulivtilfmwnzmztviUhvieviUlyquivUznwGEUkxsOlyq@ForegroundManagerServer
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUulivtilfmwnzmztviUhvieviUlyquivUznwGEUkxsOlyq_ForegroundManagerServer = 0x00; // 0

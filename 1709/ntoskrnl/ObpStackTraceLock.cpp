@@ -1,0 +1,2 @@
+// RVA 0x368168, .data
+ULONG_PTR ObpStackTraceLock = 0x0000000000000000; // 0

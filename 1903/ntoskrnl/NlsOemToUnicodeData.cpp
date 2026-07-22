@@ -1,0 +1,2 @@
+// RVA 0x9AD138, PAGEDATA
+__int64 NlsOemToUnicodeData = 0x0000000000000000; // 0

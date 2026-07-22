@@ -1,0 +1,2 @@
+// RVA 0x3826D8, ALMOSTRO
+__int64 KiDebugSwitchRoutine = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0x5DB40, .rdata
+// Symbol: ??_7VIDMM_TASK_STATE_CHANGE@@6B@
+void *___7VIDMM_TASK_STATE_CHANGE__6B_ = reinterpret_cast<decltype(___7VIDMM_TASK_STATE_CHANGE__6B_)>(0x00000001400B7950); // 5369461072

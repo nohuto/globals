@@ -1,0 +1,2 @@
+// RVA 0x9C84A8, PAGEVRFD
+__int64 pXdvMmCreateSection = 0x0000000000000000; // 0

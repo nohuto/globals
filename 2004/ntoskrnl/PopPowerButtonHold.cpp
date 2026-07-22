@@ -1,0 +1,2 @@
+// RVA 0xC20600, .data
+KSPIN_LOCK PopPowerButtonHold = 0x0000000000000000; // 0

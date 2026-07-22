@@ -1,0 +1,2 @@
+// RVA 0x1A2E8, .rdata
+const __int64 DEVPKEY_Device_PanelHeight = 0x4BFF97A98DBC9C86; // 5476262426389027974

@@ -1,0 +1,2 @@
+// RVA 0x7F3044, PAGEDATA
+size_t WmipSMBiosTableLength = 0x0000000000000000; // 0

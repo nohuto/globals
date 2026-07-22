@@ -1,0 +1,3 @@
+// RVA 0x20F220, .rdata
+// Symbol: ?Methods@?$IResizeControllerClientProxy_Receive@VBamoResizeControllerClientProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+__int64 (__fastcall *_Methods___IResizeControllerClientProxy_Receive_VBamoResizeControllerClientProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IResizeControllerClientProxy_Receive_VBamoResizeControllerClientProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180142390); // 6443770768

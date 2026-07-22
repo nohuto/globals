@@ -1,0 +1,2 @@
+// RVA 0xFFD060, PAGEVRFD
+__int64 pXdvZwConnectPort = 0x0000000000000000; // 0

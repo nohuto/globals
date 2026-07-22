@@ -1,0 +1,2 @@
+// RVA 0x760540, INITDATA
+__int64 IopInitHalDeviceNode = 0x0000000000000000; // 0

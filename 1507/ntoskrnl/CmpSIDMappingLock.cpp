@@ -1,0 +1,2 @@
+// RVA 0x34DAC0, .data
+ULONG_PTR CmpSIDMappingLock = 0x0000000000000000; // 0

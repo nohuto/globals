@@ -1,0 +1,2 @@
+// RVA 0xFC516C, ALMOSTRO
+ULONG PsDfssActiveTimerResolution100ns = 0xFFFFFFFF; // 4294967295

@@ -1,0 +1,2 @@
+// RVA 0x32480, .rdata
+__int64 Feature_Servicing_ZwTerminateMinimalProcess_Terminate_Fix_logged_traits = 0x0000000200000000; // 8589934592

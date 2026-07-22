@@ -1,0 +1,2 @@
+// RVA 0x874AD8, PAGEVRFD
+__int64 pXdvIoGetDmaAdapter = 0x0000000000000000; // 0

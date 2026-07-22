@@ -1,0 +1,2 @@
+// RVA 0x947348, PAGE
+__int64 ObpRootDirectoryName = 0x0000000000040002; // 262146

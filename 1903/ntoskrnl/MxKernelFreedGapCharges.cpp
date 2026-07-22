@@ -1,0 +1,2 @@
+// RVA 0xA50660, INITDATA
+__int64 MxKernelFreedGapCharges = 0x0000000000000000; // 0

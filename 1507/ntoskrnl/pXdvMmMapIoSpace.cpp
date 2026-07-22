@@ -1,0 +1,2 @@
+// RVA 0x78E448, PAGEVRFD
+unsigned long long pXdvMmMapIoSpace = 0x0000000140114D44; // 5369843012

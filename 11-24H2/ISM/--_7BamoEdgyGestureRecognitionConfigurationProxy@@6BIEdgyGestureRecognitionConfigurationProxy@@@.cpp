@@ -1,0 +1,3 @@
+// RVA 0x1ED340, .rdata
+// Symbol: ??_7BamoEdgyGestureRecognitionConfigurationProxy@@6BIEdgyGestureRecognitionConfigurationProxy@@@
+void *___7BamoEdgyGestureRecognitionConfigurationProxy__6BIEdgyGestureRecognitionConfigurationProxy___ = reinterpret_cast<decltype(___7BamoEdgyGestureRecognitionConfigurationProxy__6BIEdgyGestureRecognitionConfigurationProxy___)>(0x00000001801253D0); // 6443652048

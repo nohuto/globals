@@ -1,0 +1,3 @@
+// RVA 0xD30A8, .rdata
+// Symbol: ??_7?$_Func_impl@P6AJPEAUIHitTestRequest@@PEAXPEAV?$vector@V?$ComPtr@UIInputTarget@@@WRL@Microsoft@@V?$allocator@V?$ComPtr@UIInputTarget@@@WRL@Microsoft@@@std@@@std@@@ZV?$allocator@H@3@JPEAU1@PEAXPEAV23@@std@@6B@
+void *___7___Func_impl_P6AJPEAUIHitTestRequest__PEAXPEAV__vector_V__ComPtr_UIInputTarget___WRL_Microsoft__V__allocator_V__ComPtr_UIInputTarget___WRL_Microsoft___std___std___ZV__allocator_H_3_JPEAU1_PEAXPEAV23__std__6B_ = reinterpret_cast<decltype(___7___Func_impl_P6AJPEAUIHitTestRequest__PEAXPEAV__vector_V__ComPtr_UIInputTarget___WRL_Microsoft__V__allocator_V__ComPtr_UIInputTarget___WRL_Microsoft___std___std___ZV__allocator_H_3_JPEAU1_PEAXPEAV23__std__6B_)>(0x0000000180005670); // 6442473072

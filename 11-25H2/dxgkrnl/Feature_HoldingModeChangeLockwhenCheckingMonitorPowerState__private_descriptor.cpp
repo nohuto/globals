@@ -1,0 +1,2 @@
+// RVA 0x15A288, .rdata
+int *Feature_HoldingModeChangeLockwhenCheckingMonitorPowerState__private_descriptor = reinterpret_cast<decltype(Feature_HoldingModeChangeLockwhenCheckingMonitorPowerState__private_descriptor)>(0x000000014015EB30); // 5370145584

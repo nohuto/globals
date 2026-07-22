@@ -1,0 +1,3 @@
+// RVA 0x209778, .data
+// Symbol: ?s_registryWatcher@MPCSixDofProcessor@@0V?$unique_any_t@V?$registry_watcher_t@V?$unique_storage@U?$resource_policy@PEAUregistry_watcher_state@details@wil@@P6AXPEAU123@@Z$1?delete_registry_watcher_state@23@YAX0@ZU?$integral_constant@_K$01@wistd@@PEAU123@PEAU123@$0A@$$T@details@wil@@@details@wil@@Uerr_returncode_policy@3@@wil@@@wil@@A
+__int64 _s_registryWatcher_MPCSixDofProcessor__0V__unique_any_t_V__registry_watcher_t_V__unique_storage_U__resource_policy_PEAUregistry_watcher_state_details_wil__P6AXPEAU123__Z_1_delete_registry_watcher_state_23_YAX0_ZU__integral_constant__K_01_wistd__PEAU123_PEAU123__0A___T_details_wil___details_wil__Uerr_returncode_policy_3__wil___wil__A = 0x0000000000000000; // 0

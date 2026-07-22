@@ -1,0 +1,2 @@
+// RVA 0xE668F8, .data
+REGHANDLE KiIntSteerEtwHandle = 0x0000000000000000; // 0

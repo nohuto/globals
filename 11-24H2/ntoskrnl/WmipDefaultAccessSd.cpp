@@ -1,0 +1,2 @@
+// RVA 0xFC6DA0, ALMOSTRO
+__int64 WmipDefaultAccessSd = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x874210, PAGEVRFD
+__int64 ViFnXdvNotifyExtensions = 0x0000000000000000; // 0

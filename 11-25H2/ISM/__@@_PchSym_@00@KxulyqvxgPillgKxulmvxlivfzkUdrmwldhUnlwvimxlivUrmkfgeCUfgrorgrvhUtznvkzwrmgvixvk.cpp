@@ -1,0 +1,3 @@
+// RVA 0x2478B0, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUfgrorgrvhUtznvkzwrmgvixvkgrlmsvokviUlyquivUznwGEUkxsOlyq@GamepadInterceptionHelper
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUfgrorgrvhUtznvkzwrmgvixvkgrlmsvokviUlyquivUznwGEUkxsOlyq_GamepadInterceptionHelper = 0x00; // 0

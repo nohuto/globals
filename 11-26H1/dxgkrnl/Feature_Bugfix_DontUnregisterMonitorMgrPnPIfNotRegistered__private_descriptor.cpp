@@ -1,0 +1,2 @@
+// RVA 0x165218, .rdata
+int *Feature_Bugfix_DontUnregisterMonitorMgrPnPIfNotRegistered__private_descriptor = reinterpret_cast<decltype(Feature_Bugfix_DontUnregisterMonitorMgrPnPIfNotRegistered__private_descriptor)>(0x000000014016A930); // 5370194224

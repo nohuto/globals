@@ -1,0 +1,2 @@
+// RVA 0xE0B8A4, .data
+size_t PpmHeteroWorkloadClasses = 0xFFFFFFFF00000001; // 18446744069414584321

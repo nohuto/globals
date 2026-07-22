@@ -1,0 +1,3 @@
+// RVA 0x258F10, .data
+// Symbol: ?gapfnStripCddCallback@@3PAP6GXPAU_STRIP@@PAU_BMINFO@@PAU_LINESTATE@@@ZA
+void (__stdcall **_gapfnStripCddCallback__3PAP6GXPAU_STRIP__PAU_BMINFO__PAU_LINESTATE___ZA)(struct _STRIP *, struct _BMINFO *, struct _LINESTATE *) = reinterpret_cast<decltype(_gapfnStripCddCallback__3PAP6GXPAU_STRIP__PAU_BMINFO__PAU_LINESTATE___ZA)>(0x0023E516); // 2352406

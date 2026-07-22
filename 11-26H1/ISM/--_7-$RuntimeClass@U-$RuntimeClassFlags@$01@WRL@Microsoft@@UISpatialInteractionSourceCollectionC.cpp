@@ -1,0 +1,3 @@
+// RVA 0x1E3508, .rdata
+// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UISpatialInteractionSourceCollectionCallbacks@SpatialInteractions@Internal@Windows@@@WRL@Microsoft@@6B@
+void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UISpatialInteractionSourceCollectionCallbacks_SpatialInteractions_Internal_Windows___WRL_Microsoft__6B_ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UISpatialInteractionSourceCollectionCallbacks_SpatialInteractions_Internal_Windows___WRL_Microsoft__6B_)>(0x00000001800D76E0); // 6443333344

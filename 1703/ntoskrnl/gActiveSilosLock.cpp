@@ -1,0 +1,2 @@
+// RVA 0x36AB20, .data
+ULONG_PTR gActiveSilosLock = 0x0000000000000000; // 0

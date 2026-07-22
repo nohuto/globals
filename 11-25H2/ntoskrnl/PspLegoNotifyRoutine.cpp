@@ -1,0 +1,2 @@
+// RVA 0xFD8F90, PAGEDATA
+__int64 PspLegoNotifyRoutine = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xFD7B10, PAGEDATA
+__int64 SeRelabelPrivilege = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xC50B90, .data
+PVOID EmpStringTable = reinterpret_cast<decltype(EmpStringTable)>(0x0000000000000000); // 0

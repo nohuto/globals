@@ -1,0 +1,2 @@
+// RVA 0xF12260, .data
+KSPIN_LOCK PopUserPresentLock = 0x0000000000000000; // 0

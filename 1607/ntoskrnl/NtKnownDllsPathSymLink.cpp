@@ -1,0 +1,2 @@
+// RVA 0x7D57C8, INIT
+__int64 NtKnownDllsPathSymLink = 0x00000000001A0018; // 1703960

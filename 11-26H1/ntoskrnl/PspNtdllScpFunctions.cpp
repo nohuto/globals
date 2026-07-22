@@ -1,0 +1,2 @@
+// RVA 0xFC17B0, ALMOSTRO
+__int64 PspNtdllScpFunctions = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0x1B1988, .rdata
+// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@U?$ITypedEventHandler@PEAVHolographicDisplayWatcher@Internal@Holographic@Graphics@Windows@@PEAVHolographicDisplay@345@@Foundation@Windows@@@WRL@Microsoft@@6B@
+void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__U__ITypedEventHandler_PEAVHolographicDisplayWatcher_Internal_Holographic_Graphics_Windows__PEAVHolographicDisplay_345__Foundation_Windows___WRL_Microsoft__6B_ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__U__ITypedEventHandler_PEAVHolographicDisplayWatcher_Internal_Holographic_Graphics_Windows__PEAVHolographicDisplay_345__Foundation_Windows___WRL_Microsoft__6B_)>(0x00000001800D1E80); // 6443310720

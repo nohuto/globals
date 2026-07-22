@@ -1,0 +1,2 @@
+// RVA 0x77EE90, PAGEDATA
+ULONG_PTR ExpWnfPermanentNameSequenceNumberLock = 0x0000000000000000; // 0

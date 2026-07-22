@@ -1,0 +1,2 @@
+// RVA 0x747D18, PAGEDATA
+__int64 SeAuditPrivilege = 0x0000000000000000; // 0

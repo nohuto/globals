@@ -1,0 +1,2 @@
+// RVA 0x27FF78, .rdata
+unsigned char LIVEDUMP_EVENT_WRITE_DEFERRED_DATA_API_END = 0xCA; // 202

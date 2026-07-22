@@ -1,0 +1,3 @@
+// RVA 0xA84D0, .rdata
+// Symbol: ?g_FeatureInterfaceTables@@3QBUDXGK_FEATURE_INTERFACE_CATEGORY_TABLE@@B
+const struct DXGK_FEATURE_INTERFACE_CATEGORY_TABLE near *const _g_FeatureInterfaceTables__3QBUDXGK_FEATURE_INTERFACE_CATEGORY_TABLE__B = reinterpret_cast<decltype(_g_FeatureInterfaceTables__3QBUDXGK_FEATURE_INTERFACE_CATEGORY_TABLE__B)>(0x00000001400A87E0); // 5369399264

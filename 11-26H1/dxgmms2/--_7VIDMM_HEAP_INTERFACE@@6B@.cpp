@@ -1,0 +1,3 @@
+// RVA 0x5D090, .rdata
+// Symbol: ??_7VIDMM_HEAP_INTERFACE@@6B@
+void *___7VIDMM_HEAP_INTERFACE__6B_ = reinterpret_cast<decltype(___7VIDMM_HEAP_INTERFACE__6B_)>(0x000000014004E8E0); // 5369030880

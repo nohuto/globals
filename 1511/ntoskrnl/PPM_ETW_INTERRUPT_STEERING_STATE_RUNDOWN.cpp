@@ -1,0 +1,2 @@
+// RVA 0x244A58, .rdata
+unsigned char PPM_ETW_INTERRUPT_STEERING_STATE_RUNDOWN = 0x03; // 3

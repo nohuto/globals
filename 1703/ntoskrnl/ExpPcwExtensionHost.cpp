@@ -1,0 +1,2 @@
+// RVA 0x7AC088, PAGEDATA
+__int64 ExpPcwExtensionHost = 0x0000000000000000; // 0

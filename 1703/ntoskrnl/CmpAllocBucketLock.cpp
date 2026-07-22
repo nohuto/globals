@@ -1,0 +1,2 @@
+// RVA 0x36B220, .data
+ULONG_PTR CmpAllocBucketLock = 0x0000000000000000; // 0

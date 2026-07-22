@@ -1,0 +1,2 @@
+// RVA 0x10B98, .rdata
+__int64 MiTrimPassToAge = 0x0000000001020406; // 16909318

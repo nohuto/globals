@@ -1,0 +1,2 @@
+// RVA 0x21F08, .rdata
+const __int64 DEVPKEY_DevicePanel_Width = 0x4D1C2127DB7C5747; // 5556352495338149703

@@ -1,0 +1,2 @@
+// RVA 0x395458, .rdata
+unsigned char WNF_PNPA_HARDWAREPROFILES_CHANGED = 0x75; // 117

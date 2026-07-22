@@ -1,0 +1,3 @@
+// RVA 0x257D64, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlmgvcgfzokilxvhhlihUkilxvhhlihUhsvooszmwdirgrmtUkilxvhhliUlyquivUznwGEUkxsOlyq@ShellHandwritingProcessor
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlmgvcgfzokilxvhhlihUkilxvhhlihUhsvooszmwdirgrmtUkilxvhhliUlyquivUznwGEUkxsOlyq_ShellHandwritingProcessor = 0x00; // 0

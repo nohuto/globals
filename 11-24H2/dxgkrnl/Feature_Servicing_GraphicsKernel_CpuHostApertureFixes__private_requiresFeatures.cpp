@@ -1,0 +1,2 @@
+// RVA 0xA84B8, .rdata
+_UNKNOWN **Feature_Servicing_GraphicsKernel_CpuHostApertureFixes__private_requiresFeatures = reinterpret_cast<decltype(Feature_Servicing_GraphicsKernel_CpuHostApertureFixes__private_requiresFeatures)>(0x000000014015DAD0); // 5370141392

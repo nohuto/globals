@@ -1,0 +1,2 @@
+// RVA 0xFF26C8, PAGEVRFD
+__int64 pXdvZwSuspendThread = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x3E3218, ALMOSTRO
+POBJECT_TYPE *ExSemaphoreObjectType = reinterpret_cast<decltype(ExSemaphoreObjectType)>(0x0000000000000000); // 0

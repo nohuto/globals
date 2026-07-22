@@ -1,0 +1,3 @@
+// RVA 0x17A378, .rdata
+// Symbol: ?PageSize@?1??RtlpHpMemoryTypePageSize@@9@9
+int _PageSize__1__RtlpHpMemoryTypePageSize__9_9 = 0x00001000; // 4096

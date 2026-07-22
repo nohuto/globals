@@ -1,0 +1,2 @@
+// RVA 0xD4A700, PAGEVRFD
+__int64 pXdvZwCancelIoFile = 0x0000000000000000; // 0

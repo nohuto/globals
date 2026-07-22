@@ -1,0 +1,2 @@
+// RVA 0x3957C0, CACHEALI
+__int64 CcWorkQueueSpinLock = 0x0000000000000000; // 0

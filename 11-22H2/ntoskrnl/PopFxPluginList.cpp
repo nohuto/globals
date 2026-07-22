@@ -1,0 +1,2 @@
+// RVA 0xC3EC80, .data
+ULONG_PTR PopFxPluginList = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xFF3180, PAGEVRFD
+unsigned long long ViUtilsForXDV = 0x0000000140B73300; // 5380715264

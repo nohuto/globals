@@ -1,0 +1,3 @@
+// RVA 0x3188D0, .data
+// Symbol: ?gInertiaInfo@@3UINERTIA_INFO_INTERNAL@@A
+Edgy _gInertiaInfo__3UINERTIA_INFO_INTERNAL__A = 0x0000000000000000; // 0

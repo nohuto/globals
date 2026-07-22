@@ -1,0 +1,2 @@
+// RVA 0x7BDCD8, PAGEVRFD
+__int64 pXdvFsRtlFastUnlockAllByKey = 0x0000000000000000; // 0

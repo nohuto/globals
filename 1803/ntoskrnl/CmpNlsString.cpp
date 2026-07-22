@@ -1,0 +1,2 @@
+// RVA 0x8E6440, INIT
+__int64 CmpNlsString = 0x0000000000080006; // 524294

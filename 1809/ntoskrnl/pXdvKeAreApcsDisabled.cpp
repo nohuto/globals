@@ -1,0 +1,2 @@
+// RVA 0x987C30, PAGEVRFD
+__int64 pXdvKeAreApcsDisabled = 0x0000000000000000; // 0

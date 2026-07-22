@@ -1,0 +1,2 @@
+// RVA 0xC19EE0, .data
+__int64 WmipSysId1394 = 0x0000000000000000; // 0

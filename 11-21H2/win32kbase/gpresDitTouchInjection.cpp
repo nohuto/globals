@@ -1,0 +1,2 @@
+// RVA 0x2957F0, .data
+PERESOURCE gpresDitTouchInjection = reinterpret_cast<decltype(gpresDitTouchInjection)>(0x0000000000000000); // 0

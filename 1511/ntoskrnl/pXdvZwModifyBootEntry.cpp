@@ -1,0 +1,2 @@
+// RVA 0x6E0328, PAGEVRFB
+__int64 pXdvZwModifyBootEntry = 0x0000000000000000; // 0

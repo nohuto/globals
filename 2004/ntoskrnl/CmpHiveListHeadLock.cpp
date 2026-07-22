@@ -1,0 +1,2 @@
+// RVA 0xC48598, .data
+ULONG_PTR CmpHiveListHeadLock = 0x0000000000000000; // 0

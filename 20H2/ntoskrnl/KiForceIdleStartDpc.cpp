@@ -1,0 +1,2 @@
+// RVA 0xC31F20, .data
+ULONG_PTR KiForceIdleStartDpc = 0x0000000000000000; // 0

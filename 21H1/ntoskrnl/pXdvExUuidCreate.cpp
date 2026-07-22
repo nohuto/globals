@@ -1,0 +1,2 @@
+// RVA 0xD47D78, PAGEVRFD
+__int64 pXdvExUuidCreate = 0x0000000000000000; // 0

@@ -1,0 +1,5 @@
+// RVA 0x3766E0, .rdata
+// Type: PUART_HARDWARE_DRIVER[]
+unsigned char UartHardwareDrivers[0x8] = {
+    0x68, 0x7B, 0x42, 0x40, 0x01
+};

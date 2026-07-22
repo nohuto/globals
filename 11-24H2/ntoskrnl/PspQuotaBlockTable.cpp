@@ -1,0 +1,2 @@
+// RVA 0xFD9C40, PAGEDATA
+__int64 PspQuotaBlockTable = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0x32A490, .data
+// Symbol: ?gapfnStrip@@3PAP6AXPEAU_STRIP@@PEAU_BMINFO@@PEAU_LINESTATE@@@ZA
+void (* near *_gapfnStrip__3PAP6AXPEAU_STRIP__PEAU_BMINFO__PEAU_LINESTATE___ZA)(struct _STRIP *, struct _BMINFO *, struct _LINESTATE *) = reinterpret_cast<decltype(_gapfnStrip__3PAP6AXPEAU_STRIP__PEAU_BMINFO__PEAU_LINESTATE___ZA)>(0x00000001C01549F0); // 7517587952

@@ -1,0 +1,2 @@
+// RVA 0x6E1940, PAGEVRFB
+__int64 VfBTSDataManagementArea = 0x0000000000000000; // 0

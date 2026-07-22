@@ -1,0 +1,2 @@
+// RVA 0x385DDC, .idata
+__int16 **__ptr32 __IMPORT_DESCRIPTOR_WIN32KSGD = reinterpret_cast<decltype(__IMPORT_DESCRIPTOR_WIN32KSGD)>(0x00385E98); // 3694232

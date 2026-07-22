@@ -1,0 +1,2 @@
+// RVA 0x874B10, PAGEVRFD
+__int64 pXdvIoFreeMdl = 0x0000000000000000; // 0

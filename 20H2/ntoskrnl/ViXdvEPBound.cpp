@@ -1,0 +1,2 @@
+// RVA 0xD4A1B0, PAGEVRFD
+int ViXdvEPBound = 0x00000000; // 0

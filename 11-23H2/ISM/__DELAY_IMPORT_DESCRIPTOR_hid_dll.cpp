@@ -1,0 +1,2 @@
+// RVA 0x261050, .rdata
+int __DELAY_IMPORT_DESCRIPTOR_hid_dll = 0x00000001; // 1

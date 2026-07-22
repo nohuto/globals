@@ -1,0 +1,2 @@
+// RVA 0x747DA0, PAGEDATA
+__int64 SeAliasPrintOpsSid = 0x0000000000000000; // 0

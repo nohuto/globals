@@ -1,0 +1,3 @@
+// RVA 0x22FC28, .rdata
+// Symbol: ??_7?$CSharedResourceMarshaler@VCCompositionAmbientLightMarshaler@DirectComposition@@$01@DirectComposition@@6B@
+void *___7__CSharedResourceMarshaler_VCCompositionAmbientLightMarshaler_DirectComposition___01_DirectComposition__6B_ = reinterpret_cast<decltype(___7__CSharedResourceMarshaler_VCCompositionAmbientLightMarshaler_DirectComposition___01_DirectComposition__6B_)>(0x00000001C00BA130); // 7516954928

@@ -1,0 +1,2 @@
+// RVA 0x446E30, .data
+KSPIN_LOCK KiIntTrackSpinlock = 0x0000000000000000; // 0

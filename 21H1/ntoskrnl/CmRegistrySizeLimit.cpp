@@ -1,0 +1,2 @@
+// RVA 0xD2C1B0, PAGEDATA
+__int64 CmRegistrySizeLimit = 0x0000000000000000; // 0

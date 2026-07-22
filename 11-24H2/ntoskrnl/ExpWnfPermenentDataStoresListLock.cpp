@@ -1,0 +1,2 @@
+// RVA 0xFD9C80, PAGEDATA
+ULONG_PTR ExpWnfPermenentDataStoresListLock = 0x0000000000000000; // 0

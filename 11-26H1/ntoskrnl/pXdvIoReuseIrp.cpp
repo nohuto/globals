@@ -1,0 +1,2 @@
+// RVA 0xFF1F78, PAGEVRFD
+__int64 pXdvIoReuseIrp = 0x0000000000000000; // 0

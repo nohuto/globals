@@ -1,0 +1,2 @@
+// RVA 0x2A6F78, .rdata
+unsigned char HV_EVENTLOG_IOMMU_FAILED_NO_RESOURCES = 0x92; // 146

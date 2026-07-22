@@ -1,0 +1,2 @@
+// RVA 0xE65FC8, .data
+REGHANDLE IopDumpEtwRegHandle = 0x0000000000000000; // 0

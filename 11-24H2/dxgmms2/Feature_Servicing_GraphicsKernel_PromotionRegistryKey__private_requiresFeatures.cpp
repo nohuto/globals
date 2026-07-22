@@ -1,0 +1,2 @@
+// RVA 0x58178, .rdata
+_UNKNOWN **Feature_Servicing_GraphicsKernel_PromotionRegistryKey__private_requiresFeatures = reinterpret_cast<decltype(Feature_Servicing_GraphicsKernel_PromotionRegistryKey__private_requiresFeatures)>(0x000000014007F4B8); // 5369230520

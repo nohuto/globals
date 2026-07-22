@@ -1,0 +1,2 @@
+// RVA 0xD71720, PAGEVRFD
+__int64 pXdvMmRemovePhysicalMemory = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x6E0028, PAGEVRFB
+ULONG VfBugcheckTmpData = 0x00000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xD70D10, PAGEVRFD
+__int64 pXdvZwOpenJobObject = 0x0000000000000000; // 0

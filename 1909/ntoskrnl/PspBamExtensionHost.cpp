@@ -1,0 +1,2 @@
+// RVA 0x572530, ALMOSTRO
+__int64 PspBamExtensionHost = 0x0000000000000000; // 0

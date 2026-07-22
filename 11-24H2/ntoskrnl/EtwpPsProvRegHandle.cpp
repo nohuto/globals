@@ -1,0 +1,2 @@
+// RVA 0xEFF7B0, .data
+REGHANDLE EtwpPsProvRegHandle = 0x0000000000000000; // 0

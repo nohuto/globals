@@ -1,0 +1,2 @@
+// RVA 0x41B548, .data
+ULONG_PTR MiHotPatchListLock = 0x0000000000000000; // 0

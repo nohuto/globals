@@ -1,0 +1,2 @@
+// RVA 0x382200, ALMOSTRO
+const ULONG64 MmUserProbeAddress = 0x0000000000000000; // 0

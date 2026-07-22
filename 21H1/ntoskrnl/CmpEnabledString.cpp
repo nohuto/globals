@@ -1,0 +1,2 @@
+// RVA 0xA969F8, INIT
+__int64 CmpEnabledString = 0x000000000010000E; // 1048590

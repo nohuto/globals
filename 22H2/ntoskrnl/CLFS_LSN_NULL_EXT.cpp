@@ -1,0 +1,2 @@
+// RVA 0x1F1D8, .rdata
+__int64 CLFS_LSN_NULL_EXT = 0x0000000000000000; // 0

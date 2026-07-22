@@ -1,0 +1,5 @@
+// RVA 0x4230, .rdata
+// Type: const EVENT_DESCRIPTOR
+unsigned char CiTaskIndexPreDeadlineExpiredEvent[0x10] = {
+    0x13, 0x00, 0x01, 0x00, 0x04, 0x00, 0x75
+};

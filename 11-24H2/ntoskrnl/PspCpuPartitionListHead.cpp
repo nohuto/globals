@@ -1,0 +1,2 @@
+// RVA 0xFDA3E8, PAGEDATA
+__int64 PspCpuPartitionListHead = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xE68420, .data
+PSECURITY_DESCRIPTOR EtwpDefaultTraceSecurityDescriptor = reinterpret_cast<decltype(EtwpDefaultTraceSecurityDescriptor)>(0x0000000000000000); // 0

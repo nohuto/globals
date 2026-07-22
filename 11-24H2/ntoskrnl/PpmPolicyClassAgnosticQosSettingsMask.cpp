@@ -1,0 +1,5 @@
+// RVA 0x1A390, .rdata
+// Type: __int128
+unsigned char PpmPolicyClassAgnosticQosSettingsMask[0x10] = {
+    0x00, 0x0C, 0x00, 0x00, 0x0C
+};

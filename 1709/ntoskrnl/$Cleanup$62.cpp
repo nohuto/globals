@@ -1,0 +1,6 @@
+// RVA 0x83B9B6, INIT
+// Symbol: $Cleanup$62
+// Type: char[6]
+unsigned char _Cleanup_62[0x6] = {
+    0xCC, 0xCC, 0xCC, 0xCC, 0xCC, 0xCC
+};

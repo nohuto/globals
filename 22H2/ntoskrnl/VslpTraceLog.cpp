@@ -1,0 +1,2 @@
+// RVA 0xD038D0, ALMOSTRO
+ULONG VslpTraceLog = 0x00000000; // 0

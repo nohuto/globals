@@ -1,0 +1,2 @@
+// RVA 0x1008154, INITDATA
+size_t DifPluginConfigDataLength = 0x0000080000000300; // 8796093022976

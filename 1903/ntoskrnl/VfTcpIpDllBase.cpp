@@ -1,0 +1,2 @@
+// RVA 0x9C7EA0, PAGEVRFD
+__int64 VfTcpIpDllBase = 0x0000000000000000; // 0

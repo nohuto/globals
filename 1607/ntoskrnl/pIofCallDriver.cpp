@@ -1,0 +1,2 @@
+// RVA 0x3AA498, ALMOSTRO
+__int64 pIofCallDriver = 0x0000000000000000; // 0

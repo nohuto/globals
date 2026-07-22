@@ -1,0 +1,2 @@
+// RVA 0xF103F0, .data
+ULONG_PTR KiDpcCorralLock = 0x0000000000000000; // 0

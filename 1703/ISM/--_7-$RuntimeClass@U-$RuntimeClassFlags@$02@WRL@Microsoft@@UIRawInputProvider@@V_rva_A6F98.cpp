@@ -1,0 +1,3 @@
+// RVA 0xA6F98, .rdata
+// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$02@WRL@Microsoft@@UIRawInputProvider@@VFtmBase@23@VNil@Details@23@V6723@V6723@V6723@V6723@V6723@V6723@@WRL@Microsoft@@6BIInspectable@@@
+void *___7__RuntimeClass_U__RuntimeClassFlags__02_WRL_Microsoft__UIRawInputProvider__VFtmBase_23_VNil_Details_23_V6723_V6723_V6723_V6723_V6723_V6723__WRL_Microsoft__6BIInspectable___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__02_WRL_Microsoft__UIRawInputProvider__VFtmBase_23_VNil_Details_23_V6723_V6723_V6723_V6723_V6723_V6723__WRL_Microsoft__6BIInspectable___)>(0x000000018004FD40); // 6442777920

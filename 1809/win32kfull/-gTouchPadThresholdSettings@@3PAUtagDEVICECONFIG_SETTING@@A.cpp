@@ -1,0 +1,3 @@
+// RVA 0x30C2A8, .data
+// Symbol: ?gTouchPadThresholdSettings@@3PAUtagDEVICECONFIG_SETTING@@A
+struct tagDEVICECONFIG_SETTING _gTouchPadThresholdSettings__3PAUtagDEVICECONFIG_SETTING__A = 0x00000001C02D00F8; // 7519142136

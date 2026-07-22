@@ -1,0 +1,2 @@
+// RVA 0xC321BB, .data
+PBOOLEAN KdDebuggerNotPresent = reinterpret_cast<decltype(KdDebuggerNotPresent)>(0x0000000000000000); // 0

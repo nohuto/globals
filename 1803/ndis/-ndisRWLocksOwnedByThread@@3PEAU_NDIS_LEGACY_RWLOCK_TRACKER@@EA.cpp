@@ -1,0 +1,3 @@
+// RVA 0x9AFC0, .data
+// Symbol: ?ndisRWLocksOwnedByThread@@3PEAU_NDIS_LEGACY_RWLOCK_TRACKER@@EA
+struct _NDIS_LEGACY_RWLOCK_TRACKER *_ndisRWLocksOwnedByThread__3PEAU_NDIS_LEGACY_RWLOCK_TRACKER__EA = reinterpret_cast<decltype(_ndisRWLocksOwnedByThread__3PEAU_NDIS_LEGACY_RWLOCK_TRACKER__EA)>(0x0000000000000000); // 0

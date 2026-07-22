@@ -1,0 +1,5 @@
+// RVA 0x2F63F8, .rdata
+// Type: const EVENT_DESCRIPTOR
+unsigned char KERNEL_AUDIT_API_IOREGISTERSHUTDOWNNOTIFICATION[0x10] = {
+    0x08, 0x00, 0x00, 0x00, 0x04
+};

@@ -1,0 +1,2 @@
+// RVA 0x12478, .rdata
+const __int64 DEVPKEY_Device_MigrationRank = 0x48B98C7380497100; // 5240374069123707136

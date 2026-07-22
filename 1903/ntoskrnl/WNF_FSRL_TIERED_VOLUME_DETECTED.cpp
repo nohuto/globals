@@ -1,0 +1,2 @@
+// RVA 0x3951A8, .rdata
+unsigned char WNF_FSRL_TIERED_VOLUME_DETECTED = 0x75; // 117

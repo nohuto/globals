@@ -1,0 +1,3 @@
+// RVA 0x701A8, .rdata
+// Symbol: ??_7DXGSHAREDRESOURCE@@6B@
+void *___7DXGSHAREDRESOURCE__6B_ = reinterpret_cast<decltype(___7DXGSHAREDRESOURCE__6B_)>(0x00000001C00063B0); // 7516218288

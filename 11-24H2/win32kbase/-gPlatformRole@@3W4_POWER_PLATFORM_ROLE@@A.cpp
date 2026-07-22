@@ -1,0 +1,3 @@
+// RVA 0x29E888, .data
+// Symbol: ?gPlatformRole@@3W4_POWER_PLATFORM_ROLE@@A
+enum _POWER_PLATFORM_ROLE _gPlatformRole__3W4_POWER_PLATFORM_ROLE__A = 0x00000000; // 0

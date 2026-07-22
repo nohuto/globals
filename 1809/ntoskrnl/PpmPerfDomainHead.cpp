@@ -1,0 +1,2 @@
+// RVA 0x5423F0, ALMOSTRO
+__int64 PpmPerfDomainHead = 0x0000000000000000; // 0

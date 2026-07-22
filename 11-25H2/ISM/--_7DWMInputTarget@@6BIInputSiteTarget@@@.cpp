@@ -1,0 +1,3 @@
+// RVA 0x1D6660, .rdata
+// Symbol: ??_7DWMInputTarget@@6BIInputSiteTarget@@@
+void *___7DWMInputTarget__6BIInputSiteTarget___ = reinterpret_cast<decltype(___7DWMInputTarget__6BIInputSiteTarget___)>(0x00000001800F3CF0); // 6443449584

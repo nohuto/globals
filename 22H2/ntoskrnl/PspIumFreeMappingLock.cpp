@@ -1,0 +1,2 @@
+// RVA 0xC1DFF0, .data
+KSPIN_LOCK PspIumFreeMappingLock = 0x0000000000000000; // 0

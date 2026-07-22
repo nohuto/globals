@@ -1,0 +1,2 @@
+// RVA 0x401668, ALMOSTRO
+__int64 KiIa32MiscEnable = 0x0000000000000000; // 0

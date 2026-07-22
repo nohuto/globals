@@ -1,0 +1,2 @@
+// RVA 0xFC0D20, .data
+KSPIN_LOCK HalpDmaDomainListLock = 0x0000000000000000; // 0

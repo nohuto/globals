@@ -1,0 +1,2 @@
+// RVA 0x3455C0, .data
+ULONGLONG PerfDiagGlobals = 0x0000000000000000; // 0

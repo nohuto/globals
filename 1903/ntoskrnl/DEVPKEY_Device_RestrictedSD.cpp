@@ -1,0 +1,2 @@
+// RVA 0x377118, .rdata
+const __int64 DEVPKEY_Device_RestrictedSD = 0x43CD9CF78C439FF0; // 4885733757790953456

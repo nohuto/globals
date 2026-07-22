@@ -1,0 +1,2 @@
+// RVA 0xC50958, .data
+__int64 HalpApicWaitForCommand = 0x0000000000000000; // 0

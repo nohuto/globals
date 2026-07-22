@@ -1,0 +1,2 @@
+// RVA 0xF86A60, .data
+KSPIN_LOCK BootDriverLock = 0x0000000000000000; // 0

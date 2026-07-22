@@ -1,0 +1,2 @@
+// RVA 0xA9AC60, INIT
+__int64 CmpStartOverrideString = 0x00000000001C001A; // 1835034

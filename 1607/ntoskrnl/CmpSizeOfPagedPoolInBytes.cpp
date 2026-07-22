@@ -1,0 +1,2 @@
+// RVA 0x747E00, PAGEDATA
+__int64 CmpSizeOfPagedPoolInBytes = 0x0000000000000000; // 0

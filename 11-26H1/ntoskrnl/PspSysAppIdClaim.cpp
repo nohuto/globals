@@ -1,0 +1,2 @@
+// RVA 0xBE0B88, PAGE
+__int64 PspSysAppIdClaim = 0x00000000001E001C; // 1966108

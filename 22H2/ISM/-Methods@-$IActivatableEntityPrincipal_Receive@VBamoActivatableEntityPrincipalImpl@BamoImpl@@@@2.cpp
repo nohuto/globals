@@ -1,0 +1,3 @@
+// RVA 0x1AFF10, .rdata
+// Symbol: ?Methods@?$IActivatableEntityPrincipal_Receive@VBamoActivatableEntityPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+__int64 (__fastcall *_Methods___IActivatableEntityPrincipal_Receive_VBamoActivatableEntityPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IActivatableEntityPrincipal_Receive_VBamoActivatableEntityPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180105BD0); // 6443523024

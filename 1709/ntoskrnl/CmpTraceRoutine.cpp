@@ -1,0 +1,2 @@
+// RVA 0x7F3000, PAGEDATA
+__int64 CmpTraceRoutine = 0x0000000000000000; // 0

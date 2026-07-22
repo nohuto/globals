@@ -1,0 +1,2 @@
+// RVA 0x1201868, CFGRO
+ULONG HvlpVsmVtlCallVa = 0x00000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x25AA30, .rdata
+int **Feature_FixGenerateDeparturesForActivePointersKASANBug2__private_requiresFeatures = reinterpret_cast<decltype(Feature_FixGenerateDeparturesForActivePointersKASANBug2__private_requiresFeatures)>(0x000000014029B180); // 5371441536

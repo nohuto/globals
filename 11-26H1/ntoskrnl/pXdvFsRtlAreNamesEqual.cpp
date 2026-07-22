@@ -1,0 +1,2 @@
+// RVA 0xFF1E70, PAGEVRFD
+__int64 pXdvFsRtlAreNamesEqual = 0x0000000000000000; // 0

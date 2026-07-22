@@ -1,0 +1,3 @@
+// RVA 0xD7068, .rdata
+// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$02@WRL@Microsoft@@UISpatialInteractionDevice@@U?$CloakedIid@UISpatialInteractionDevicePrivate@@@23@VFtmBase@23@@WRL@Microsoft@@6BISpatialInteractionDevice@@@
+void *___7__RuntimeClass_U__RuntimeClassFlags__02_WRL_Microsoft__UISpatialInteractionDevice__U__CloakedIid_UISpatialInteractionDevicePrivate___23_VFtmBase_23__WRL_Microsoft__6BISpatialInteractionDevice___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__02_WRL_Microsoft__UISpatialInteractionDevice__U__CloakedIid_UISpatialInteractionDevicePrivate___23_VFtmBase_23__WRL_Microsoft__6BISpatialInteractionDevice___)>(0x00000001800758C0); // 6442932416

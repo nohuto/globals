@@ -1,0 +1,2 @@
+// RVA 0x8747E8, PAGEVRFD
+__int64 pXdvZwOpenThreadToken = 0x0000000000000000; // 0

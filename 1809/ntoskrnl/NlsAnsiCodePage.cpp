@@ -1,0 +1,2 @@
+// RVA 0x96F5D4, PAGEDATA
+USHORT NlsAnsiCodePage = 0x0000; // 0

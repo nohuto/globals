@@ -1,0 +1,2 @@
+// RVA 0x9872A0, PAGEVRFD
+__int64 pXdvKeReadStateTimer = 0x0000000000000000; // 0

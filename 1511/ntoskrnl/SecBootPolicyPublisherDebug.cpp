@@ -1,0 +1,2 @@
+// RVA 0x257610, .rdata
+__int64 SecBootPolicyPublisherDebug = 0x4754D8390CDAD82E; // 5139970814276982830

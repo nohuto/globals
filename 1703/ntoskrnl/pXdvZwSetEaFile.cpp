@@ -1,0 +1,2 @@
+// RVA 0x7BD920, PAGEVRFD
+__int64 pXdvZwSetEaFile = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0x5DB70, .rdata
+// Symbol: ??_7VIDMM_TASK_PENALTY_BOX@@6B@
+void *___7VIDMM_TASK_PENALTY_BOX__6B_ = reinterpret_cast<decltype(___7VIDMM_TASK_PENALTY_BOX__6B_)>(0x00000001400B7750); // 5369460560

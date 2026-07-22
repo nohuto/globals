@@ -1,0 +1,2 @@
+// RVA 0x3951D0, .rdata
+unsigned char WNF_PNPC_DEVICE_INSTALL_REQUESTED = 0x75; // 117

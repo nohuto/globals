@@ -1,0 +1,2 @@
+// RVA 0xC39F50, .data
+ULONG_PTR PopPdcDeviceListLock = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xC48728, .data
+ULONG_PTR CmpShutdownLock = 0x0000000000000000; // 0

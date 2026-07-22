@@ -1,0 +1,2 @@
+// RVA 0x9C7DC8, PAGEVRFD
+__int64 VfDifAPIThunkContextHead = 0x0000000000000000; // 0

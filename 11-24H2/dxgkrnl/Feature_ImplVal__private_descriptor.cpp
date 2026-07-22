@@ -1,0 +1,2 @@
+// RVA 0x15F158, .rdata
+_UNKNOWN *Feature_ImplVal__private_descriptor = reinterpret_cast<decltype(Feature_ImplVal__private_descriptor)>(0x0000000140163808); // 5370165256

@@ -1,0 +1,2 @@
+// RVA 0x2A9990, .rdata
+const __int64 DEVPKEY_DeviceClass_LastDeleteDate = 0x47CE50A7259ABFFC; // 5174161700715937788

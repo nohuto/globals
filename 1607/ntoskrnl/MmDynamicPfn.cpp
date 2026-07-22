@@ -1,0 +1,2 @@
+// RVA 0x3AA6B8, ALMOSTRO
+__int64 MmDynamicPfn = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0x1B8668, .rdata
+// Symbol: ??_7SimpleTimeProvider@HapticsEngine@SpatialInteractions@Internal@Windows@@6BITimerElapsedHandler@Threading@System@4@@
+void *___7SimpleTimeProvider_HapticsEngine_SpatialInteractions_Internal_Windows__6BITimerElapsedHandler_Threading_System_4__ = reinterpret_cast<decltype(___7SimpleTimeProvider_HapticsEngine_SpatialInteractions_Internal_Windows__6BITimerElapsedHandler_Threading_System_4__)>(0x000000018004DF80); // 6442770304

@@ -1,0 +1,2 @@
+// RVA 0x2A5998, .rdata
+unsigned char WNF_PO_THERMAL_SHUTDOWN_OCCURRED = 0x75; // 117

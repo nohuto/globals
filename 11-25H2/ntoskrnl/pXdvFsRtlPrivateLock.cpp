@@ -1,0 +1,2 @@
+// RVA 0xFFD808, PAGEVRFD
+__int64 pXdvFsRtlPrivateLock = 0x0000000000000000; // 0

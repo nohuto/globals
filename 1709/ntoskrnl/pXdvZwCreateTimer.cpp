@@ -1,0 +1,2 @@
+// RVA 0x804700, PAGEVRFD
+__int64 pXdvZwCreateTimer = 0x0000000000000000; // 0

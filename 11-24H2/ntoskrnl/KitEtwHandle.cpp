@@ -1,0 +1,2 @@
+// RVA 0xE684F0, .data
+REGHANDLE KitEtwHandle = 0x0000000000000000; // 0

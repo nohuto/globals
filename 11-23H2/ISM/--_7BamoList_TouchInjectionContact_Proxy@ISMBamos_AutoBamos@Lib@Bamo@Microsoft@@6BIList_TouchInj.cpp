@@ -1,0 +1,3 @@
+// RVA 0x20C750, .rdata
+// Symbol: ??_7BamoList_TouchInjectionContact_Proxy@ISMBamos_AutoBamos@Lib@Bamo@Microsoft@@6BIList_TouchInjectionContact_Proxy@1234@@
+void *___7BamoList_TouchInjectionContact_Proxy_ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_TouchInjectionContact_Proxy_1234__ = reinterpret_cast<decltype(___7BamoList_TouchInjectionContact_Proxy_ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_TouchInjectionContact_Proxy_1234__)>(0x000000018006A0D0); // 6442885328

@@ -1,0 +1,2 @@
+// RVA 0xFC6CB0, ALMOSTRO
+int KiTLBCOverride = 0x00000000; // 0

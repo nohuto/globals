@@ -1,0 +1,3 @@
+// RVA 0x247A98, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUsvzgUoryUlyquivUznwGEUkxsOlyq@HeatProcessor
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUsvzgUoryUlyquivUznwGEUkxsOlyq_HeatProcessor = 0x00; // 0

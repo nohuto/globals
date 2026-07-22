@@ -1,0 +1,2 @@
+// RVA 0x9C7FD8, PAGEVRFD
+__int64 pXdvKeInitializeMutex = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x344E58, .data
+REGHANDLE EtwCVEAuditProvRegHandle = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0x398128, .data
+// Symbol: ?g_LLPMachineState@@3ULLP_MACHINE_STATE@@A
+struct W32_PUSH_LOCK _g_LLPMachineState__3ULLP_MACHINE_STATE__A = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x70B760, PAGEVRFD
+unsigned long long pXdvZwLoadKey = 0x0000000140152540; // 5370094912

@@ -1,0 +1,3 @@
+// RVA 0x31B030, .data
+// Symbol: ?gpdaHDCBITSCreation@@3W4PROCESS_DPI_AWARENESS@@A
+unsigned int _gpdaHDCBITSCreation__3W4PROCESS_DPI_AWARENESS__A = 0xFFFFFFFF; // 4294967295

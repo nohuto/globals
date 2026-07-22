@@ -1,0 +1,3 @@
+// RVA 0x8E8F8, .rdata
+// Symbol: ??_7BLTQUEUE_HW_VSYNC_SOURCE@@6B@
+void *___7BLTQUEUE_HW_VSYNC_SOURCE__6B_ = reinterpret_cast<decltype(___7BLTQUEUE_HW_VSYNC_SOURCE__6B_)>(0x00000001C006E820); // 7516645408

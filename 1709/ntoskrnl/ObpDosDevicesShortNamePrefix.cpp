@@ -1,0 +1,2 @@
+// RVA 0x78CA78, PAGE
+__int64 ObpDosDevicesShortNamePrefix = 0x005C003F003F005C; // 25895968444448860

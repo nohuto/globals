@@ -1,0 +1,2 @@
+// RVA 0x80B570, INITDATA
+int ExpMultiUserTS = 0x00000000; // 0

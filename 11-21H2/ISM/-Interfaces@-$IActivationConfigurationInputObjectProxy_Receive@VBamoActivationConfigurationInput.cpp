@@ -1,0 +1,3 @@
+// RVA 0x1E3EF0, .rdata
+// Symbol: ?Interfaces@?$IActivationConfigurationInputObjectProxy_Receive@VBamoActivationConfigurationInputObjectProxyImpl@BamoImpl@@@@2QBUMsgCallInterfaceTableEntry@@B
+unsigned char _Interfaces___IActivationConfigurationInputObjectProxy_Receive_VBamoActivationConfigurationInputObjectProxyImpl_BamoImpl____2QBUMsgCallInterfaceTableEntry__B = 0x01; // 1

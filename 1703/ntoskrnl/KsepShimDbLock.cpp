@@ -1,0 +1,2 @@
+// RVA 0x34FC88, .data
+ULONG_PTR KsepShimDbLock = 0x0000000000000000; // 0

@@ -1,0 +1,7 @@
+// RVA 0x75238, .rdata
+// Symbol: ?UpperBindValueName@Ndis@@3U_UNICODE_STRING@@B
+// Type: const struct _UNICODE_STRING
+unsigned char _UpperBindValueName_Ndis__3U_UNICODE_STRING__B[0x10] = {
+    0x12, 0x00, 0x14, 0x00, 0x00, 0x00, 0x00, 0x00, 0xB8, 0x7A, 0x07, 0xC0,
+    0x01
+};

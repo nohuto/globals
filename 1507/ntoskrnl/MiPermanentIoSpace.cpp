@@ -1,0 +1,2 @@
+// RVA 0x3D1760, ALMOSTRO
+__int64 MiPermanentIoSpace = 0x0000000000000000; // 0

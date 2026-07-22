@@ -1,0 +1,2 @@
+// RVA 0x332840, .data
+ULONG_PTR KiUserCodePatchMutex = 0x0000000000000000; // 0

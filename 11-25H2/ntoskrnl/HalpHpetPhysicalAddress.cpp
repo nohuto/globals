@@ -1,0 +1,3 @@
+// RVA 0xF8E630, .data
+// Type: LARGE_INTEGER
+unsigned char HalpHpetPhysicalAddress[0x8] = {};

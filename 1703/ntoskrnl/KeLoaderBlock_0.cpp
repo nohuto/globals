@@ -1,0 +1,2 @@
+// RVA 0x3E3FE0, ALMOSTRO
+__int64 KeLoaderBlock_0 = 0x0000000000000000; // 0

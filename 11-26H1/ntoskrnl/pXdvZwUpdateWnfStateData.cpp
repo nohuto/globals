@@ -1,0 +1,2 @@
+// RVA 0xFF2800, PAGEVRFD
+__int64 pXdvZwUpdateWnfStateData = 0x0000000000000000; // 0

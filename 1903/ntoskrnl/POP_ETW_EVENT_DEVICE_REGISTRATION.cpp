@@ -1,0 +1,2 @@
+// RVA 0x378CD8, .rdata
+unsigned char POP_ETW_EVENT_DEVICE_REGISTRATION = 0x2F; // 47

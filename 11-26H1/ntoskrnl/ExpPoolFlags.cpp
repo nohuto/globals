@@ -1,0 +1,2 @@
+// RVA 0xFC0DA8, ALMOSTRO
+__int64 ExpPoolFlags = 0x0000000000000000; // 0

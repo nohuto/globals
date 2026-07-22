@@ -1,0 +1,2 @@
+// RVA 0xFD9E48, PAGEDATA
+__int64 SeMediumSacl = 0x0000000000000000; // 0

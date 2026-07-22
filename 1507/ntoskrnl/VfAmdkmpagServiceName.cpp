@@ -1,0 +1,2 @@
+// RVA 0x72F0F8, PAGEVRFY
+__int64 VfAmdkmpagServiceName = 0x0000000000120010; // 1179664

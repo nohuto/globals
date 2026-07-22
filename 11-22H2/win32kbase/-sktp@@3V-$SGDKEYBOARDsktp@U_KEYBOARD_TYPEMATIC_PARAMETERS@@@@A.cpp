@@ -1,0 +1,3 @@
+// RVA 0x293CDC, .data
+// Symbol: ?sktp@@3V?$SGDKEYBOARDsktp@U_KEYBOARD_TYPEMATIC_PARAMETERS@@@@A
+unsigned char _sktp__3V__SGDKEYBOARDsktp_U_KEYBOARD_TYPEMATIC_PARAMETERS____A = 0x00; // 0

@@ -1,0 +1,3 @@
+// RVA 0x172260, .rdata
+// Symbol: ?Methods@?$IActivationConfigurationInputObjectProxy_Receive@VBamoActivationConfigurationInputObjectProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+__int64 (__fastcall *_Methods___IActivationConfigurationInputObjectProxy_Receive_VBamoActivationConfigurationInputObjectProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IActivationConfigurationInputObjectProxy_Receive_VBamoActivationConfigurationInputObjectProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180009EB0); // 6442491568

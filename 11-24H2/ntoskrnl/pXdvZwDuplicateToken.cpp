@@ -1,0 +1,2 @@
+// RVA 0xFFE1D8, PAGEVRFD
+__int64 pXdvZwDuplicateToken = 0x0000000000000000; // 0

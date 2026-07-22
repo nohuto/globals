@@ -1,0 +1,2 @@
+// RVA 0x78E200, PAGEVRFD
+__int64 ViFnXdvQueryDispatchTable = 0x0000000000000000; // 0

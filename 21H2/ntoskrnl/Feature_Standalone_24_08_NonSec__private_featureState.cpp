@@ -1,0 +1,2 @@
+// RVA 0xCDB2D8, .data
+unsigned char Feature_Standalone_24_08_NonSec__private_featureState = 0x00; // 0

@@ -1,0 +1,3 @@
+// RVA 0x172E30, .rdata
+// Symbol: ?Interfaces@?$IDragNDropContextualProcessorPrincipal_Receive@VBamoDragNDropContextualProcessorPrincipalImpl@BamoImpl@@@@2QBUMsgCallInterfaceTableEntry@@B
+unsigned char _Interfaces___IDragNDropContextualProcessorPrincipal_Receive_VBamoDragNDropContextualProcessorPrincipalImpl_BamoImpl____2QBUMsgCallInterfaceTableEntry__B = 0x11; // 17

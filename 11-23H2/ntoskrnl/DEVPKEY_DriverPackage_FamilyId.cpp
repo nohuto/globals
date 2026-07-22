@@ -1,0 +1,2 @@
+// RVA 0x3E060, .rdata
+__int64 DEVPKEY_DriverPackage_FamilyId = 0x4F7A142C8163EB01; // 5726912057536932609

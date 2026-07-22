@@ -1,0 +1,3 @@
+// RVA 0x55968, .rdata
+// Symbol: ??_7?$AutoBuffer@U_DMM_VIDPNPATHANDTARGETMODESET_SERIALIZATION@@@DMM@@6BNonReferenceCounted@@@
+void *___7__AutoBuffer_U_DMM_VIDPNPATHANDTARGETMODESET_SERIALIZATION___DMM__6BNonReferenceCounted___ = reinterpret_cast<decltype(___7__AutoBuffer_U_DMM_VIDPNPATHANDTARGETMODESET_SERIALIZATION___DMM__6BNonReferenceCounted___)>(0x00000001C001CA40); // 7516310080

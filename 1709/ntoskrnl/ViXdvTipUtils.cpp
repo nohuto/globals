@@ -1,0 +1,2 @@
+// RVA 0x804070, PAGEVRFD
+__int64 ViXdvTipUtils = 0x0000000000000000; // 0

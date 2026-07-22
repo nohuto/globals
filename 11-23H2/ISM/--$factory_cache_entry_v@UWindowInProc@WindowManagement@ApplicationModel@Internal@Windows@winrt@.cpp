@@ -1,0 +1,3 @@
+// RVA 0x2692D0, .data
+// Symbol: ??$factory_cache_entry_v@UWindowInProc@WindowManagement@ApplicationModel@Internal@Windows@winrt@@UIWindowStatics@23456@@impl@winrt@@3U?$factory_cache_entry@UWindowInProc@WindowManagement@ApplicationModel@Internal@Windows@winrt@@UIWindowStatics@23456@@12@A
+__int64 ___factory_cache_entry_v_UWindowInProc_WindowManagement_ApplicationModel_Internal_Windows_winrt__UIWindowStatics_23456__impl_winrt__3U__factory_cache_entry_UWindowInProc_WindowManagement_ApplicationModel_Internal_Windows_winrt__UIWindowStatics_23456__12_A = 0x0000000000000000; // 0

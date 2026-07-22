@@ -1,0 +1,2 @@
+// RVA 0xAA48, .rdata
+__int64 DEVPKEY_DeviceId_DriverInfMatches = 0x4F7A142C8163EB04; // 5726912057536932612

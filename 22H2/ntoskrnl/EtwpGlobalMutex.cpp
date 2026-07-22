@@ -1,0 +1,2 @@
+// RVA 0xC19960, .data
+ULONG_PTR EtwpGlobalMutex = 0x0000000000000000; // 0

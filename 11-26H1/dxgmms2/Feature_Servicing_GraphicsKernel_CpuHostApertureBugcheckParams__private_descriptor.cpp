@@ -1,0 +1,2 @@
+// RVA 0x88BE0, .rdata
+int *Feature_Servicing_GraphicsKernel_CpuHostApertureBugcheckParams__private_descriptor = reinterpret_cast<decltype(Feature_Servicing_GraphicsKernel_CpuHostApertureBugcheckParams__private_descriptor)>(0x0000000140089D28); // 5369273640

@@ -1,0 +1,2 @@
+// RVA 0x206690, .rdata
+unsigned char WNF_TMCN_REMOTECLIENTTOUCHPREFERRED = 0x35; // 53

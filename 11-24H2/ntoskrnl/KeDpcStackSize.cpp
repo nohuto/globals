@@ -1,0 +1,2 @@
+// RVA 0xFC5198, ALMOSTRO
+int KeDpcStackSize = 0x00006000; // 24576

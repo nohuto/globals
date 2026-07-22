@@ -1,0 +1,2 @@
+// RVA 0xB3DE38, PAGE
+__int64 PspPerfOptionsKeyName = 0x0000000000180016; // 1572886

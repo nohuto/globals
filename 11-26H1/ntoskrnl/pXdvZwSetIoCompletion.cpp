@@ -1,0 +1,2 @@
+// RVA 0xFF2740, PAGEVRFD
+__int64 pXdvZwSetIoCompletion = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x78F2E8, PAGEVRFD
+unsigned long long pXdvZwOpenKeyEx = 0x0000000140181170; // 5370286448

@@ -1,0 +1,2 @@
+// RVA 0x2D40E0, .data
+__int64 ExpUnknownDeviceGuid = 0x11D2C24ECF31FAC5; // 1284302487493409477

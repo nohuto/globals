@@ -1,0 +1,3 @@
+// RVA 0xA9118, .rdata
+// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIInputServiceProxy@@UIMessageProxyReconnectAdapterOwner@@VNil@Details@23@V6723@V6723@V6723@V6723@V6723@V6723@@WRL@Microsoft@@6BIInputServiceProxy@@@
+void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIInputServiceProxy__UIMessageProxyReconnectAdapterOwner__VNil_Details_23_V6723_V6723_V6723_V6723_V6723_V6723__WRL_Microsoft__6BIInputServiceProxy___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIInputServiceProxy__UIMessageProxyReconnectAdapterOwner__VNil_Details_23_V6723_V6723_V6723_V6723_V6723_V6723__WRL_Microsoft__6BIInputServiceProxy___)>(0x0000000180088A00); // 6443010560

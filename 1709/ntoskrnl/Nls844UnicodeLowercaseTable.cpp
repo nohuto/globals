@@ -1,0 +1,2 @@
+// RVA 0x7F3CE8, PAGEDATA
+__int64 Nls844UnicodeLowercaseTable = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xD81740, INITDATA
+__int64 VslpIumKsrInitContext = 0x0000000000000000; // 0

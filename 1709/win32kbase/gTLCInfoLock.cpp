@@ -1,0 +1,2 @@
+// RVA 0x193670, .data
+struct RIMLOCK gTLCInfoLock = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0x2A98CE, .data
+// Symbol: ?gProximityLastPowerPressTime@@3V?$SGPOWERgProximityLastPowerPressTime@_K@@A
+unsigned char _gProximityLastPowerPressTime__3V__SGPOWERgProximityLastPowerPressTime__K__A = 0x00; // 0

@@ -1,0 +1,2 @@
+// RVA 0x2AFF58, .rdata
+unsigned char PPM_ETW_VIRTUAL_HETEROGENEITY_RUNDOWN = 0x7C; // 124

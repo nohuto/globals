@@ -1,0 +1,2 @@
+// RVA 0x255950, .rdata
+unsigned char WNF_PO_THERMAL_HIBERNATE_OCCURRED = 0x75; // 117

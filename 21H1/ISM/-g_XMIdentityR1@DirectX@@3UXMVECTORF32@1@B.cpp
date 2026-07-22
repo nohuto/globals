@@ -1,0 +1,5 @@
+// RVA 0x1D3E20, .rdata
+// Symbol: ?g_XMIdentityR1@DirectX@@3UXMVECTORF32@1@B
+unsigned char _g_XMIdentityR1_DirectX__3UXMVECTORF32_1_B[0x10] = {
+    0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x80, 0x3F
+};

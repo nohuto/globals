@@ -1,0 +1,2 @@
+// RVA 0xD4A068, PAGEVRFD
+size_t ViCtxXStateSize = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0x1765C8, .rdata
+// Symbol: ??_7InitializeSpatialObjectDeviceSupport@SpatialInteractionTrace@SpatialInteractionDevices@@6B@
+void *___7InitializeSpatialObjectDeviceSupport_SpatialInteractionTrace_SpatialInteractionDevices__6B_ = reinterpret_cast<decltype(___7InitializeSpatialObjectDeviceSupport_SpatialInteractionTrace_SpatialInteractionDevices__6B_)>(0x00000001800E2D90); // 6443380112

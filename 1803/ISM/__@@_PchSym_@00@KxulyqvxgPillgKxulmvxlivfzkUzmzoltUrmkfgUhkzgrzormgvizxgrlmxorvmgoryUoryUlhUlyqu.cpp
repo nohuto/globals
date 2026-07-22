@@ -1,0 +1,3 @@
+// RVA 0x136378, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUzmzoltUrmkfgUhkzgrzormgvizxgrlmxorvmgoryUoryUlhUlyquivUznwGEUkivxlnkOlyq@SpatialInteractionDevice
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUzmzoltUrmkfgUhkzgrzormgvizxgrlmxorvmgoryUoryUlhUlyquivUznwGEUkivxlnkOlyq_SpatialInteractionDevice = 0x00; // 0

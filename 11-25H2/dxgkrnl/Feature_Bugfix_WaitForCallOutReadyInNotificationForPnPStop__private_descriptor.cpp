@@ -1,0 +1,2 @@
+// RVA 0x15A8E0, .rdata
+int *Feature_Bugfix_WaitForCallOutReadyInNotificationForPnPStop__private_descriptor = reinterpret_cast<decltype(Feature_Bugfix_WaitForCallOutReadyInNotificationForPnPStop__private_descriptor)>(0x000000014015EA08); // 5370145288

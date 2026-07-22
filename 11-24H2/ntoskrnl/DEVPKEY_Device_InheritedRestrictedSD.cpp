@@ -1,0 +1,2 @@
+// RVA 0x112E8, .rdata
+__int64 DEVPKEY_Device_InheritedRestrictedSD = 0x43CD9CF78C439FF0; // 4885733757790953456

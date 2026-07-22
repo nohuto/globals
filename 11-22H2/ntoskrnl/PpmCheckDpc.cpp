@@ -1,0 +1,2 @@
+// RVA 0xC3C0E0, .data
+ULONG_PTR PpmCheckDpc = 0x0000000000000000; // 0

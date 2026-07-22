@@ -1,0 +1,2 @@
+// RVA 0x37A5E8, .rdata
+unsigned char WNF_PO_BASIC_BRIGHTNESS_ENGINE_DISABLED = 0x75; // 117

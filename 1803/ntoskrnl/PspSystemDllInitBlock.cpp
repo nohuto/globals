@@ -1,0 +1,2 @@
+// RVA 0x8629E8, PAGEDATA
+__int64 PspSystemDllInitBlock = 0x0000000000000000; // 0

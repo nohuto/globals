@@ -1,0 +1,2 @@
+// RVA 0xD1ED3C, ALMOSTRO
+int KiNPIEPEnabled = 0x00000000; // 0

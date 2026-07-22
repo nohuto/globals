@@ -1,0 +1,2 @@
+// RVA 0x3778D8, .rdata
+__int64 s_ProviderThreatInt = 0x5668BB5DF4E1897C; // 6226432497054484860

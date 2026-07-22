@@ -1,0 +1,2 @@
+// RVA 0x758D38, PAGEVRFD
+__int64 pXdvFsRtlProcessFileLock = 0x0000000000000000; // 0

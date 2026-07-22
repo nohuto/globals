@@ -1,0 +1,2 @@
+// RVA 0x78D558, PAGE
+__int64 ObpObjectTypesNameString = 0x0000000000180016; // 1572886

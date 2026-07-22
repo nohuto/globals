@@ -1,0 +1,2 @@
+// RVA 0x3840A0, .data
+ULONG_PTR IopRootDeviceNode = 0x0000000000000000; // 0

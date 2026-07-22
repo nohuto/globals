@@ -1,0 +1,2 @@
+// RVA 0xFFE378, PAGEVRFD
+__int64 pXdvZwAlpcConnectPort = 0x0000000000000000; // 0

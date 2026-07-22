@@ -1,0 +1,2 @@
+// RVA 0x987CF8, PAGEVRFD
+__int64 pXdvKeTestSpinLock = 0x0000000000000000; // 0

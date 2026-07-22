@@ -1,0 +1,2 @@
+// RVA 0xA96348, INIT
+__int64 CmpVerifierOptions = 0x000000000020001E; // 2097182

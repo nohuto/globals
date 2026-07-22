@@ -1,0 +1,2 @@
+// RVA 0x9C9330, PAGEVRFD
+__int64 pXdvZwUnmapViewOfSection = 0x0000000000000000; // 0

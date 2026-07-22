@@ -1,0 +1,2 @@
+// RVA 0x211F8, .rdata
+__int64 DEVPKEY_DriverPackage_Isolated = 0x4F7A142C8163EB01; // 5726912057536932609

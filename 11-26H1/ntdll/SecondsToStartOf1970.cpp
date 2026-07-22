@@ -1,0 +1,2 @@
+// RVA 0x17BBF8, .rdata
+__int64 SecondsToStartOf1970 = 0x00000002B6109100; // 11644473600

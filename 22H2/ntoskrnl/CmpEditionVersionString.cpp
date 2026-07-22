@@ -1,0 +1,2 @@
+// RVA 0x9843C8, PAGE
+__int64 CmpEditionVersionString = 0x00000000001E001C; // 1966108

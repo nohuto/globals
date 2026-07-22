@@ -1,0 +1,3 @@
+// RVA 0x1DAA60, .rdata
+// Symbol: ??_7?$_Func_impl_no_alloc@V_lambda_329431f877b8a1cf1c33d43387e7f0d1_@@XPEBU_MIT_BASE_INPUT_OBSERVER_PACKET@@@std@@6B@
+void *___7___Func_impl_no_alloc_V_lambda_329431f877b8a1cf1c33d43387e7f0d1___XPEBU_MIT_BASE_INPUT_OBSERVER_PACKET___std__6B_ = reinterpret_cast<decltype(___7___Func_impl_no_alloc_V_lambda_329431f877b8a1cf1c33d43387e7f0d1___XPEBU_MIT_BASE_INPUT_OBSERVER_PACKET___std__6B_)>(0x00000001801378D0); // 6443727056

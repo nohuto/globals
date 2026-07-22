@@ -1,0 +1,3 @@
+// RVA 0x1AE640, .rdata
+// Symbol: ?Methods@?$IInputSiteManagerPrincipal_Receive@VBamoInputSiteManagerPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+_UNKNOWN *_Methods___IInputSiteManagerPrincipal_Receive_VBamoInputSiteManagerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B = reinterpret_cast<decltype(_Methods___IInputSiteManagerPrincipal_Receive_VBamoInputSiteManagerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180006020); // 6442475552

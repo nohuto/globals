@@ -1,0 +1,3 @@
+// RVA 0x1A9420, .rdata
+// Symbol: ??_7EdgyControllerServer@@6BIEdgyControllerServerPrincipal@@@
+void *___7EdgyControllerServer__6BIEdgyControllerServerPrincipal___ = reinterpret_cast<decltype(___7EdgyControllerServer__6BIEdgyControllerServerPrincipal___)>(0x000000018004B520); // 6442759456

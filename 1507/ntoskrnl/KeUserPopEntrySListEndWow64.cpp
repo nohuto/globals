@@ -1,0 +1,2 @@
+// RVA 0x3D16F0, ALMOSTRO
+__int64 KeUserPopEntrySListEndWow64 = 0x0000000000000000; // 0

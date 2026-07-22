@@ -1,0 +1,2 @@
+// RVA 0x3AA6D0, ALMOSTRO
+__int64 KeUmsThreadYield = 0x0000000000000000; // 0

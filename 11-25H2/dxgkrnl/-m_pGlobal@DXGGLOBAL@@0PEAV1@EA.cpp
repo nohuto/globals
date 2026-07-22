@@ -1,0 +1,3 @@
+// RVA 0x15DA50, .data
+// Symbol: ?m_pGlobal@DXGGLOBAL@@0PEAV1@EA
+ULONG _m_pGlobal_DXGGLOBAL__0PEAV1_EA = 0x00000000; // 0

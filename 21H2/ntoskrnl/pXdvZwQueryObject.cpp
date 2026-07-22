@@ -1,0 +1,2 @@
+// RVA 0xD4A940, PAGEVRFD
+__int64 pXdvZwQueryObject = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0x25DF18, .data
+// Symbol: ?apal3BPP@@3PAUtagPALETTEENTRY@@A
+unsigned char _apal3BPP__3PAUtagPALETTEENTRY__A = 0x00; // 0

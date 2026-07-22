@@ -1,0 +1,2 @@
+// RVA 0xC0358, .rdata
+unsigned char WNF_DX_EXTERNAL_BRIGHTNESS_POLICY_CHANGED = 0x35; // 53

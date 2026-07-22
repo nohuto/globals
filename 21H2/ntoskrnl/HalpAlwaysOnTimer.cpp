@@ -1,0 +1,2 @@
+// RVA 0xC4C188, .data
+ULONG_PTR HalpAlwaysOnTimer = 0x0000000000000000; // 0

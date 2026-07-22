@@ -1,0 +1,2 @@
+// RVA 0xE67BF0, .data
+__int64 VfExtendedParameters = 0x0000000000000000; // 0

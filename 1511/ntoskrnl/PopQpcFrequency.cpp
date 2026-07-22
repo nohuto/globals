@@ -1,0 +1,2 @@
+// RVA 0x382418, ALMOSTRO
+__int64 PopQpcFrequency = 0x0000000000000000; // 0

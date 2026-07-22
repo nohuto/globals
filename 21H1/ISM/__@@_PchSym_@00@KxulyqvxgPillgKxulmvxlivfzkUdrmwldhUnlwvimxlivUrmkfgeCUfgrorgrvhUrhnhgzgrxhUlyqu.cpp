@@ -1,0 +1,3 @@
+// RVA 0x20A418, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUfgrorgrvhUrhnhgzgrxhUlyquivUznwGEUkxsOlyq@ISMStatics
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUfgrorgrvhUrhnhgzgrxhUlyquivUznwGEUkxsOlyq_ISMStatics = 0x00; // 0

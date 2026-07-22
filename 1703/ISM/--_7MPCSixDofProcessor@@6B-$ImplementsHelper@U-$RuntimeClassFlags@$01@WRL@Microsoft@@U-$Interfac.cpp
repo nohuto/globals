@@ -1,0 +1,3 @@
+// RVA 0xA68C0, .rdata
+// Symbol: ??_7MPCSixDofProcessor@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@U?$InterfaceList@UIMPCInputProviderBase@@VNil@Details@WRL@Microsoft@@@Details@23@$00$0A@@Details@WRL@Microsoft@@@
+void *___7MPCSixDofProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft__U__InterfaceList_UIMPCInputProviderBase__VNil_Details_WRL_Microsoft___Details_23__00_0A__Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7MPCSixDofProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft__U__InterfaceList_UIMPCInputProviderBase__VNil_Details_WRL_Microsoft___Details_23__00_0A__Details_WRL_Microsoft___)>(0x0000000180046E60); // 6442741344

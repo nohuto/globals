@@ -1,0 +1,2 @@
+// RVA 0xFC6F10, ALMOSTRO
+__int64 KasaniShadow = 0x0000000000000000; // 0

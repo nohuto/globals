@@ -1,0 +1,2 @@
+// RVA 0x378F88, .rdata
+unsigned char POP_ETW_EVENT_SESSION_DISPLAY_OFF = 0x95; // 149

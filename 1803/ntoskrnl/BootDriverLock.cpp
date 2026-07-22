@@ -1,0 +1,2 @@
+// RVA 0x3C9900, .data
+KSPIN_LOCK BootDriverLock = 0x0000000000000000; // 0

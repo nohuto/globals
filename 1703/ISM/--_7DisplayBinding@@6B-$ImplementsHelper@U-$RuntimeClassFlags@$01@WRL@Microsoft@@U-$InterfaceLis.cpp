@@ -1,0 +1,3 @@
+// RVA 0xA4858, .rdata
+// Symbol: ??_7DisplayBinding@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@U?$InterfaceList@UIInputDisplayOrientationListener@@VNil@Details@WRL@Microsoft@@@Details@23@$00$0A@@Details@WRL@Microsoft@@@
+void *___7DisplayBinding__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft__U__InterfaceList_UIInputDisplayOrientationListener__VNil_Details_WRL_Microsoft___Details_23__00_0A__Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7DisplayBinding__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft__U__InterfaceList_UIInputDisplayOrientationListener__VNil_Details_WRL_Microsoft___Details_23__00_0A__Details_WRL_Microsoft___)>(0x0000000180019A80); // 6442556032

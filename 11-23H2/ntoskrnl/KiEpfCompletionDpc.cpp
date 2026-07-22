@@ -1,0 +1,2 @@
+// RVA 0xC41720, .data
+ULONG_PTR KiEpfCompletionDpc = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xC3148C, .data
+ULONG_PTR KiClockTimerOwner = 0x0000000000000000; // 0

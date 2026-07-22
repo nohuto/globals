@@ -1,0 +1,2 @@
+// RVA 0x44D580, ALMOSTRO
+__int64 KiGroupBlock = 0x0000000000000000; // 0

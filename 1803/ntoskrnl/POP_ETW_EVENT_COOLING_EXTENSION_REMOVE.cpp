@@ -1,0 +1,2 @@
+// RVA 0x2F84C8, .rdata
+unsigned char POP_ETW_EVENT_COOLING_EXTENSION_REMOVE = 0x99; // 153

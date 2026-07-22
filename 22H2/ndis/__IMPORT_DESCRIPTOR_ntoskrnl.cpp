@@ -1,0 +1,2 @@
+// RVA 0xF4C08, .idata
+__int16 **__ptr32 __IMPORT_DESCRIPTOR_ntoskrnl = reinterpret_cast<decltype(__IMPORT_DESCRIPTOR_ntoskrnl)>(0x000F4D30); // 1002800

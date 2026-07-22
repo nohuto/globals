@@ -1,0 +1,2 @@
+// RVA 0x42F5E0, .data
+ULONG_PTR ExpWakeTimerLock = 0x0000000000000000; // 0

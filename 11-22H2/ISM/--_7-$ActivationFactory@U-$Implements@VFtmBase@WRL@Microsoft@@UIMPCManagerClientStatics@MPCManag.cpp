@@ -1,0 +1,3 @@
+// RVA 0x215E80, .rdata
+// Symbol: ??_7?$ActivationFactory@U?$Implements@VFtmBase@WRL@Microsoft@@UIMPCManagerClientStatics@MPCManager@Input@Internal@Windows@@@WRL@Microsoft@@VNil@Details@23@V4523@$0A@@WRL@Microsoft@@6B@
+void *___7__ActivationFactory_U__Implements_VFtmBase_WRL_Microsoft__UIMPCManagerClientStatics_MPCManager_Input_Internal_Windows___WRL_Microsoft__VNil_Details_23_V4523__0A__WRL_Microsoft__6B_ = reinterpret_cast<decltype(___7__ActivationFactory_U__Implements_VFtmBase_WRL_Microsoft__UIMPCManagerClientStatics_MPCManager_Input_Internal_Windows___WRL_Microsoft__VNil_Details_23_V4523__0A__WRL_Microsoft__6B_)>(0x0000000180189B10); // 6444063504

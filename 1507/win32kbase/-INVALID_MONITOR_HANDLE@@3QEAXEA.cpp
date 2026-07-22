@@ -1,0 +1,3 @@
+// RVA 0xEE488, .rdata
+// Symbol: ?INVALID_MONITOR_HANDLE@@3QEAXEA
+unsigned char _INVALID_MONITOR_HANDLE__3QEAXEA = 0xFF; // 255

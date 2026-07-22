@@ -1,0 +1,2 @@
+// RVA 0x2E6D50, .rdata
+const __int64 szRadio = 0x006B006C006D006E; // 30118286371651694

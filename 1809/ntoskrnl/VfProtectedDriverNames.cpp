@@ -1,0 +1,2 @@
+// RVA 0x91B6F0, PAGEVRFY
+__int64 VfProtectedDriverNames = 0x0000000000120010; // 1179664

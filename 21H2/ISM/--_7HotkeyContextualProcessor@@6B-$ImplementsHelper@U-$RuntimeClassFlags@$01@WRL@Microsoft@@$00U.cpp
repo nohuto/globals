@@ -1,0 +1,3 @@
+// RVA 0x1B7388, .rdata
+// Symbol: ??_7HotkeyContextualProcessor@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@$00UITextInputStateAdapterOwner@@@Details@WRL@Microsoft@@@
+void *___7HotkeyContextualProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UITextInputStateAdapterOwner___Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7HotkeyContextualProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UITextInputStateAdapterOwner___Details_WRL_Microsoft___)>(0x000000018004D6F0); // 6442768112

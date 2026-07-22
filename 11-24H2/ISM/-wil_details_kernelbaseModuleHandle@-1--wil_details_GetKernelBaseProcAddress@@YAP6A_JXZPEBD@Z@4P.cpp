@@ -1,0 +1,3 @@
+// RVA 0x256B08, .data
+// Symbol: ?wil_details_kernelbaseModuleHandle@?1??wil_details_GetKernelBaseProcAddress@@YAP6A_JXZPEBD@Z@4PEAUHINSTANCE__@@EA
+HMODULE _wil_details_kernelbaseModuleHandle__1__wil_details_GetKernelBaseProcAddress__YAP6A_JXZPEBD_Z_4PEAUHINSTANCE____EA = reinterpret_cast<decltype(_wil_details_kernelbaseModuleHandle__1__wil_details_GetKernelBaseProcAddress__YAP6A_JXZPEBD_Z_4PEAUHINSTANCE____EA)>(0x0000000000000000); // 0

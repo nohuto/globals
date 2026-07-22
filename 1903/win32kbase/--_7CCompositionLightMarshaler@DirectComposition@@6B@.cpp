@@ -1,0 +1,3 @@
+// RVA 0x1CF860, .rdata
+// Symbol: ??_7CCompositionLightMarshaler@DirectComposition@@6B@
+void *___7CCompositionLightMarshaler_DirectComposition__6B_ = reinterpret_cast<decltype(___7CCompositionLightMarshaler_DirectComposition__6B_)>(0x00000001C00AF620); // 7516911136

@@ -1,0 +1,2 @@
+// RVA 0xFC5AC8, ALMOSTRO
+__int64 PpmPlatformStates = 0x0000000000000000; // 0

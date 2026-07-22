@@ -1,0 +1,2 @@
+// RVA 0x9C7F3C, PAGEVRFD
+ULONG ViRandomSeed = 0x00000000; // 0

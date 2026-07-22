@@ -1,0 +1,2 @@
+// RVA 0x395590, .rdata
+unsigned char WNF_PO_BATTERY_CHARGE_LIMITING_MODE = 0x75; // 117

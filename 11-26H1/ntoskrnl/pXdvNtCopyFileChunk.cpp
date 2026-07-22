@@ -1,0 +1,2 @@
+// RVA 0xFF2518, PAGEVRFD
+__int64 pXdvNtCopyFileChunk = 0x0000000000000000; // 0

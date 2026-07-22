@@ -1,0 +1,2 @@
+// RVA 0x9FE5F0, INIT
+__int64 CmpFlagsString = 0x00000000000C000A; // 786442

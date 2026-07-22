@@ -1,0 +1,2 @@
+// RVA 0xC1DC60, .data
+ULONG_PTR MuiMutex = 0x0000000000000000; // 0

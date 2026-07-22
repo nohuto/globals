@@ -1,0 +1,2 @@
+// RVA 0x82578, .rdata
+unsigned char KMCL_PRIVATE_SERVER_INTERFACE_TYPE = 0xB8; // 184

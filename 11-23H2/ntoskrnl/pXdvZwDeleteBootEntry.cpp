@@ -1,0 +1,2 @@
+// RVA 0xD70C28, PAGEVRFD
+__int64 pXdvZwDeleteBootEntry = 0x0000000000000000; // 0

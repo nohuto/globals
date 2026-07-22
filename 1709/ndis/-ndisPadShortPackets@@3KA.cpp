@@ -1,0 +1,3 @@
+// RVA 0x99F60, .data
+// Symbol: ?ndisPadShortPackets@@3KA
+unsigned int _ndisPadShortPackets__3KA = 0x00000000; // 0

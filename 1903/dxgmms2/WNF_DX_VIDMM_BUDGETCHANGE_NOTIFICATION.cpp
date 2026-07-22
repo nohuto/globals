@@ -1,0 +1,2 @@
+// RVA 0x41FD8, .rdata
+unsigned char WNF_DX_VIDMM_BUDGETCHANGE_NOTIFICATION = 0x75; // 117

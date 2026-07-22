@@ -1,0 +1,2 @@
+// RVA 0x255B28, .rdata
+unsigned char PPM_ETW_PROCESSOR_IDLE_VETO_DECREMENT = 0x56; // 86

@@ -1,0 +1,2 @@
+// RVA 0x2F6BC8, .rdata
+__int64 KernelRundownGuid = 0x422034803B9C9951; // 4764866131118561617

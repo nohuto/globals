@@ -1,0 +1,2 @@
+// RVA 0xFF78, .rdata
+__int64 MiFreeThenFree = 0x0000000100000001; // 4294967297

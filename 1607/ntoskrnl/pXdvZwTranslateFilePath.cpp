@@ -1,0 +1,2 @@
+// RVA 0x758988, PAGEVRFD
+__int64 pXdvZwTranslateFilePath = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x875220, PAGEVRFD
+__int64 pXdvSeAccessCheck = 0x0000000000000000; // 0

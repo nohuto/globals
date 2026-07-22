@@ -1,0 +1,2 @@
+// RVA 0xA4F560, INITDATA
+int KiVerifyPass = 0x0000000A; // 10

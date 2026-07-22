@@ -1,0 +1,2 @@
+// RVA 0x3970C0, .rdata
+unsigned char HV_EVENTLOG_IOMMU_FAILED_RID_CONFLICT = 0x91; // 145

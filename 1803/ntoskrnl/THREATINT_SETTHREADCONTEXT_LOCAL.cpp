@@ -1,0 +1,5 @@
+// RVA 0x2F51F0, .rdata
+// Type: const EVENT_DESCRIPTOR
+unsigned char THREATINT_SETTHREADCONTEXT_LOCAL[0x10] = {
+    0x0A, 0x00, 0x00, 0x00, 0x00, 0x00, 0x0A
+};

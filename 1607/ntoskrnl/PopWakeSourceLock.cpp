@@ -1,0 +1,2 @@
+// RVA 0x304230, .data
+KSPIN_LOCK PopWakeSourceLock = 0x0000000000000000; // 0

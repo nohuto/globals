@@ -1,0 +1,2 @@
+// RVA 0x4000D0, ALMOSTRO
+__int64 PopPepPlatformState = 0x0000000000000000; // 0

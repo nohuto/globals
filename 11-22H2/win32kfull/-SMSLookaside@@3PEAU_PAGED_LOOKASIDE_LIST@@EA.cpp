@@ -1,0 +1,3 @@
+// RVA 0x35E340, .data
+// Symbol: ?SMSLookaside@@3PEAU_PAGED_LOOKASIDE_LIST@@EA
+struct _PAGED_LOOKASIDE_LIST *_SMSLookaside__3PEAU_PAGED_LOOKASIDE_LIST__EA = reinterpret_cast<decltype(_SMSLookaside__3PEAU_PAGED_LOOKASIDE_LIST__EA)>(0x0000000000000000); // 0

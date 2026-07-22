@@ -1,0 +1,2 @@
+// RVA 0xFFDA60, PAGEVRFD
+__int64 pXdvIoCreateFile = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x9872D0, PAGEVRFD
+__int64 pXdvZwAddDriverEntry = 0x0000000000000000; // 0

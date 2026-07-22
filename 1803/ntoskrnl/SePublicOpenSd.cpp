@@ -1,0 +1,2 @@
+// RVA 0x8628B8, PAGEDATA
+__int64 SePublicOpenSd = 0x0000000000000000; // 0

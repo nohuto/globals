@@ -1,0 +1,2 @@
+// RVA 0xFF27F8, PAGEVRFD
+__int64 pXdvZwDeleteWnfStateData = 0x0000000000000000; // 0

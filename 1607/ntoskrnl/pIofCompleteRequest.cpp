@@ -1,0 +1,2 @@
+// RVA 0x3AA508, ALMOSTRO
+__int64 pIofCompleteRequest = 0x0000000000000000; // 0

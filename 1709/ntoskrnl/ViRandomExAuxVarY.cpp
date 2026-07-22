@@ -1,0 +1,2 @@
+// RVA 0x804088, PAGEVRFD
+int ViRandomExAuxVarY = 0x7775FB16; // 2004220694

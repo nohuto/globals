@@ -1,0 +1,2 @@
+// RVA 0x7F9650, PAGE
+__int64 CmpSelectString = 0x00000000000E000C; // 917516

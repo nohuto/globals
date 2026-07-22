@@ -1,0 +1,2 @@
+// RVA 0x32C028, .data
+int gdwWaitToKillTimeout = 0x00001388; // 5000

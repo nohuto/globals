@@ -1,0 +1,2 @@
+// RVA 0x79B018, PAGEVRFY
+__int64 ViRequiredTimeSinceBoot = 0x0000000001C9C380; // 30000000

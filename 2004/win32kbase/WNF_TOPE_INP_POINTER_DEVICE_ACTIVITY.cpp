@@ -1,0 +1,2 @@
+// RVA 0x21FB58, .rdata
+unsigned char WNF_TOPE_INP_POINTER_DEVICE_ACTIVITY = 0x75; // 117

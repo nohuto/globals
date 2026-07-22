@@ -1,0 +1,2 @@
+// RVA 0x805198, PAGEVRFD
+__int64 pXdvPoRequestPowerIrp = 0x0000000000000000; // 0

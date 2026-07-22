@@ -1,0 +1,2 @@
+// RVA 0x804780, PAGEVRFD
+__int64 pXdvZwLoadDriver = 0x0000000000000000; // 0

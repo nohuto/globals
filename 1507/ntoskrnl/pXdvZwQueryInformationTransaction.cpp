@@ -1,0 +1,2 @@
+// RVA 0x78EA18, PAGEVRFD
+__int64 (__fastcall *pXdvZwQueryInformationTransaction)(int, int, int, int, PULONG ReturnLength) = reinterpret_cast<decltype(pXdvZwQueryInformationTransaction)>(0x0000000140181670); // 5370287728

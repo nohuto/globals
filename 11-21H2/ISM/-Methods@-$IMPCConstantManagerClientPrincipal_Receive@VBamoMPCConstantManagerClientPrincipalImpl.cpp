@@ -1,0 +1,3 @@
+// RVA 0x1E2E90, .rdata
+// Symbol: ?Methods@?$IMPCConstantManagerClientPrincipal_Receive@VBamoMPCConstantManagerClientPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+__int64 (__fastcall *_Methods___IMPCConstantManagerClientPrincipal_Receive_VBamoMPCConstantManagerClientPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IMPCConstantManagerClientPrincipal_Receive_VBamoMPCConstantManagerClientPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180096AF0); // 6443068144

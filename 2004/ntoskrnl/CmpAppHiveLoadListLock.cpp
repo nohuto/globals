@@ -1,0 +1,2 @@
+// RVA 0xC47E78, .data
+ULONG_PTR CmpAppHiveLoadListLock = 0x0000000000000000; // 0

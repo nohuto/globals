@@ -1,0 +1,2 @@
+// RVA 0xD1CB48, INIT
+__int64 CmpHalEarlyTestHooksString = 0x00000000001E001C; // 1966108

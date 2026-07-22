@@ -1,0 +1,2 @@
+// RVA 0x7FA50, .rdata
+unsigned char WNF_DXGK_PATH_FAILED_OR_INVALIDATED = 0x75; // 117

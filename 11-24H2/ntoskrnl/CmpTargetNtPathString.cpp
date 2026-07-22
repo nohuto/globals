@@ -1,0 +1,2 @@
+// RVA 0xC73D00, INIT
+__int64 CmpTargetNtPathString = 0x00000000001A0018; // 1703960

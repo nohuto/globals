@@ -1,0 +1,2 @@
+// RVA 0xFFEA00, PAGEVRFD
+__int64 pXdvFsRtlFastUnlockSingle = 0x0000000000000000; // 0

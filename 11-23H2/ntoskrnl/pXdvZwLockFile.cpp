@@ -1,0 +1,2 @@
+// RVA 0xD718A8, PAGEVRFD
+__int64 pXdvZwLockFile = 0x0000000000000000; // 0

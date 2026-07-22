@@ -1,0 +1,2 @@
+// RVA 0x6FB078, PAGEDATA
+SIZE_T CmpConfigurationAreaSize = 0x0000000000004000; // 16384

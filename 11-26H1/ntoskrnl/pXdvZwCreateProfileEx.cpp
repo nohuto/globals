@@ -1,0 +1,2 @@
+// RVA 0xFF2828, PAGEVRFD
+__int64 pXdvZwCreateProfileEx = 0x0000000000000000; // 0

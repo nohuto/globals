@@ -1,0 +1,2 @@
+// RVA 0x3F8850, CFGRO
+__int64 HvlpVsmVtlCallVa = 0x0000000000000000; // 0

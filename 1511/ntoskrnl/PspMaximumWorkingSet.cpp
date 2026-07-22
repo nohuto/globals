@@ -1,0 +1,2 @@
+// RVA 0x6FB280, PAGEDATA
+__int64 PspMaximumWorkingSet = 0x000000000000002D; // 45

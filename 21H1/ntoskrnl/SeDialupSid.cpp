@@ -1,0 +1,2 @@
+// RVA 0xD2D930, PAGEDATA
+__int64 SeDialupSid = 0x0000000000000000; // 0

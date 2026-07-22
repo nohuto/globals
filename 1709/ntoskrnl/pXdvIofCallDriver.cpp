@@ -1,0 +1,2 @@
+// RVA 0x8041E8, PAGEVRFD
+__int64 pXdvIofCallDriver = 0x0000000000000001; // 1

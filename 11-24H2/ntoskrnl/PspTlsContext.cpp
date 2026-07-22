@@ -1,0 +1,2 @@
+// RVA 0xE28200, .data
+ULONG_PTR PspTlsContext = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xC19750, .data
+ULONG_PTR EtwpCoverageLock = 0x0000000000000000; // 0

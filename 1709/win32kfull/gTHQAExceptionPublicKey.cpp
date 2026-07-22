@@ -1,0 +1,5 @@
+// RVA 0x323EC0, .data
+// Type: char[5]
+unsigned char gTHQAExceptionPublicKey[0x5] = {
+    0x52, 0x53, 0x41, 0x31
+};

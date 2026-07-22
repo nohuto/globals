@@ -1,0 +1,3 @@
+// RVA 0x31D7C0, .data
+// Symbol: ?aMonitorCount@@3PAUtagMONITOR_COUNT@@A
+unsigned char _aMonitorCount__3PAUtagMONITOR_COUNT__A = 0x00; // 0

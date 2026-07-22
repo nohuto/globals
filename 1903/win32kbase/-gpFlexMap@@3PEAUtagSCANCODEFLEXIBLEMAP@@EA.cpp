@@ -1,0 +1,3 @@
+// RVA 0x218E40, .data
+// Symbol: ?gpFlexMap@@3PEAUtagSCANCODEFLEXIBLEMAP@@EA
+struct tagSCANCODEFLEXIBLEMAP *_gpFlexMap__3PEAUtagSCANCODEFLEXIBLEMAP__EA = reinterpret_cast<decltype(_gpFlexMap__3PEAUtagSCANCODEFLEXIBLEMAP__EA)>(0x0000000000000000); // 0

@@ -1,0 +1,3 @@
+// RVA 0x1E5960, .rdata
+// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIRemoteKeyboardOverriderCallback@@UIMessageProxyListener@@@WRL@Microsoft@@6BIRemoteKeyboardOverriderCallback@@@
+void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIRemoteKeyboardOverriderCallback__UIMessageProxyListener___WRL_Microsoft__6BIRemoteKeyboardOverriderCallback___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIRemoteKeyboardOverriderCallback__UIMessageProxyListener___WRL_Microsoft__6BIRemoteKeyboardOverriderCallback___)>(0x00000001800E11D0); // 6443373008

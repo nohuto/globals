@@ -1,0 +1,2 @@
+// RVA 0x7FF020, INIT
+__int64 CmpImagePathString = 0x0000000000140012; // 1310738

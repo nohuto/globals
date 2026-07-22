@@ -1,0 +1,2 @@
+// RVA 0x9C9128, PAGEVRFD
+__int64 pXdvPoFxSetComponentLatency = 0x0000000000000000; // 0

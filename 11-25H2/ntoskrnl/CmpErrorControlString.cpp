@@ -1,0 +1,2 @@
+// RVA 0xC607E0, INIT
+__int64 CmpErrorControlString = 0x00000000001A0018; // 1703960

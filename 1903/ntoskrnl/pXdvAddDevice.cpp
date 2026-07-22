@@ -1,0 +1,2 @@
+// RVA 0x9C7F90, PAGEVRFD
+__int64 pXdvAddDevice = 0x0000000000000000; // 0

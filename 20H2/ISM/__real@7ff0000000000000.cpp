@@ -1,0 +1,6 @@
+// RVA 0x1C69D8, .rdata
+// Symbol: __real@7ff0000000000000
+// Type: const double
+unsigned char __real_7ff0000000000000[0x8] = {
+    0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0xF0, 0x7F
+};

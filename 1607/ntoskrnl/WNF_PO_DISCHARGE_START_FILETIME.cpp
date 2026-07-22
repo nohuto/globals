@@ -1,0 +1,2 @@
+// RVA 0x25F9F8, .rdata
+unsigned char WNF_PO_DISCHARGE_START_FILETIME = 0x75; // 117

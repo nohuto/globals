@@ -1,0 +1,2 @@
+// RVA 0x44C7D0, ALMOSTRO
+__int64 PspHwTraceExtensionHost = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xFC4008, ALMOSTRO
+__int64 MmWriteableSharedUserData = 0xFFFFF78000000000; // -9345848836096

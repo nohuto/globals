@@ -1,0 +1,2 @@
+// RVA 0x8612F8, PAGEDATA
+__int64 ExpHostList = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xCFC660, ALMOSTRO
+int KiLastBranchToBaseMSR = 0x00000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x96F790, PAGEDATA
+__int64 SeDefaultCapeSd = 0x0000000000000000; // 0

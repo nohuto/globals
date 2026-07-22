@@ -1,0 +1,2 @@
+// RVA 0x7D5C80, INIT
+__int64 CmpStrCurrentDockInfoString = 0x000000000020001E; // 2097182

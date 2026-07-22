@@ -1,0 +1,3 @@
+// RVA 0x1A8B20, .rdata
+// Symbol: ??_7InputContext@@6B@
+void *___7InputContext__6B_ = reinterpret_cast<decltype(___7InputContext__6B_)>(0x00000001800B2560); // 6443181408

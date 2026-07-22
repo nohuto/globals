@@ -1,0 +1,3 @@
+// RVA 0x4E548, .data
+// Symbol: ?_GlobalHeapManagerListLock@VIDMM_RECYCLE_HEAP_MGR@@0PEAVDXGPUSHLOCK@@EA
+struct DXGPUSHLOCK *__GlobalHeapManagerListLock_VIDMM_RECYCLE_HEAP_MGR__0PEAVDXGPUSHLOCK__EA = reinterpret_cast<decltype(__GlobalHeapManagerListLock_VIDMM_RECYCLE_HEAP_MGR__0PEAVDXGPUSHLOCK__EA)>(0x0000000000000000); // 0

@@ -1,0 +1,2 @@
+// RVA 0x317F08, .data
+ULONG_PTR gspwndAltTab = 0x0000000000000000; // 0

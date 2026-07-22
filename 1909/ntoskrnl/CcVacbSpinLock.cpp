@@ -1,0 +1,2 @@
+// RVA 0x58B780, CACHEALI
+__int64 CcVacbSpinLock = 0x0000000000000000; // 0

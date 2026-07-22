@@ -1,0 +1,2 @@
+// RVA 0x542C20, ALMOSTRO
+__int64 ObTypeIndexTable = 0x0000000000000000; // 0

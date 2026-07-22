@@ -1,0 +1,3 @@
+// RVA 0x20A450, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUwvorevibUhvieviUlyquivUznwGEUkxsOlyq@InputDeliveryServer
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUwvorevibUhvieviUlyquivUznwGEUkxsOlyq_InputDeliveryServer = 0x00; // 0

@@ -1,0 +1,2 @@
+// RVA 0xBE3A20, PAGE
+__int64 RootTable = 0x0000000000000052; // 82

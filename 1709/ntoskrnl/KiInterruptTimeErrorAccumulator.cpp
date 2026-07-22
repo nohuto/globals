@@ -1,0 +1,2 @@
+// RVA 0x387840, .data
+__int64 KiInterruptTimeErrorAccumulator = 0x0000000000000000; // 0

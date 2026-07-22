@@ -1,0 +1,3 @@
+// RVA 0x17A700, .rdata
+// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIRemoteHotKeyProcessor@@UIMessageProxyReconnectAdapterOwner@@@WRL@Microsoft@@6BIRemoteHotKeyProcessor@@@
+void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIRemoteHotKeyProcessor__UIMessageProxyReconnectAdapterOwner___WRL_Microsoft__6BIRemoteHotKeyProcessor___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIRemoteHotKeyProcessor__UIMessageProxyReconnectAdapterOwner___WRL_Microsoft__6BIRemoteHotKeyProcessor___)>(0x0000000180146B30); // 6443789104

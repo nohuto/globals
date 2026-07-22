@@ -1,0 +1,3 @@
+// RVA 0x501C0, .data
+// Symbol: ?_Config@VIDMM_GLOBAL@@1U_VIDMM_CONFIGURATION@@A
+unsigned int __Config_VIDMM_GLOBAL__1U_VIDMM_CONFIGURATION__A = 0x00000000; // 0

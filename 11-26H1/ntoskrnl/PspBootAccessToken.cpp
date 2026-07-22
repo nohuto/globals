@@ -1,0 +1,2 @@
+// RVA 0xFFC890, INITDATA
+__int64 PspBootAccessToken = 0x0000000000000000; // 0

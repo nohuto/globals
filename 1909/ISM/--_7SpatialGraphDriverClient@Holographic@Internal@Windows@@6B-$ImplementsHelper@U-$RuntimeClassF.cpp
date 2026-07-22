@@ -1,0 +1,3 @@
+// RVA 0x17AD58, .rdata
+// Symbol: ??_7SpatialGraphDriverClient@Holographic@Internal@Windows@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$02@WRL@Microsoft@@$00U?$ImplementsMarker@VFtmBase@WRL@Microsoft@@@Details@23@@Details@WRL@Microsoft@@@
+void *___7SpatialGraphDriverClient_Holographic_Internal_Windows__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00U__ImplementsMarker_VFtmBase_WRL_Microsoft___Details_23__Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7SpatialGraphDriverClient_Holographic_Internal_Windows__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00U__ImplementsMarker_VFtmBase_WRL_Microsoft___Details_23__Details_WRL_Microsoft___)>(0x000000018003A220); // 6442689056

@@ -1,0 +1,2 @@
+// RVA 0xFCE500, CACHEALI
+__int64 IopCancelSpinLock = 0x0000000000000000; // 0

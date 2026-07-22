@@ -1,0 +1,2 @@
+// RVA 0xD71340, PAGEVRFD
+__int64 pXdvFsRtlIsNameInExpression = 0x0000000000000000; // 0

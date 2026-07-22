@@ -1,0 +1,2 @@
+// RVA 0xC61C88, .data
+KSPIN_LOCK HalpPCIConfigLock = 0x0000000000000000; // 0

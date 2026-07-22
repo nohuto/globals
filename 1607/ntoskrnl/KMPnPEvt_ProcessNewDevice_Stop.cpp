@@ -1,0 +1,2 @@
+// RVA 0x2812B0, .rdata
+unsigned char KMPnPEvt_ProcessNewDevice_Stop = 0x22; // 34

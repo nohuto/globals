@@ -1,0 +1,2 @@
+// RVA 0xFC1160, ALMOSTRO
+__int64 PspDxgExtensionHost = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xC1E0, .text
+int _SHA256Magic = 0x428A2F98; // 1116352408

@@ -1,0 +1,2 @@
+// RVA 0x8E5500, INIT
+__int64 CmpServicesString = 0x0000000000120010; // 1179664

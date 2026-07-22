@@ -1,0 +1,3 @@
+// RVA 0x42E60, .rdata
+// Symbol: ?Descriptors@?1??RegisterGpuPerformanceCounterSetEngine@@9@4QBU_PCW_COUNTER_DESCRIPTOR@@B
+unsigned char _Descriptors__1__RegisterGpuPerformanceCounterSetEngine__9_4QBU_PCW_COUNTER_DESCRIPTOR__B = 0x01; // 1

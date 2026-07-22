@@ -1,0 +1,3 @@
+// RVA 0x5DEC8, .rdata
+// Symbol: ??_7VIDMM_SCHCLASS_PAGING@@6B@
+void *___7VIDMM_SCHCLASS_PAGING__6B_ = reinterpret_cast<decltype(___7VIDMM_SCHCLASS_PAGING__6B_)>(0x00000001400BF690); // 5369493136

@@ -1,0 +1,2 @@
+// RVA 0x801D0, .data
+unsigned char Feature_UexTest7__private_reporting = 0x00; // 0

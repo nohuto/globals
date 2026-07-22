@@ -1,0 +1,3 @@
+// RVA 0x215DEA, .rdata
+// Symbol: ?_tlgEvent@?6??LogSendDragStarted@BamoDragManagerClientProxyImpl@BamoImpl@@AEAAXIAEBUtagPOINT@@00AEBUGestureAnimationProperties@@_KW4VirtualKeyModifiers@System@Windows@@2W4InputType@Input@Internal@UI@8@22W4GestureProcessorType@@@Z@4U_unnamed_type__tlgEvent_@?6??123@AEAAXI00012324225@Z@B
+unsigned char __tlgEvent__6__LogSendDragStarted_BamoDragManagerClientProxyImpl_BamoImpl__AEAAXIAEBUtagPOINT__00AEBUGestureAnimationProperties___KW4VirtualKeyModifiers_System_Windows__2W4InputType_Input_Internal_UI_8_22W4GestureProcessorType___Z_4U_unnamed_type__tlgEvent___6__123_AEAAXI00012324225_Z_B = 0x06; // 6

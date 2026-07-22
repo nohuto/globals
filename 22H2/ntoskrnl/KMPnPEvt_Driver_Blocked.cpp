@@ -1,0 +1,5 @@
+// RVA 0x34B60, .rdata
+// Type: __int64[2]
+unsigned char KMPnPEvt_Driver_Blocked[0x10] = {
+    0x16, 0x01, 0x00, 0x00, 0x04
+};

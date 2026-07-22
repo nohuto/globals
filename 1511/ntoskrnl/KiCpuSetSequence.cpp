@@ -1,0 +1,2 @@
+// RVA 0x382308, ALMOSTRO
+__int64 KiCpuSetSequence = 0x0000000000000000; // 0

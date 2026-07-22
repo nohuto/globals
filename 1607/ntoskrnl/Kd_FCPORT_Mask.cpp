@@ -1,0 +1,2 @@
+// RVA 0x341B30, .data
+unsigned char Kd_FCPORT_Mask = 0x00; // 0

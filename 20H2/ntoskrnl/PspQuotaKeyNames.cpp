@@ -1,0 +1,2 @@
+// RVA 0x986720, PAGE
+__int64 PspQuotaKeyNames = 0x0000000000A0009E; // 10485918

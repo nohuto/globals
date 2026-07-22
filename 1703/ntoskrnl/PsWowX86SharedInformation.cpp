@@ -1,0 +1,2 @@
+// RVA 0x7AD5C0, PAGEDATA
+__int64 PsWowX86SharedInformation = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xD1B8D0, INIT
+__int64 CmpGroupOrderListString = 0x00000000001E001C; // 1966108

@@ -1,0 +1,2 @@
+// RVA 0x980088, PAGEVRFD
+__int64 pXdvCcCopyWriteEx = 0x0000000000000000; // 0

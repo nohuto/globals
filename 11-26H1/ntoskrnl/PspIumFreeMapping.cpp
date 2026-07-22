@@ -1,0 +1,2 @@
+// RVA 0xFC1150, ALMOSTRO
+PVOID PspIumFreeMapping = reinterpret_cast<decltype(PspIumFreeMapping)>(0x0000000000000000); // 0

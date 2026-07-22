@@ -1,0 +1,2 @@
+// RVA 0x7F7C8, .rdata
+int *Feature_Servicing_GraphicsKernel_FeatureInterfaceExtensions__private_descriptor = reinterpret_cast<decltype(Feature_Servicing_GraphicsKernel_FeatureInterfaceExtensions__private_descriptor)>(0x0000000140080C70); // 5369236592

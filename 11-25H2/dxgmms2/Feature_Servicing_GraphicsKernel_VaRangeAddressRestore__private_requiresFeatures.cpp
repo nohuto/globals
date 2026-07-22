@@ -1,0 +1,2 @@
+// RVA 0x591B8, .rdata
+_UNKNOWN **Feature_Servicing_GraphicsKernel_VaRangeAddressRestore__private_requiresFeatures = reinterpret_cast<decltype(Feature_Servicing_GraphicsKernel_VaRangeAddressRestore__private_requiresFeatures)>(0x0000000140080190); // 5369233808

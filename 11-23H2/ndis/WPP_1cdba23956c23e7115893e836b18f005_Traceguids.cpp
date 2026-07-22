@@ -1,0 +1,2 @@
+// RVA 0xD81A8, .rdata
+const PVOID WPP_1cdba23956c23e7115893e836b18f005_Traceguids = reinterpret_cast<decltype(WPP_1cdba23956c23e7115893e836b18f005_Traceguids)>(0x3E7156C21CDBA239); // 4499472894427636281

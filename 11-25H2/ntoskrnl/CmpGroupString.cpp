@@ -1,0 +1,2 @@
+// RVA 0xC60750, INIT
+__int64 CmpGroupString = 0x00000000000C000A; // 786442

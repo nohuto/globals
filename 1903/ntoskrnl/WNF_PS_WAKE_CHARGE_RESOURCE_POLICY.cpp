@@ -1,0 +1,2 @@
+// RVA 0x3952B0, .rdata
+unsigned char WNF_PS_WAKE_CHARGE_RESOURCE_POLICY = 0x75; // 117

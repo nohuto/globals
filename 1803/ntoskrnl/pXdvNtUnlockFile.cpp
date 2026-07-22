@@ -1,0 +1,2 @@
+// RVA 0x874558, PAGEVRFD
+__int64 pXdvNtUnlockFile = 0x0000000000000000; // 0

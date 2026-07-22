@@ -1,0 +1,2 @@
+// RVA 0x7FF150, INIT
+__int64 CmpKeyTypeNameString = 0x0000000000080006; // 524294

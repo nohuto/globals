@@ -1,0 +1,2 @@
+// RVA 0xFC4040, ALMOSTRO
+int KeDpcSoftTimeoutMs = 0x00004E20; // 20000

@@ -1,0 +1,2 @@
+// RVA 0x3A2AD0, .data
+ULONG_PTR VrpJobContextType = 0x0000000000000000; // 0

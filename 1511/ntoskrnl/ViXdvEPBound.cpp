@@ -1,0 +1,2 @@
+// RVA 0x6E0174, PAGEVRFB
+int ViXdvEPBound = 0x00000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x104C10, .rdata
+unsigned char EXECUTION_CONTEXT_DISPATCH_TABLE_ID = 0x25; // 37

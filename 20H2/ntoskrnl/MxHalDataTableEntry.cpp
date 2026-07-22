@@ -1,0 +1,2 @@
+// RVA 0xD58720, INITDATA
+__int64 MxHalDataTableEntry = 0x0000000000000000; // 0

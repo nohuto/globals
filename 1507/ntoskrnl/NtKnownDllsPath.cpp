@@ -1,0 +1,2 @@
+// RVA 0x80B690, INITDATA
+WCHAR NtKnownDllsPath = 0x0000; // 0

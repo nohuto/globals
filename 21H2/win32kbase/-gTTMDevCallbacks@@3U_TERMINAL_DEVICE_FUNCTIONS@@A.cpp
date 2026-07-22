@@ -1,0 +1,3 @@
+// RVA 0x249A80, .data
+// Symbol: ?gTTMDevCallbacks@@3U_TERMINAL_DEVICE_FUNCTIONS@@A
+unsigned long long _gTTMDevCallbacks__3U_TERMINAL_DEVICE_FUNCTIONS__A = 0x00000001C0180F10; // 7517769488

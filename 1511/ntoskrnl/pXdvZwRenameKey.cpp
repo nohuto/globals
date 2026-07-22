@@ -1,0 +1,2 @@
+// RVA 0x70C328, PAGEVRFD
+unsigned long long pXdvZwRenameKey = 0x0000000140153180; // 5370098048

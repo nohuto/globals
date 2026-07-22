@@ -1,0 +1,2 @@
+// RVA 0xD4AAC0, CACHEALI
+int ExNode0 = 0x00000000; // 0

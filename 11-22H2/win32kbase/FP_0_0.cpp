@@ -1,0 +1,2 @@
+// RVA 0x29753C, .data
+unsigned char FP_0_0 = 0x00; // 0

@@ -1,0 +1,2 @@
+// RVA 0xD488D0, PAGEVRFD
+__int64 pXdvZwEnumerateValueKey = 0x0000000000000000; // 0

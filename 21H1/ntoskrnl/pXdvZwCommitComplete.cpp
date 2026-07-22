@@ -1,0 +1,2 @@
+// RVA 0xD483E8, PAGEVRFD
+__int64 pXdvZwCommitComplete = 0x0000000000000000; // 0

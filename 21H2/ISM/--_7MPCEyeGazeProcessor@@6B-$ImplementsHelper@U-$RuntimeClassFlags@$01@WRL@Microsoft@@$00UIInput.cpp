@@ -1,0 +1,3 @@
+// RVA 0x1AE760, .rdata
+// Symbol: ??_7MPCEyeGazeProcessor@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@$00UIInputProcessorDeviceUpdate@@UIInputFocusListener@@UIMPCInputProviderBase@@@Details@WRL@Microsoft@@@
+void *___7MPCEyeGazeProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIInputProcessorDeviceUpdate__UIInputFocusListener__UIMPCInputProviderBase___Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7MPCEyeGazeProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIInputProcessorDeviceUpdate__UIInputFocusListener__UIMPCInputProviderBase___Details_WRL_Microsoft___)>(0x000000018004BB90); // 6442761104

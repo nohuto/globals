@@ -1,0 +1,2 @@
+// RVA 0xC0DF20, .data
+__int64 ExpLuid = 0x00000000000003E9; // 1001

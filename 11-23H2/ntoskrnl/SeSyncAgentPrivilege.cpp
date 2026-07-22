@@ -1,0 +1,2 @@
+// RVA 0xD54EF0, PAGEDATA
+__int64 SeSyncAgentPrivilege = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x7BDCB0, PAGEVRFD
+__int64 pXdvFsRtlDissectName = 0x0000000000000000; // 0

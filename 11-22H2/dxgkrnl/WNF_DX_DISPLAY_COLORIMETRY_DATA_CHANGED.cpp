@@ -1,0 +1,2 @@
+// RVA 0x90990, .rdata
+unsigned char WNF_DX_DISPLAY_COLORIMETRY_DATA_CHANGED = 0x75; // 117

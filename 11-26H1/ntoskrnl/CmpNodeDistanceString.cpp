@@ -1,0 +1,2 @@
+// RVA 0xD1C998, INIT
+__int64 CmpNodeDistanceString = 0x00000000001C001A; // 1835034

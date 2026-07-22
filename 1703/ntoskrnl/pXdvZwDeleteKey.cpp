@@ -1,0 +1,2 @@
+// RVA 0x7BE298, PAGEVRFD
+__int64 pXdvZwDeleteKey = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x30FE30, .rdata
+unsigned char POP_ETW_EVENT_PLUGIN_REGISTRATION_RUNDOWN = 0x2D; // 45

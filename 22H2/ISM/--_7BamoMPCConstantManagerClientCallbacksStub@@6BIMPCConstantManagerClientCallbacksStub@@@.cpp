@@ -1,0 +1,3 @@
+// RVA 0x1B6A68, .rdata
+// Symbol: ??_7BamoMPCConstantManagerClientCallbacksStub@@6BIMPCConstantManagerClientCallbacksStub@@@
+void *___7BamoMPCConstantManagerClientCallbacksStub__6BIMPCConstantManagerClientCallbacksStub___ = reinterpret_cast<decltype(___7BamoMPCConstantManagerClientCallbacksStub__6BIMPCConstantManagerClientCallbacksStub___)>(0x000000018004CC70); // 6442765424

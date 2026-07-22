@@ -1,0 +1,2 @@
+// RVA 0x386F30, .data
+ULONG_PTR CmpFreezeListLock = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x292B58, .rdata
+unsigned char PPM_ETW_INTERRUPT_STEERING_STATE_CONNECT = 0x04; // 4

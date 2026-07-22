@@ -1,0 +1,2 @@
+// RVA 0x269480, .data
+__int64 g_wil_details_pfnRtlNotifyFeatureUsage = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xBE09C8, PAGE
+__int64 CmpWindowsNtString = 0x0000000000160014; // 1441812

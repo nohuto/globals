@@ -1,0 +1,2 @@
+// RVA 0xC49EE0, .data
+KSPIN_LOCK HalpInterruptLock = 0x0000000000000000; // 0

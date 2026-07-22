@@ -1,0 +1,2 @@
+// RVA 0x10076B0, INITDATA
+int CmNtGlobalFlag2 = 0x00000000; // 0

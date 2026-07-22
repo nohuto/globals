@@ -1,0 +1,2 @@
+// RVA 0x4283F0, .data
+__int64 KiMtrrMaskBase = 0x0000000FFFFFF000; // 68719472640

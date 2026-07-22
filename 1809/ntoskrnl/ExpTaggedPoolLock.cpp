@@ -1,0 +1,2 @@
+// RVA 0x40A990, .data
+KSPIN_LOCK ExpTaggedPoolLock = 0x0000000000000000; // 0

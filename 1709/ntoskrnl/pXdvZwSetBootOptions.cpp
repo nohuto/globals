@@ -1,0 +1,2 @@
+// RVA 0x804910, PAGEVRFD
+__int64 pXdvZwSetBootOptions = 0x0000000000000000; // 0

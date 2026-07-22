@@ -1,0 +1,2 @@
+// RVA 0x4281D4, .data
+SIZE_T ObpDefaultSecurityDescriptorLength = 0x0000010100000100; // 1103806595328

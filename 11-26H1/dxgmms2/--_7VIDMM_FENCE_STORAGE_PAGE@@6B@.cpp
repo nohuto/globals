@@ -1,0 +1,3 @@
+// RVA 0x5D240, .rdata
+// Symbol: ??_7VIDMM_FENCE_STORAGE_PAGE@@6B@
+void *___7VIDMM_FENCE_STORAGE_PAGE__6B_ = reinterpret_cast<decltype(___7VIDMM_FENCE_STORAGE_PAGE__6B_)>(0x0000000140025500); // 5368861952

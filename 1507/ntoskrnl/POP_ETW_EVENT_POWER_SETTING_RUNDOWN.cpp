@@ -1,0 +1,2 @@
+// RVA 0x2A58A0, .rdata
+unsigned char POP_ETW_EVENT_POWER_SETTING_RUNDOWN = 0x6F; // 111

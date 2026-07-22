@@ -1,0 +1,2 @@
+// RVA 0xD1D0AC, ALMOSTRO
+int KeXStateLength = 0x00000200; // 512

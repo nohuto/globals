@@ -1,0 +1,2 @@
+// RVA 0x808000, PAGEVRFY
+__int64 PrintableChars = 0x000000000000003E; // 62

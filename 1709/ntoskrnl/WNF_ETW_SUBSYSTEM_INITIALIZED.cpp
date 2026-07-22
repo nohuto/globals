@@ -1,0 +1,2 @@
+// RVA 0x2BC960, .rdata
+unsigned char WNF_ETW_SUBSYSTEM_INITIALIZED = 0x75; // 117

@@ -1,0 +1,2 @@
+// RVA 0x5711F0, ALMOSTRO
+__int64 KiCyclesPerGeneration = 0x0000000005F5E100; // 100000000

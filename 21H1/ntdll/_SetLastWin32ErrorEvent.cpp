@@ -1,0 +1,5 @@
+// RVA 0x111D8, .text
+// Type: int[4]
+unsigned char _SetLastWin32ErrorEvent[0x10] = {
+    0x01, 0x00, 0x00, 0x00, 0x03
+};

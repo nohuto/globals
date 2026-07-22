@@ -1,0 +1,2 @@
+// RVA 0xD48788, PAGEVRFD
+__int64 pXdvKeCancelTimer = 0x0000000000000000; // 0

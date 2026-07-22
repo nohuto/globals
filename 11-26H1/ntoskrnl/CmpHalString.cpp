@@ -1,0 +1,2 @@
+// RVA 0xD1C9E8, INIT
+__int64 CmpHalString = 0x0000000000080006; // 524294

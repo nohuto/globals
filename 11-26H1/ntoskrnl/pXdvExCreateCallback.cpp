@@ -1,0 +1,2 @@
+// RVA 0xFF1C68, PAGEVRFD
+__int64 pXdvExCreateCallback = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xFBF120, ALMOSTRO
+int KiXSaveAreaLength = 0x00000200; // 512

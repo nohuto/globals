@@ -1,0 +1,7 @@
+// RVA 0xF4820, .data
+// Symbol: ?ModernStandbyWoLMagicPacketStr@@3U_UNICODE_STRING@@A
+// Type: UNICODE_STRING
+unsigned char _ModernStandbyWoLMagicPacketStr__3U_UNICODE_STRING__A[0x10] = {
+    0x38, 0x00, 0x3A, 0x00, 0x00, 0x00, 0x00, 0x00, 0x18, 0x26, 0x0E, 0xC0,
+    0x01
+};

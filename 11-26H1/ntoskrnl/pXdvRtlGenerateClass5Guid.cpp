@@ -1,0 +1,2 @@
+// RVA 0xFF1410, PAGEVRFD
+__int64 pXdvRtlGenerateClass5Guid = 0x0000000000000000; // 0

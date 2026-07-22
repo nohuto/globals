@@ -1,0 +1,2 @@
+// RVA 0xD4AF58, PAGEVRFD
+__int64 pXdvIoDetachDevice = 0x0000000000000000; // 0

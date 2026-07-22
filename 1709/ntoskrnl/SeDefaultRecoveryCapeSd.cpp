@@ -1,0 +1,2 @@
+// RVA 0x7F3D68, PAGEDATA
+__int64 SeDefaultRecoveryCapeSd = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x286D84, .rdata
+int CAP_AUTHORITY = 0x00000000; // 0

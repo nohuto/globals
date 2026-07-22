@@ -1,0 +1,7 @@
+// RVA 0x84438, .data
+// Symbol: ?EncapsulatedPacketTaskOffloadStr@@3U_UNICODE_STRING@@A
+// Type: UNICODE_STRING
+unsigned char _EncapsulatedPacketTaskOffloadStr__3U_UNICODE_STRING__A[0x10] = {
+    0x3C, 0x00, 0x3E, 0x00, 0x00, 0x00, 0x00, 0x00, 0x80, 0x37, 0x07, 0xC0,
+    0x01
+};

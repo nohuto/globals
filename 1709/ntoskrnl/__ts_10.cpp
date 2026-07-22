@@ -1,0 +1,2 @@
+// RVA 0x80C2EC, INIT
+int __ts_10 = 0xFFFFF970; // -1680

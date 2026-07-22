@@ -1,0 +1,2 @@
+// RVA 0xC122F8, .data
+ULONG_PTR __security_cookie_complement = 0xFFFFD466D2205DCD; // 18446696136809930189

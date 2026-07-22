@@ -1,0 +1,2 @@
+// RVA 0x2F65B8, .rdata
+unsigned char WNF_PO_BACKGROUND_ACTIVITY_POLICY = 0x75; // 117

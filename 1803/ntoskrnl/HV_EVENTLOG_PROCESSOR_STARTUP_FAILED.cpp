@@ -1,0 +1,2 @@
+// RVA 0x3111B0, .rdata
+unsigned char HV_EVENTLOG_PROCESSOR_STARTUP_FAILED = 0x60; // 96

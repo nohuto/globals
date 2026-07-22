@@ -1,0 +1,2 @@
+// RVA 0x291758, .rdata
+unsigned char WNF_PNPA_DEVNODES_CHANGED_SESSION = 0x35; // 53

@@ -1,0 +1,2 @@
+// RVA 0xC642F8, .data
+PVOID HalpDmaHibernateAdapter = reinterpret_cast<decltype(HalpDmaHibernateAdapter)>(0x0000000000000000); // 0

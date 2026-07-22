@@ -1,0 +1,2 @@
+// RVA 0xEFEF80, .data
+ULONG_PTR EtwpCovSampGlobals = 0x0000000000000000; // 0

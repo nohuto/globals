@@ -1,0 +1,3 @@
+// RVA 0x1FFF98, .rdata
+// Symbol: ??_7ShellHandwritingProcessor@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@$00UIShellHandwritingHostServerOwner@@@Details@WRL@Microsoft@@@
+void *___7ShellHandwritingProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIShellHandwritingHostServerOwner___Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7ShellHandwritingProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIShellHandwritingHostServerOwner___Details_WRL_Microsoft___)>(0x000000018006ABF0); // 6442888176

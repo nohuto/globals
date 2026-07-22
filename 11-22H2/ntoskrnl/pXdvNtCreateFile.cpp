@@ -1,0 +1,2 @@
+// RVA 0xD70A68, PAGEVRFD
+__int64 pXdvNtCreateFile = 0x0000000000000000; // 0

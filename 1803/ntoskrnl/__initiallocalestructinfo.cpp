@@ -1,0 +1,5 @@
+// RVA 0x2F1750, .rdata
+// Type: _locale_tstruct
+unsigned char __initiallocalestructinfo[0x10] = {
+    0x10, 0x60, 0x39, 0x40, 0x01
+};

@@ -1,0 +1,2 @@
+// RVA 0xA96978, INIT
+__int64 CmpCrashControlString = 0x00000000001A0018; // 1703960

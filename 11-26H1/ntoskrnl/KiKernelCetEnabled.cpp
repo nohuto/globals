@@ -1,0 +1,2 @@
+// RVA 0x1201841, CFGRO
+ULONG KiKernelCetEnabled = 0x00000000; // 0

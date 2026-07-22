@@ -1,0 +1,2 @@
+// RVA 0x947328, PAGE
+__int64 PspSystem32String = 0x0000000000140012; // 1310738

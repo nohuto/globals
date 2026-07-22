@@ -1,0 +1,3 @@
+// RVA 0x28BCC2, .data
+// Symbol: ?sklp@@3V?$SGDKEYBOARDsklp@U_KEYBOARD_INDICATOR_PARAMETERS@@@@A
+unsigned char _sklp__3V__SGDKEYBOARDsklp_U_KEYBOARD_INDICATOR_PARAMETERS____A = 0x00; // 0

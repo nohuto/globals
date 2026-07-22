@@ -1,0 +1,2 @@
+// RVA 0xFD9BA0, PAGEDATA
+PSID SeNetworkServiceSid = reinterpret_cast<decltype(SeNetworkServiceSid)>(0x0000000000000000); // 0

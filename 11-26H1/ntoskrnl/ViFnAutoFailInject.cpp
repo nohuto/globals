@@ -1,0 +1,2 @@
+// RVA 0xFF0E90, PAGEVRFD
+__int64 ViFnAutoFailInject = 0x0000000000000000; // 0

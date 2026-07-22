@@ -1,0 +1,2 @@
+// RVA 0x874E68, PAGEVRFD
+__int64 pXdvIoGetDeviceNumaNode = 0x0000000000000000; // 0

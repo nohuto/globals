@@ -1,0 +1,2 @@
+// RVA 0x70C2C8, PAGEVRFD
+unsigned long long pXdvZwFlushKey = 0x0000000140152180; // 5370093952

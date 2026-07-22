@@ -1,0 +1,3 @@
+// RVA 0x3A608, .rdata
+// Symbol: ??_7DXGK_VIRTUAL_GPU_GPUP@@6B@
+void *___7DXGK_VIRTUAL_GPU_GPUP__6B_ = reinterpret_cast<decltype(___7DXGK_VIRTUAL_GPU_GPUP__6B_)>(0x00000001C0024C90); // 7516343440

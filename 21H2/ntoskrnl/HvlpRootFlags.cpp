@@ -1,0 +1,2 @@
+// RVA 0xCFC438, ALMOSTRO
+ULONG HvlpRootFlags = 0x00000000; // 0

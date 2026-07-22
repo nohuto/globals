@@ -1,0 +1,2 @@
+// RVA 0xFF2690, PAGEVRFD
+__int64 pXdvNtOpenTransaction = 0x0000000000000000; // 0

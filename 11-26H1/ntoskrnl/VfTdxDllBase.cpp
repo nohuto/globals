@@ -1,0 +1,2 @@
+// RVA 0xFF0FD0, PAGEVRFD
+__int64 VfTdxDllBase = 0x0000000000000000; // 0

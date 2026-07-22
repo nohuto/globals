@@ -1,0 +1,2 @@
+// RVA 0x2BD6A0, .rdata
+__int64 DEVPKEY_Device_OmitFromSystemSpec = 0x40942E3DA8B865DD; // 4653395157339104733

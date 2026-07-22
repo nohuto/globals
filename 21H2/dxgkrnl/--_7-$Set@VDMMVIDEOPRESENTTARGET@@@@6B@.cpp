@@ -1,0 +1,3 @@
+// RVA 0x72B98, .rdata
+// Symbol: ??_7?$Set@VDMMVIDEOPRESENTTARGET@@@@6B@
+void *___7__Set_VDMMVIDEOPRESENTTARGET____6B_ = reinterpret_cast<decltype(___7__Set_VDMMVIDEOPRESENTTARGET____6B_)>(0x00000001C00186C0); // 7516292800

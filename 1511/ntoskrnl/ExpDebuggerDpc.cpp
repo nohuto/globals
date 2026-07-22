@@ -1,0 +1,2 @@
+// RVA 0x2D5FC0, .data
+ULONG_PTR ExpDebuggerDpc = 0x0000000000000000; // 0

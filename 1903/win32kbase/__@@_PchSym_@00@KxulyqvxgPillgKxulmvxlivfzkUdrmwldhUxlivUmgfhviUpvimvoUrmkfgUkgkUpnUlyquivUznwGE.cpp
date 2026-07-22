@@ -1,0 +1,3 @@
+// RVA 0x2199AC, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUxlivUmgfhviUpvimvoUrmkfgUkgkUpnUlyquivUznwGEUkivxlnkOlyq@ptpEngine
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUxlivUmgfhviUpvimvoUrmkfgUkgkUpnUlyquivUznwGEUkivxlnkOlyq_ptpEngine = 0x00; // 0

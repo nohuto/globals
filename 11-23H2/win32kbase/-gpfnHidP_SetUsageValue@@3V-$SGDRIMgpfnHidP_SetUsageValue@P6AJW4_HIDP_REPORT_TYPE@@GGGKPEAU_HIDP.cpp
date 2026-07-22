@@ -1,0 +1,3 @@
+// RVA 0x28BC9D, .data
+// Symbol: ?gpfnHidP_SetUsageValue@@3V?$SGDRIMgpfnHidP_SetUsageValue@P6AJW4_HIDP_REPORT_TYPE@@GGGKPEAU_HIDP_PREPARSED_DATA@@PEADK@Z@@A
+unsigned char _gpfnHidP_SetUsageValue__3V__SGDRIMgpfnHidP_SetUsageValue_P6AJW4_HIDP_REPORT_TYPE__GGGKPEAU_HIDP_PREPARSED_DATA__PEADK_Z__A = 0x00; // 0

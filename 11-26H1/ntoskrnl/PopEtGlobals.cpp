@@ -1,0 +1,2 @@
+// RVA 0xE67A58, .data
+__int64 PopEtGlobals = 0x0000000000000000; // 0

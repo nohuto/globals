@@ -1,0 +1,2 @@
+// RVA 0x377D28, .rdata
+__int64 AuditLoggerGuid = 0xBA6AB8020E66E20B; // -5013992916152557045

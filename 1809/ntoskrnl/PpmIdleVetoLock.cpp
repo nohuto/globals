@@ -1,0 +1,2 @@
+// RVA 0x418E90, .data
+KSPIN_LOCK PpmIdleVetoLock = 0x0000000000000000; // 0

@@ -1,0 +1,5 @@
+// RVA 0x87C2D0, INIT
+// Type: char[4]
+unsigned char __ts_16[0x4] = {
+    0x18, 0xFD, 0xFF, 0xFF
+};

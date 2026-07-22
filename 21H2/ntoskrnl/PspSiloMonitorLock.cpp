@@ -1,0 +1,2 @@
+// RVA 0xC1E098, .data
+ULONG_PTR PspSiloMonitorLock = 0x0000000000000000; // 0

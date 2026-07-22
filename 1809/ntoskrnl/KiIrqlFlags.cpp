@@ -1,0 +1,2 @@
+// RVA 0x5424E0, ALMOSTRO
+int KiIrqlFlags = 0x00000000; // 0

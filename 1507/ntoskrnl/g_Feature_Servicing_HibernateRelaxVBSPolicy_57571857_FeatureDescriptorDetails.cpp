@@ -1,0 +1,2 @@
+// RVA 0x3144E0, .rdata
+_UNKNOWN *g_Feature_Servicing_HibernateRelaxVBSPolicy_57571857_FeatureDescriptorDetails = reinterpret_cast<decltype(g_Feature_Servicing_HibernateRelaxVBSPolicy_57571857_FeatureDescriptorDetails)>(0x000000014036CC60); // 5372300384

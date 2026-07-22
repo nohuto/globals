@@ -1,0 +1,6 @@
+// RVA 0x34AEE0, .rdata
+// Type: void (*[2])(rotate *__hidden this, struct rotate::_PLGRUN *, struct rotate::_PLGRUN *, struct SURFACE *, struct _CLIPOBJ *)
+unsigned char funcs_14013200D[0x10] = {
+    0x00, 0xD0, 0x31, 0x40, 0x01, 0x00, 0x00, 0x00, 0xA0, 0xD3, 0x31, 0x40,
+    0x01
+};

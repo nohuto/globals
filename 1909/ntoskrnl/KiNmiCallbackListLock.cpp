@@ -1,0 +1,2 @@
+// RVA 0x44CF98, .data
+KSPIN_LOCK KiNmiCallbackListLock = 0x0000000000000000; // 0

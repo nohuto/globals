@@ -1,0 +1,2 @@
+// RVA 0x7F3058, PAGEDATA
+int PiDevCfgMode = 0x00000003; // 3

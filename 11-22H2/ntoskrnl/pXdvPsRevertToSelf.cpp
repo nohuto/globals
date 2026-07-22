@@ -1,0 +1,2 @@
+// RVA 0xD717B0, PAGEVRFD
+__int64 pXdvPsRevertToSelf = 0x0000000000000000; // 0

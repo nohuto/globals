@@ -1,0 +1,2 @@
+// RVA 0x291B20, .rdata
+unsigned char WNF_PNPC_CONTAINER_CONFIG_REQUESTED = 0x75; // 117

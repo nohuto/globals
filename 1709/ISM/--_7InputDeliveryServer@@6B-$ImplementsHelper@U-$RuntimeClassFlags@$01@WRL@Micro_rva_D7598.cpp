@@ -1,0 +1,3 @@
+// RVA 0xD7598, .rdata
+// Symbol: ??_7InputDeliveryServer@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@$00UIInputServiceProxyOwner@@UIRemoteInputDelivery@@UIInputFocusListener@@@Details@WRL@Microsoft@@@
+void *___7InputDeliveryServer__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIInputServiceProxyOwner__UIRemoteInputDelivery__UIInputFocusListener___Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7InputDeliveryServer__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIInputServiceProxyOwner__UIRemoteInputDelivery__UIInputFocusListener___Details_WRL_Microsoft___)>(0x0000000180081670); // 6442980976

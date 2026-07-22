@@ -1,0 +1,2 @@
+// RVA 0x572978, ALMOSTRO
+__int64 PpmHeteroHgsTableMdl = 0x0000000000000000; // 0

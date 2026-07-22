@@ -1,0 +1,2 @@
+// RVA 0x26DFE8, .rdata
+unsigned char WNF_DXGK_ADAPTER_TDR_NOTIFICATION = 0x75; // 117

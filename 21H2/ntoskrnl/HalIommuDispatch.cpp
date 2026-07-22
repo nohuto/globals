@@ -1,0 +1,2 @@
+// RVA 0xC04F48, .data
+ULONG_PTR HalIommuDispatch = 0x0000000140C049E0; // 5381310944

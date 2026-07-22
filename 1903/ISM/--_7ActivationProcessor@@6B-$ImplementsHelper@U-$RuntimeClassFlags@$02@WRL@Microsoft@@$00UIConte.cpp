@@ -1,0 +1,3 @@
+// RVA 0x175818, .rdata
+// Symbol: ??_7ActivationProcessor@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$02@WRL@Microsoft@@$00UIContextualProcessor@@UIWeakReferenceSource@@VFtmBase@23@@Details@WRL@Microsoft@@@
+void *___7ActivationProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00UIContextualProcessor__UIWeakReferenceSource__VFtmBase_23__Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7ActivationProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00UIContextualProcessor__UIWeakReferenceSource__VFtmBase_23__Details_WRL_Microsoft___)>(0x0000000180038C90); // 6442683536

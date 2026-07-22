@@ -1,0 +1,2 @@
+// RVA 0x35E738, .data
+EPOINTFIX gspwndLockUpdate = 0x0000000000000000; // 0

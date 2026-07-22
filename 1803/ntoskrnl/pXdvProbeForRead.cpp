@@ -1,0 +1,2 @@
+// RVA 0x8751C0, PAGEVRFD
+__int64 pXdvProbeForRead = 0x0000000000000000; // 0

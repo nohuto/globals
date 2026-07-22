@@ -1,0 +1,2 @@
+// RVA 0x70B908, PAGEVRFD
+unsigned long long pXdvZwSetEaFile = 0x0000000140153520; // 5370098976

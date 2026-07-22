@@ -1,0 +1,2 @@
+// RVA 0x8040B8, PAGEVRFD
+__int64 pXdvDriverEntry = 0x0000000000000000; // 0

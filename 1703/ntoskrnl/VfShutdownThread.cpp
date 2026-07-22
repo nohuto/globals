@@ -1,0 +1,2 @@
+// RVA 0x790188, PAGEVRFB
+__int64 VfShutdownThread = 0x0000000000000000; // 0

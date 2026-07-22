@@ -1,0 +1,2 @@
+// RVA 0x3C9F28, .data
+ULONG_PTR EmpPagingLock = 0x0000000000000000; // 0

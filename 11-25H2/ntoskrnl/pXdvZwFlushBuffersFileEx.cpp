@@ -1,0 +1,2 @@
+// RVA 0xFF3118, PAGEVRFD
+__int64 pXdvZwFlushBuffersFileEx = 0x0000000000000000; // 0

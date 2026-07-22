@@ -1,0 +1,2 @@
+// RVA 0x3D05B0, ALMOSTRO
+__int64 KiDebugTraps = 0x0000000000000000; // 0

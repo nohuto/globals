@@ -1,0 +1,2 @@
+// RVA 0xFD8FD8, PAGEDATA
+__int64 HandleTableListHead = 0x0000000000000000; // 0

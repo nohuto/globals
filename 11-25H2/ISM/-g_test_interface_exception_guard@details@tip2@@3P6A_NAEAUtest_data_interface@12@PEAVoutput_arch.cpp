@@ -1,0 +1,3 @@
+// RVA 0x246CB8, .data
+// Symbol: ?g_test_interface_exception_guard@details@tip2@@3P6A_NAEAUtest_data_interface@12@PEAVoutput_archive@tson@@W4serialize_options@12@PEAVinput_archive@5@PEBUTipReportingInfo@@@_EEA
+__int64 _g_test_interface_exception_guard_details_tip2__3P6A_NAEAUtest_data_interface_12_PEAVoutput_archive_tson__W4serialize_options_12_PEAVinput_archive_5_PEBUTipReportingInfo____EEA = 0x0000000000000000; // 0

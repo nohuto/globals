@@ -1,0 +1,2 @@
+// RVA 0x436B20, .data
+int PspQuotaExpansionDescriptors = 0x00000000; // 0

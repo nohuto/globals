@@ -1,0 +1,2 @@
+// RVA 0x310430, .rdata
+unsigned char LIVEDUMP_EVENT_WRITE_DUMPDATA_TO_FILE_START = 0x03; // 3

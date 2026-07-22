@@ -1,0 +1,2 @@
+// RVA 0x55A8C0, CFGRO
+__int64 KiDebugTraps = 0x0000000000000000; // 0

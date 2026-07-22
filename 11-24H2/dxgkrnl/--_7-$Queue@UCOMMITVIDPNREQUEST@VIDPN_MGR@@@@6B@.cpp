@@ -1,0 +1,3 @@
+// RVA 0xA6C90, .rdata
+// Symbol: ??_7?$Queue@UCOMMITVIDPNREQUEST@VIDPN_MGR@@@@6B@
+void *___7__Queue_UCOMMITVIDPNREQUEST_VIDPN_MGR____6B_ = reinterpret_cast<decltype(___7__Queue_UCOMMITVIDPNREQUEST_VIDPN_MGR____6B_)>(0x000000014000E3E0); // 5368767456

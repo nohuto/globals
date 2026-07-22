@@ -1,0 +1,2 @@
+// RVA 0xC04FE8, .data
+unsigned char KseClearPCIDBitsShimHookCollections = 0x00; // 0

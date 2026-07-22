@@ -1,0 +1,2 @@
+// RVA 0xD4A2B0, PAGEVRFD
+__int64 pXdvExAcquireFastMutex = 0x0000000000000000; // 0

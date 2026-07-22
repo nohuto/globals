@@ -1,0 +1,5 @@
+// RVA 0x25C048, .data
+// Type: char[5]
+unsigned char _gTHQAPublicKey[0x5] = {
+    0x52, 0x53, 0x41, 0x31
+};

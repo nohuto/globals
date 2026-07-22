@@ -1,0 +1,2 @@
+// RVA 0x9AF20, .data
+int Microsoft_Windows_Networking_CorrelationEnabled = 0x00000000; // 0

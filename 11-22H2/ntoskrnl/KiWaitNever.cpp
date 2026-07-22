@@ -1,0 +1,2 @@
+// RVA 0xD1EE88, ALMOSTRO
+__int64 KiWaitNever = 0x0000000000000000; // 0

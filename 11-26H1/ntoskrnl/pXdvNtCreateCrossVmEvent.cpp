@@ -1,0 +1,2 @@
+// RVA 0xFF2590, PAGEVRFD
+__int64 pXdvNtCreateCrossVmEvent = 0x0000000000000000; // 0

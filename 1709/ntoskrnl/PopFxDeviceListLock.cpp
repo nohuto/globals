@@ -1,0 +1,2 @@
+// RVA 0x366C38, .data
+ULONG_PTR PopFxDeviceListLock = 0x0000000000000000; // 0

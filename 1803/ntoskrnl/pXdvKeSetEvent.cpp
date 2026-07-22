@@ -1,0 +1,2 @@
+// RVA 0x874608, PAGEVRFD
+__int64 pXdvKeSetEvent = 0x0000000000000000; // 0

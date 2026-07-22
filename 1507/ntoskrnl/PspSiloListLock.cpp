@@ -1,0 +1,2 @@
+// RVA 0x32C460, .data
+ULONG_PTR PspSiloListLock = 0x0000000000000000; // 0

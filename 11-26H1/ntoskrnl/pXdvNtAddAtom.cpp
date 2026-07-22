@@ -1,0 +1,2 @@
+// RVA 0xFF25D0, PAGEVRFD
+__int64 pXdvNtAddAtom = 0x0000000000000000; // 0

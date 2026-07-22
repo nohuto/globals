@@ -1,0 +1,2 @@
+// RVA 0x7BE118, PAGEVRFD
+__int64 pXdvPoFxCompleteIdleState = 0x0000000000000000; // 0

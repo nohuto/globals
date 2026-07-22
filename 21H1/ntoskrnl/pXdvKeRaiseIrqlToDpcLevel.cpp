@@ -1,0 +1,2 @@
+// RVA 0xD47628, PAGEVRFD
+__int64 pXdvKeRaiseIrqlToDpcLevel = 0x0000000000000000; // 0

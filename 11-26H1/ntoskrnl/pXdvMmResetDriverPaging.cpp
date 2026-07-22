@@ -1,0 +1,2 @@
+// RVA 0xFF2180, PAGEVRFD
+__int64 pXdvMmResetDriverPaging = 0x0000000000000000; // 0

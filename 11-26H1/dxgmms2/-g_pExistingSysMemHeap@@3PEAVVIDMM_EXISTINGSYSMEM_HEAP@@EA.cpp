@@ -1,0 +1,3 @@
+// RVA 0x89AE8, .data
+// Symbol: ?g_pExistingSysMemHeap@@3PEAVVIDMM_EXISTINGSYSMEM_HEAP@@EA
+struct VIDMM_EXISTINGSYSMEM_HEAP *_g_pExistingSysMemHeap__3PEAVVIDMM_EXISTINGSYSMEM_HEAP__EA = reinterpret_cast<decltype(_g_pExistingSysMemHeap__3PEAVVIDMM_EXISTINGSYSMEM_HEAP__EA)>(0x0000000000000000); // 0

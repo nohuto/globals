@@ -1,0 +1,2 @@
+// RVA 0x30FAB8, .rdata
+const struct _DXGK_SET_DISPLAY_CONFIG_PARAMS_EX WPP_713a73a9a0bc322488e80543f5fb9642_Traceguids = 0xA9; // 169

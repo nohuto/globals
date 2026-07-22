@@ -1,0 +1,2 @@
+// RVA 0x3111C0, .rdata
+unsigned char HV_EVENTLOG_IOMMU_FAILED_RESERVED_DEVICE = 0x95; // 149

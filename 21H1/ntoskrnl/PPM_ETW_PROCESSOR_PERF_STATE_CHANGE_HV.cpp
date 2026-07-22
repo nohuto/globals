@@ -1,0 +1,2 @@
+// RVA 0xCB50, .rdata
+char PPM_ETW_PROCESSOR_PERF_STATE_CHANGE_HV = 0x90; // -112

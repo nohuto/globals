@@ -1,0 +1,2 @@
+// RVA 0x3E5140, ALMOSTRO
+__int64 KiProcessorBlock = 0x0000000000000000; // 0

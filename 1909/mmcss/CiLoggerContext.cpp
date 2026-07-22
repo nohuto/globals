@@ -1,0 +1,2 @@
+// RVA 0x72C8, .data
+REGHANDLE CiLoggerContext = 0x0000000000000000; // 0

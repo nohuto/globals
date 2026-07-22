@@ -1,0 +1,2 @@
+// RVA 0xC4FBC0, .data
+ULONG_PTR PfTGlobals = 0x0000000000000000; // 0

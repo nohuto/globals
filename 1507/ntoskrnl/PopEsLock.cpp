@@ -1,0 +1,2 @@
+// RVA 0x32D440, .data
+ULONG_PTR PopEsLock = 0x0000000000000000; // 0

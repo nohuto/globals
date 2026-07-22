@@ -1,0 +1,3 @@
+// RVA 0x1EF4A0, .rdata
+// Symbol: ??_7CursorProcessor@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$02@WRL@Microsoft@@$00U?$ImplementsMarker@VFtmBase@WRL@Microsoft@@@Details@23@@Details@WRL@Microsoft@@@
+void *___7CursorProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00U__ImplementsMarker_VFtmBase_WRL_Microsoft___Details_23__Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7CursorProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00U__ImplementsMarker_VFtmBase_WRL_Microsoft___Details_23__Details_WRL_Microsoft___)>(0x000000018014A850); // 6443804752

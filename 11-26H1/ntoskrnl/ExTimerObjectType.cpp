@@ -1,0 +1,2 @@
+// RVA 0xFC0EB8, ALMOSTRO
+__int64 ExTimerObjectType = 0x0000000000000000; // 0

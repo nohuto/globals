@@ -1,0 +1,2 @@
+// RVA 0x3D1238, ALMOSTRO
+ULONG_PTR KiSpeculationFeatures = 0x0000000000000000; // 0

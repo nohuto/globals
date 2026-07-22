@@ -1,0 +1,2 @@
+// RVA 0x382218, ALMOSTRO
+int HvlpFlags = 0x00000000; // 0

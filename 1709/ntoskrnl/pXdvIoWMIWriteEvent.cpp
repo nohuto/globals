@@ -1,0 +1,2 @@
+// RVA 0x8040E0, PAGEVRFD
+__int64 pXdvIoWMIWriteEvent = 0x0000000000000000; // 0

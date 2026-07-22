@@ -1,0 +1,2 @@
+// RVA 0x70B3E0, PAGEVRFD
+unsigned long long pXdvRtlStringFromGUID = 0x00000001404C2A1C; // 5373700636

@@ -1,0 +1,5 @@
+// RVA 0x19468, .text
+// Type: int[2]
+unsigned char _crc32Mult_[0x8] = {
+    0x00, 0x00, 0x80
+};

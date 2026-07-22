@@ -1,0 +1,2 @@
+// RVA 0xA94F98, INIT
+__int64 CmpStartString = 0x00000000000C000A; // 786442

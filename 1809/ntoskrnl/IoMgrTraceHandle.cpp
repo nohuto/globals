@@ -1,0 +1,2 @@
+// RVA 0x4370E8, .data
+REGHANDLE IoMgrTraceHandle = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0xF0D28, .rdata
+// Symbol: ?_TlgEvent@?BF@??StopActivity@CreateSpatialGraphNodeReference@HolographicDriverClientContinuousTrace@@MEAAXXZ@4U_unnamed_type__TlgEvent_@?BF@??123@MEAAXXZ@B
+unsigned char __TlgEvent__BF___StopActivity_CreateSpatialGraphNodeReference_HolographicDriverClientContinuousTrace__MEAAXXZ_4U_unnamed_type__TlgEvent___BF___123_MEAAXXZ_B = 0x03; // 3

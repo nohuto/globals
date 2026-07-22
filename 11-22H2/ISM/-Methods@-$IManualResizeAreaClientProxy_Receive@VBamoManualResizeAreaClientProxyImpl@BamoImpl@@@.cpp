@@ -1,0 +1,3 @@
+// RVA 0x20FB40, .rdata
+// Symbol: ?Methods@?$IManualResizeAreaClientProxy_Receive@VBamoManualResizeAreaClientProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+__int64 (__fastcall *_Methods___IManualResizeAreaClientProxy_Receive_VBamoManualResizeAreaClientProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)(Microsoft::BamoImpl::BamoProxyImpl *this) = reinterpret_cast<decltype(_Methods___IManualResizeAreaClientProxy_Receive_VBamoManualResizeAreaClientProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180170060); // 6443958368

@@ -1,0 +1,2 @@
+// RVA 0x35A968, .rdata
+unsigned char WNF_SEB_FULL_SCREEN_VIDEO_PLAYBACK = 0x75; // 117

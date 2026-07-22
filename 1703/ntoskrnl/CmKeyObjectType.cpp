@@ -1,0 +1,2 @@
+// RVA 0x3E3FA8, ALMOSTRO
+POBJECT_TYPE *CmKeyObjectType = reinterpret_cast<decltype(CmKeyObjectType)>(0x0000000000000000); // 0

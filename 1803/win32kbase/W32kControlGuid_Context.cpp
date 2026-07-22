@@ -1,0 +1,2 @@
+// RVA 0x19A1B0, .data
+ULONGLONG W32kControlGuid_Context = 0x0000000000000000; // 0

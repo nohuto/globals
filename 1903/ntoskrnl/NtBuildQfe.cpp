@@ -1,0 +1,2 @@
+// RVA 0x9473D4, PAGE
+int NtBuildQfe = 0x000004E8; // 1256

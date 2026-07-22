@@ -1,0 +1,2 @@
+// RVA 0xEFEB38, .data
+PCALLBACK_OBJECT ExCbSeImageVerificationBlockInfo = reinterpret_cast<decltype(ExCbSeImageVerificationBlockInfo)>(0x0000000000000000); // 0

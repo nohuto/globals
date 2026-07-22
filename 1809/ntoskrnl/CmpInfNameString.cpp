@@ -1,0 +1,2 @@
+// RVA 0x9FE430, INIT
+__int64 CmpInfNameString = 0x000000000010000E; // 1048590

@@ -1,0 +1,2 @@
+// RVA 0xC60810, INIT
+__int64 CmpTagString = 0x0000000000080006; // 524294

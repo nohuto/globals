@@ -1,0 +1,2 @@
+// RVA 0x376170, .rdata
+unsigned char THREATINT_ALLOCVM_LOCAL_KERNEL_CALLER = 0x1A; // 26

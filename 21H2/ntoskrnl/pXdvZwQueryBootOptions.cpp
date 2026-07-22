@@ -1,0 +1,2 @@
+// RVA 0xD4A8C0, PAGEVRFD
+__int64 pXdvZwQueryBootOptions = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x758478, PAGEVRFD
+__int64 pXdvMmUnlockPages = 0x0000000000000000; // 0

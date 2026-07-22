@@ -1,0 +1,2 @@
+// RVA 0xFC0BA8, ALMOSTRO
+__int64 EtwpHostSiloState = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xFD71C0, PAGEDATA
+__int64 CmpGlobalQuotaAllowed = 0x00000000FFFFFFFF; // 4294967295

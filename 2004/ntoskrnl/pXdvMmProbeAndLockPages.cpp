@@ -1,0 +1,2 @@
+// RVA 0xD48568, PAGEVRFD
+__int64 pXdvMmProbeAndLockPages = 0x0000000000000000; // 0

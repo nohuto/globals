@@ -1,0 +1,2 @@
+// RVA 0xFBF4B0, ALMOSTRO
+ULONG KePointerIgnoreBits = 0x00000000; // 0

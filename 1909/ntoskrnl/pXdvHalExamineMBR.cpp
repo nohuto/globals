@@ -1,0 +1,2 @@
+// RVA 0x9C8D20, PAGEVRFD
+__int64 pXdvHalExamineMBR = 0x0000000000000000; // 0

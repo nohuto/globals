@@ -1,0 +1,2 @@
+// RVA 0xC15DE0, .data
+ULONG_PTR WheaDrsDpc = 0x0000000000000000; // 0

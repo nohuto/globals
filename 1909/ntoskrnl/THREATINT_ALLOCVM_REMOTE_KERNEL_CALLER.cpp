@@ -1,0 +1,2 @@
+// RVA 0x395F88, .rdata
+unsigned char THREATINT_ALLOCVM_REMOTE_KERNEL_CALLER = 0x15; // 21

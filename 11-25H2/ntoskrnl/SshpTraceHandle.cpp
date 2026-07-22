@@ -1,0 +1,2 @@
+// RVA 0xF05E30, .data
+REGHANDLE SshpTraceHandle = 0x0000000000000000; // 0

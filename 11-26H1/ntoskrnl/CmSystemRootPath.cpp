@@ -1,0 +1,2 @@
+// RVA 0xBE0A58, PAGE
+__int64 CmSystemRootPath = 0x0000000000180016; // 1572886

@@ -1,0 +1,2 @@
+// RVA 0x988188, PAGEVRFD
+__int64 VfErrorBugcheckData = 0x0000000000000000; // 0

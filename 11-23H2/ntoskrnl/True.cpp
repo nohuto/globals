@@ -1,0 +1,5 @@
+// RVA 0x3E514, .rdata
+// Type: const char[]
+unsigned char True[0x5] = {
+    0x54, 0x52, 0x55, 0x45
+};

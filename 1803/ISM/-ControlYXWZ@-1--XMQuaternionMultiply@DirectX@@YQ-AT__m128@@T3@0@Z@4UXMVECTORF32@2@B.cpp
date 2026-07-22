@@ -1,0 +1,7 @@
+// RVA 0xFC380, .rdata
+// Symbol: ?ControlYXWZ@?1??XMQuaternionMultiply@DirectX@@YQ?AT__m128@@T3@0@Z@4UXMVECTORF32@2@B
+// Type: __int128
+unsigned char _ControlYXWZ__1__XMQuaternionMultiply_DirectX__YQ_AT__m128__T3_0_Z_4UXMVECTORF32_2_B[0x10] = {
+    0x00, 0x00, 0x80, 0xBF, 0x00, 0x00, 0x80, 0x3F, 0x00, 0x00, 0x80, 0x3F,
+    0x00, 0x00, 0x80, 0xBF
+};

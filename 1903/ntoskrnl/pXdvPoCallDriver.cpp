@@ -1,0 +1,2 @@
+// RVA 0x9C0040, PAGEVRFD
+__int64 pXdvPoCallDriver = 0x0000000000000001; // 1

@@ -1,0 +1,2 @@
+// RVA 0x2D55C8, .rdata
+unsigned char WNF_PO_DRIPS_DEVICE_CONSTRAINTS_REGISTERED = 0x75; // 117

@@ -1,0 +1,2 @@
+// RVA 0xFBF0C8, ALMOSTRO
+__int64 HvlpVpStatsPages = 0x0000000000000000; // 0

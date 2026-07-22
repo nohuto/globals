@@ -1,0 +1,2 @@
+// RVA 0x7F3B58, PAGEDATA
+__int64 SepLogonSessions = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x758BE0, PAGEVRFD
+__int64 pXdvExRaiseStatus = 0x0000000000000000; // 0

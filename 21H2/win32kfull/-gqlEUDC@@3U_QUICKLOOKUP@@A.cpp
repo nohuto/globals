@@ -1,0 +1,3 @@
+// RVA 0x33B870, .data
+// Symbol: ?gqlEUDC@@3U_QUICKLOOKUP@@A
+struct _QUICKLOOKUP _gqlEUDC__3U_QUICKLOOKUP__A = 0x00000000; // 0

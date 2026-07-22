@@ -1,0 +1,2 @@
+// RVA 0xD422D0, PAGEVRFD
+unsigned long long ViUtilsForDIF = 0x00000001409C6670; // 5378958960

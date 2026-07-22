@@ -1,0 +1,3 @@
+// RVA 0x66610, .rdata
+// Symbol: ??_7DMMVIDPNTARGET@@6B?$ContainedBy@VDMMVIDPNTARGETSET@@@@@
+void *___7DMMVIDPNTARGET__6B__ContainedBy_VDMMVIDPNTARGETSET_____ = reinterpret_cast<decltype(___7DMMVIDPNTARGET__6B__ContainedBy_VDMMVIDPNTARGETSET_____)>(0x00000001C00256C0); // 7516346048

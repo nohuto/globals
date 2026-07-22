@@ -1,0 +1,2 @@
+// RVA 0x90B7A0, PAGE
+__int64 SepValidAttributesTypes = 0x00000000001E001C; // 1966108

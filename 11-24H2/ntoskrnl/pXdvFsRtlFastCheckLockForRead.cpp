@@ -1,0 +1,2 @@
+// RVA 0xFFE9E0, PAGEVRFD
+__int64 pXdvFsRtlFastCheckLockForRead = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x401570, ALMOSTRO
+__int64 HvlpQueryProximityId = 0x0000000000000000; // 0

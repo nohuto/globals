@@ -1,0 +1,2 @@
+// RVA 0x171B38, .rdata
+_UNKNOWN **Feature_GetPreferredThreadLanguage_Watson_AccessViolation_BugFix__private_requiresFeatures = reinterpret_cast<decltype(Feature_GetPreferredThreadLanguage_Watson_AccessViolation_BugFix__private_requiresFeatures)>(0x00000001801AFDE0); // 6444219872

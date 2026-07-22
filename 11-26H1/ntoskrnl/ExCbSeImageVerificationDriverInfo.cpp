@@ -1,0 +1,2 @@
+// RVA 0xF03368, .data
+__int64 ExCbSeImageVerificationDriverInfo = 0x0000000000000000; // 0

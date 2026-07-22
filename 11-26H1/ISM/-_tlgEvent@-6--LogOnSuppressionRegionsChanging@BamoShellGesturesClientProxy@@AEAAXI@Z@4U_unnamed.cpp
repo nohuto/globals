@@ -1,0 +1,3 @@
+// RVA 0x227C10, .rdata
+// Symbol: ?_tlgEvent@?6??LogOnSuppressionRegionsChanging@BamoShellGesturesClientProxy@@AEAAXI@Z@4U_unnamed_type__tlgEvent_@?6??12@AEAAXI@Z@B
+unsigned char __tlgEvent__6__LogOnSuppressionRegionsChanging_BamoShellGesturesClientProxy__AEAAXI_Z_4U_unnamed_type__tlgEvent___6__12_AEAAXI_Z_B = 0x06; // 6

@@ -1,0 +1,3 @@
+// RVA 0x29F85C, .data
+// Symbol: ?gProtocolType@@3V?$SGRDPgProtocolType@G@@A
+unsigned char _gProtocolType__3V__SGRDPgProtocolType_G__A = 0x00; // 0

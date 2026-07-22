@@ -1,0 +1,2 @@
+// RVA 0x8050D8, PAGEVRFD
+__int64 pXdvMmPageEntireDriver = 0x0000000000000000; // 0

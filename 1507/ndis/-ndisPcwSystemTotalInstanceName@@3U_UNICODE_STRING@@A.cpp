@@ -1,0 +1,7 @@
+// RVA 0x84C90, .data
+// Symbol: ?ndisPcwSystemTotalInstanceName@@3U_UNICODE_STRING@@A
+// Type: UNICODE_STRING
+unsigned char _ndisPcwSystemTotalInstanceName__3U_UNICODE_STRING__A[0x10] = {
+    0x0C, 0x00, 0x0E, 0x00, 0x00, 0x00, 0x00, 0x00, 0xA8, 0x68, 0x07, 0xC0,
+    0x01
+};

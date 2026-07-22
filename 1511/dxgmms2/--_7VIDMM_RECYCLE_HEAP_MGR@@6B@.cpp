@@ -1,0 +1,3 @@
+// RVA 0x24000, .rdata
+// Symbol: ??_7VIDMM_RECYCLE_HEAP_MGR@@6B@
+void *___7VIDMM_RECYCLE_HEAP_MGR__6B_ = reinterpret_cast<decltype(___7VIDMM_RECYCLE_HEAP_MGR__6B_)>(0x00000001C0011D80); // 7516265856

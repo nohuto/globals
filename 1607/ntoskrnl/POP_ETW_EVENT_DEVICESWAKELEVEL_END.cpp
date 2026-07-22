@@ -1,0 +1,2 @@
+// RVA 0x25F558, .rdata
+unsigned char POP_ETW_EVENT_DEVICESWAKELEVEL_END = 0x81; // 129

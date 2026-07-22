@@ -1,0 +1,2 @@
+// RVA 0x27830, .rdata
+const __int64 DEVPKEY_Device_StateDirectoryId = 0x408897A683DA6326; // 4650133356692529958

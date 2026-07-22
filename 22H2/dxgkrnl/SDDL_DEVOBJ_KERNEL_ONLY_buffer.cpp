@@ -1,0 +1,5 @@
+// RVA 0x7CAB0, .rdata
+// Type: wchar_t[4]
+unsigned char SDDL_DEVOBJ_KERNEL_ONLY_buffer[0x8] = {
+    0x44, 0x00, 0x3A, 0x00, 0x50
+};

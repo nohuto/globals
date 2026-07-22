@@ -1,0 +1,2 @@
+// RVA 0xD1CA78, INIT
+__int64 CmpWildcardString = 0x0000000000040002; // 262146

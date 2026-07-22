@@ -1,0 +1,2 @@
+// RVA 0xD49320, PAGEVRFD
+__int64 pXdvProbeForWrite = 0x0000000000000000; // 0

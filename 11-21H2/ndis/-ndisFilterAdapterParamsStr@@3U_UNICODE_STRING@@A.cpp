@@ -1,0 +1,7 @@
+// RVA 0xEB840, .data
+// Symbol: ?ndisFilterAdapterParamsStr@@3U_UNICODE_STRING@@A
+// Type: struct _UNICODE_STRING
+unsigned char _ndisFilterAdapterParamsStr__3U_UNICODE_STRING__A[0x10] = {
+    0x28, 0x00, 0x2A, 0x00, 0x00, 0x00, 0x00, 0x00, 0x10, 0xA2, 0x0D, 0xC0,
+    0x01
+};

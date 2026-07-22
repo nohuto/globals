@@ -1,0 +1,2 @@
+// RVA 0x292D78, .rdata
+unsigned char WNF_SEB_LOW_LATENCY_POWER_REQUEST = 0x75; // 117

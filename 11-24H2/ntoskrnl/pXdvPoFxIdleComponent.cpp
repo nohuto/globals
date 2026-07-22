@@ -1,0 +1,2 @@
+// RVA 0xFFED98, PAGEVRFD
+__int64 pXdvPoFxIdleComponent = 0x0000000000000000; // 0

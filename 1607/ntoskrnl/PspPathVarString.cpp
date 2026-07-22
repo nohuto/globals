@@ -1,0 +1,2 @@
+// RVA 0x7D5840, INIT
+__int64 PspPathVarString = 0x00000000000C000A; // 786442

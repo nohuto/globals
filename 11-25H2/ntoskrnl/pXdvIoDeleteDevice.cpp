@@ -1,0 +1,2 @@
+// RVA 0xFFDB18, PAGEVRFD
+__int64 pXdvIoDeleteDevice = 0x0000000000000000; // 0

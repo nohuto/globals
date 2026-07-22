@@ -1,0 +1,3 @@
+// RVA 0xA6600, .rdata
+// Symbol: ??_7MPCMouseProcessor@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@U?$InterfaceList@UIMPCInputProviderBase@@VNil@Details@WRL@Microsoft@@@Details@23@$00$0A@@Details@WRL@Microsoft@@@
+void *___7MPCMouseProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft__U__InterfaceList_UIMPCInputProviderBase__VNil_Details_WRL_Microsoft___Details_23__00_0A__Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7MPCMouseProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft__U__InterfaceList_UIMPCInputProviderBase__VNil_Details_WRL_Microsoft___Details_23__00_0A__Details_WRL_Microsoft___)>(0x00000001800438C0); // 6442727616

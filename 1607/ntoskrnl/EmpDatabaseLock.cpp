@@ -1,0 +1,2 @@
+// RVA 0x322550, .data
+ULONG_PTR EmpDatabaseLock = 0x0000000000000000; // 0

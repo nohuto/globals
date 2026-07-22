@@ -1,0 +1,2 @@
+// RVA 0x432E50, .data
+ULONG_PTR WdipTimeoutTimer = 0x0000000000000000; // 0

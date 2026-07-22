@@ -1,0 +1,2 @@
+// RVA 0x3A3018, .data
+ULONG_PTR WheapPfaLock = 0x0000000000000000; // 0

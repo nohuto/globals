@@ -1,0 +1,2 @@
+// RVA 0xFF2438, PAGEVRFD
+__int64 pXdvNtDuplicateObject = 0x0000000000000000; // 0

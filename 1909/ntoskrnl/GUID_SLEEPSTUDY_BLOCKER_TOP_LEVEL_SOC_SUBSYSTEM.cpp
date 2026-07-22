@@ -1,0 +1,5 @@
+// RVA 0x37E068, .rdata
+// Type: GUID
+unsigned char GUID_SLEEPSTUDY_BLOCKER_TOP_LEVEL_SOC_SUBSYSTEM[0x10] = {
+    0xBB, 0xAA, 0xBB, 0xAA
+};

@@ -1,0 +1,2 @@
+// RVA 0x15DFD8, .rdata
+int *Feature_Dispdiag_AdvancedColorDiagnosticsLockInversionFix__private_descriptor = reinterpret_cast<decltype(Feature_Dispdiag_AdvancedColorDiagnosticsLockInversionFix__private_descriptor)>(0x00000001401638C0); // 5370165440

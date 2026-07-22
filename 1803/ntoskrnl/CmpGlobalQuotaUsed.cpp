@@ -1,0 +1,2 @@
+// RVA 0x8626D8, PAGEDATA
+__int64 CmpGlobalQuotaUsed = 0x0000000000000000; // 0

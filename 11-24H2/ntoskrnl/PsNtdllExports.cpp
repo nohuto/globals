@@ -1,0 +1,2 @@
+// RVA 0xFC74B0, ALMOSTRO
+__int64 PsNtdllExports = 0x0000000000000000; // 0

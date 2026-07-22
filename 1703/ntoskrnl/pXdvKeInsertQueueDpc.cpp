@@ -1,0 +1,2 @@
+// RVA 0x7BD538, PAGEVRFD
+__int64 pXdvKeInsertQueueDpc = 0x0000000000000000; // 0

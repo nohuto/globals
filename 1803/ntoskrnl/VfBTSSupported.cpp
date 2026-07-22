@@ -1,0 +1,2 @@
+// RVA 0x8420B0, PAGEVRFB
+int VfBTSSupported = 0x00000000; // 0

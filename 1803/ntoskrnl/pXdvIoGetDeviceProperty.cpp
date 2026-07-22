@@ -1,0 +1,2 @@
+// RVA 0x874E38, PAGEVRFD
+__int64 pXdvIoGetDeviceProperty = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x7BDE88, PAGEVRFD
+__int64 pXdvIoInitializeIrp = 0x0000000000000000; // 0

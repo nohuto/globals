@@ -1,0 +1,2 @@
+// RVA 0x34D4C0, .data
+ULONG_PTR CmpRmListLock = 0x0000000000000000; // 0

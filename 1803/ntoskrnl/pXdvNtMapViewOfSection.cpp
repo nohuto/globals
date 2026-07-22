@@ -1,0 +1,2 @@
+// RVA 0x874470, PAGEVRFD
+__int64 pXdvNtMapViewOfSection = 0x0000000000000000; // 0

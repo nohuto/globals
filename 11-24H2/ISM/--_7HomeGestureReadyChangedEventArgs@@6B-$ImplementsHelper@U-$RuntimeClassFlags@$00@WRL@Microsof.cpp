@@ -1,0 +1,3 @@
+// RVA 0x1F1008, .rdata
+// Symbol: ??_7HomeGestureReadyChangedEventArgs@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$00@WRL@Microsoft@@$00UIWeakReferenceSource@@@Details@WRL@Microsoft@@@
+void *___7HomeGestureReadyChangedEventArgs__6B__ImplementsHelper_U__RuntimeClassFlags__00_WRL_Microsoft___00UIWeakReferenceSource___Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7HomeGestureReadyChangedEventArgs__6B__ImplementsHelper_U__RuntimeClassFlags__00_WRL_Microsoft___00UIWeakReferenceSource___Details_WRL_Microsoft___)>(0x0000000180168940); // 6443927872

@@ -1,0 +1,2 @@
+// RVA 0x32C498, .data
+ULONG_PTR SiloMonitorLock = 0x0000000000000000; // 0

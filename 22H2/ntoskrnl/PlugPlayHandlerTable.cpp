@@ -1,0 +1,5 @@
+// RVA 0x3F90, .rdata
+// Type: __int64[3]
+unsigned char PlugPlayHandlerTable[0x18] = {
+    0x00, 0x00, 0x00, 0x00, 0x18
+};

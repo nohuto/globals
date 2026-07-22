@@ -1,0 +1,5 @@
+// RVA 0x839590, INIT
+// Type: wchar_t[3]
+unsigned char CmpHardwareProfilesPathString[0x6] = {
+    0x78, 0x00, 0x7A
+};

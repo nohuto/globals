@@ -1,0 +1,2 @@
+// RVA 0x2EE1A8, .rdata
+__int64 DefaultSolidDyesInfo = 0x042C06B806C20AA0; // 300622662584109728

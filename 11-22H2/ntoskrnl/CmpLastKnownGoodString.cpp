@@ -1,0 +1,2 @@
+// RVA 0xB9FE58, INIT
+__int64 CmpLastKnownGoodString = 0x00000000001C001A; // 1835034

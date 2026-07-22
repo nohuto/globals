@@ -1,0 +1,3 @@
+// RVA 0x5D580, .rdata
+// Symbol: ?VmBusCommandTableHostToVm@DXG_GUEST_GLOBAL_VMBUS@@2QBUDXG_VMBUS_COMMAND_TABLE@@B
+unsigned char _VmBusCommandTableHostToVm_DXG_GUEST_GLOBAL_VMBUS__2QBUDXG_VMBUS_COMMAND_TABLE__B = 0x00; // 0

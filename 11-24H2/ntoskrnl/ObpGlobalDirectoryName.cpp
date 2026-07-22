@@ -1,0 +1,2 @@
+// RVA 0xB3D5A0, PAGE
+__int64 ObpGlobalDirectoryName = 0x0000000000120010; // 1179664

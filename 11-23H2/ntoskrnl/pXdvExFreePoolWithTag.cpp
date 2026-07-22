@@ -1,0 +1,2 @@
+// RVA 0xD710A0, PAGEVRFD
+__int64 pXdvExFreePoolWithTag = 0x0000000000000000; // 0

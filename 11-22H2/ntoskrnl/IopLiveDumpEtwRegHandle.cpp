@@ -1,0 +1,2 @@
+// RVA 0xD16B68, .data
+ULONGLONG IopLiveDumpEtwRegHandle = 0x0000000000000000; // 0

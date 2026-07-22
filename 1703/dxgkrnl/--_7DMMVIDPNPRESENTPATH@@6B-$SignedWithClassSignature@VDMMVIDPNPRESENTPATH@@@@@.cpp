@@ -1,0 +1,3 @@
+// RVA 0x48338, .rdata
+// Symbol: ??_7DMMVIDPNPRESENTPATH@@6B?$SignedWithClassSignature@VDMMVIDPNPRESENTPATH@@@@@
+void *___7DMMVIDPNPRESENTPATH__6B__SignedWithClassSignature_VDMMVIDPNPRESENTPATH_____ = reinterpret_cast<decltype(___7DMMVIDPNPRESENTPATH__6B__SignedWithClassSignature_VDMMVIDPNPRESENTPATH_____)>(0x00000001C00158C0); // 7516281024

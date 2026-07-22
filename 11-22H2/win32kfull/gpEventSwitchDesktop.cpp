@@ -1,0 +1,2 @@
+// RVA 0x35DFA8, .data
+PVOID gpEventSwitchDesktop = reinterpret_cast<decltype(gpEventSwitchDesktop)>(0x0000000000000000); // 0

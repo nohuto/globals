@@ -1,0 +1,2 @@
+// RVA 0x9C8580, PAGEVRFD
+__int64 pXdvKeClearEvent = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xFD8BB0, PAGEDATA
+__int64 ExpWnfDispatcher = 0x0000000000000000; // 0

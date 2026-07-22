@@ -1,0 +1,2 @@
+// RVA 0x443200, .data
+ULONG PopCB = 0x00000000; // 0

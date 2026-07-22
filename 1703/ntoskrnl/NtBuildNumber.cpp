@@ -1,0 +1,2 @@
+// RVA 0x74A0F0, PAGE
+int NtBuildNumber = 0xF0003AD7; // -268420393

@@ -1,0 +1,3 @@
+// RVA 0x5D828, .rdata
+// Symbol: ??_7VIDMM_PHYSICAL_ADAPTER@@6B@
+void *___7VIDMM_PHYSICAL_ADAPTER__6B_ = reinterpret_cast<decltype(___7VIDMM_PHYSICAL_ADAPTER__6B_)>(0x000000014004EBF0); // 5369031664

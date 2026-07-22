@@ -1,0 +1,2 @@
+// RVA 0xD2C1A8, PAGEDATA
+__int64 pFsRtlpMupCalls = 0x0000000000000000; // 0

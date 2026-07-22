@@ -1,0 +1,2 @@
+// RVA 0x3E4180, CACHEALI
+__int64 IopErrorLogLock = 0x0000000000000000; // 0

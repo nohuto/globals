@@ -1,0 +1,3 @@
+// RVA 0x6B0340, PAGEVRFY
+// Type: GUID
+unsigned char GUID_BOGUS_INTERFACE[0x10] = {};

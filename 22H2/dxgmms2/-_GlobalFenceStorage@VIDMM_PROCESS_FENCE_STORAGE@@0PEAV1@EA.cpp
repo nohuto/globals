@@ -1,0 +1,3 @@
+// RVA 0x50548, .data
+// Symbol: ?_GlobalFenceStorage@VIDMM_PROCESS_FENCE_STORAGE@@0PEAV1@EA
+PVOID __GlobalFenceStorage_VIDMM_PROCESS_FENCE_STORAGE__0PEAV1_EA = reinterpret_cast<decltype(__GlobalFenceStorage_VIDMM_PROCESS_FENCE_STORAGE__0PEAV1_EA)>(0x0000000000000000); // 0

@@ -1,0 +1,2 @@
+// RVA 0xFC519C, ALMOSTRO
+SIZE_T KeMaximumKernelStackExpansionSize = 0x0000000100011800; // 4295038976

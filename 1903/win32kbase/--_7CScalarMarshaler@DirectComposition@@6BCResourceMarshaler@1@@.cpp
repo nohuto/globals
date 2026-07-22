@@ -1,0 +1,3 @@
+// RVA 0x1D6000, .rdata
+// Symbol: ??_7CScalarMarshaler@DirectComposition@@6BCResourceMarshaler@1@@
+void *___7CScalarMarshaler_DirectComposition__6BCResourceMarshaler_1__ = reinterpret_cast<decltype(___7CScalarMarshaler_DirectComposition__6BCResourceMarshaler_1__)>(0x00000001C00BAF70); // 7516958576

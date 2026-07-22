@@ -1,0 +1,2 @@
+// RVA 0xD54AE0, PAGEDATA
+__int64 TtmpSession = 0x0000000000000000; // 0

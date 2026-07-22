@@ -1,0 +1,5 @@
+// RVA 0x11278, .text
+// Type: int[3]
+unsigned char _CurDirDllLoadFailureWarning[0xC] = {
+    0x0B, 0x00, 0x00, 0x09, 0x03
+};

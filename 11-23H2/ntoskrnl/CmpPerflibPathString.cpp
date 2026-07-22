@@ -1,0 +1,2 @@
+// RVA 0xA78AF0, PAGE
+__int64 CmpPerflibPathString = 0x00000000008E008C; // 9306252

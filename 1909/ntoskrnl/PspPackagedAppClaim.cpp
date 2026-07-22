@@ -1,0 +1,2 @@
+// RVA 0x947810, PAGE
+__int64 PspPackagedAppClaim = 0x0000000000140012; // 1310738

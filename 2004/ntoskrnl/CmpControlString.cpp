@@ -1,0 +1,2 @@
+// RVA 0xA94F78, INIT
+__int64 CmpControlString = 0x000000000010000E; // 1048590

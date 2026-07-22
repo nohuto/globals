@@ -1,0 +1,3 @@
+// RVA 0x22710C, .rdata
+// Symbol: ?_tlgEvent@?6??LogReceiveRegisterEdgyControllerClient@BamoEdgyControllerServerPrincipalImpl@BamoImpl@@AEAAXPEBGPEAVBamoEdgyControllerClientProxy@@@Z@4U_unnamed_type__tlgEvent_@?6??123@AEAAX01@Z@B
+unsigned char __tlgEvent__6__LogReceiveRegisterEdgyControllerClient_BamoEdgyControllerServerPrincipalImpl_BamoImpl__AEAAXPEBGPEAVBamoEdgyControllerClientProxy___Z_4U_unnamed_type__tlgEvent___6__123_AEAAX01_Z_B = 0x06; // 6

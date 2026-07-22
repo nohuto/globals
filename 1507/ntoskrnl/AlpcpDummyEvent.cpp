@@ -1,0 +1,2 @@
+// RVA 0x3D1580, ALMOSTRO
+__int64 AlpcpDummyEvent = 0x0000000000000000; // 0

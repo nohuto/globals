@@ -1,0 +1,2 @@
+// RVA 0x3873A8, .data
+ULONG_PTR CmpLoadHiveLock = 0x0000000000000000; // 0

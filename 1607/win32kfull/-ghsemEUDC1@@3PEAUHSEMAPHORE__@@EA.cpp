@@ -1,0 +1,3 @@
+// RVA 0x329970, .data
+// Symbol: ?ghsemEUDC1@@3PEAUHSEMAPHORE__@@EA
+HSEMAPHORE _ghsemEUDC1__3PEAUHSEMAPHORE____EA = reinterpret_cast<decltype(_ghsemEUDC1__3PEAUHSEMAPHORE____EA)>(0x0000000000000000); // 0

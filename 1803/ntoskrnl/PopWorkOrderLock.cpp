@@ -1,0 +1,2 @@
+// RVA 0x3AB8E0, .data
+ULONG_PTR PopWorkOrderLock = 0x0000000000000000; // 0

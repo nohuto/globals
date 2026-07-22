@@ -1,0 +1,2 @@
+// RVA 0xCFC800, ALMOSTRO
+__int64 IoDeviceObjectType = 0x0000000000000000; // 0

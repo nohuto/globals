@@ -1,0 +1,2 @@
+// RVA 0x9C8C88, PAGEVRFD
+__int64 pXdvFsRtlGetFileSize = 0x0000000000000000; // 0

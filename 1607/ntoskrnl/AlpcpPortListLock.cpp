@@ -1,0 +1,2 @@
+// RVA 0x307320, .data
+ULONG_PTR AlpcpPortListLock = 0x0000000000000000; // 0

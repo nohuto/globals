@@ -1,0 +1,2 @@
+// RVA 0x365E90, .data
+ULONG_PTR PpmIdlePolicyLock = 0x0000000000000000; // 0

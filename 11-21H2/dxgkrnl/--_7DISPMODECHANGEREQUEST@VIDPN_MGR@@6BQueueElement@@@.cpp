@@ -1,0 +1,3 @@
+// RVA 0x85D38, .rdata
+// Symbol: ??_7DISPMODECHANGEREQUEST@VIDPN_MGR@@6BQueueElement@@@
+void *___7DISPMODECHANGEREQUEST_VIDPN_MGR__6BQueueElement___ = reinterpret_cast<decltype(___7DISPMODECHANGEREQUEST_VIDPN_MGR__6BQueueElement___)>(0x00000001C0068710); // 7516620560

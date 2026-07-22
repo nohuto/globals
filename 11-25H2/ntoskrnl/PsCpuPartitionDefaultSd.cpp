@@ -1,0 +1,2 @@
+// RVA 0xFC6030, ALMOSTRO
+__int64 PsCpuPartitionDefaultSd = 0x0000000000000000; // 0

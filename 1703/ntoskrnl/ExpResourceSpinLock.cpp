@@ -1,0 +1,2 @@
+// RVA 0x3F90C0, CACHEALI
+LONG ExpResourceSpinLock = 0x00000000; // 0

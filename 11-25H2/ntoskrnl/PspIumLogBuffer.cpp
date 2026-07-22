@@ -1,0 +1,2 @@
+// RVA 0xFC5DD8, ALMOSTRO
+__int64 PspIumLogBuffer = 0x0000000000000000; // 0

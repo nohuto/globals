@@ -1,0 +1,3 @@
+// RVA 0x24CEC3, .rdata
+// Symbol: ?_tlgEvent@?3??PowerDisplayBurst@Power@InputTraceLogging@@SAXW4POWER_MONITOR_REQUEST_REASON@@@Z@4U_unnamed_type__tlgEvent_@?3??123@SAX0@Z@B
+unsigned char __tlgEvent__3__PowerDisplayBurst_Power_InputTraceLogging__SAXW4POWER_MONITOR_REQUEST_REASON___Z_4U_unnamed_type__tlgEvent___3__123_SAX0_Z_B = 0x06; // 6

@@ -1,0 +1,2 @@
+// RVA 0xB9DE20, INIT
+__int64 CmpDriverWildcardString = 0x000000000010000E; // 1048590

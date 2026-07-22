@@ -1,0 +1,5 @@
+// RVA 0x909ED0, PAGE
+// Type: wchar_t[4]
+unsigned char ObpDosDevicesShortNameRoot[0x8] = {
+    0x5C, 0x00, 0x3F, 0x00, 0x3F
+};

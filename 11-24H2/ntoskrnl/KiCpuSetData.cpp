@@ -1,0 +1,2 @@
+// RVA 0xFC7338, ALMOSTRO
+__int64 KiCpuSetData = 0x0000000000000000; // 0

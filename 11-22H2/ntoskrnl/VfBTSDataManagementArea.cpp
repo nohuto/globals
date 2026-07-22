@@ -1,0 +1,2 @@
+// RVA 0xD73650, PAGEVRFD
+__int64 VfBTSDataManagementArea = 0x0000000000000000; // 0

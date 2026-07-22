@@ -1,0 +1,2 @@
+// RVA 0xFF27A8, PAGEVRFD
+__int64 pXdvZwRequestPort = 0x0000000000000000; // 0

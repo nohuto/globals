@@ -1,0 +1,2 @@
+// RVA 0xD420F0, PAGEVRFD
+__int64 pXdvZwSetInformationKey = 0x0000000000000000; // 0

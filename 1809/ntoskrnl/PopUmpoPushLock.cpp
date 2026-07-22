@@ -1,0 +1,2 @@
+// RVA 0x410F58, .data
+ULONG_PTR PopUmpoPushLock = 0x0000000000000000; // 0

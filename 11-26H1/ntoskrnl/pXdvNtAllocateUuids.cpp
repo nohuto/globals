@@ -1,0 +1,2 @@
+// RVA 0xFF2580, PAGEVRFD
+__int64 pXdvNtAllocateUuids = 0x0000000000000000; // 0

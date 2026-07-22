@@ -1,0 +1,2 @@
+// RVA 0x441FB8, .data
+REGHANDLE PopDiagHandle = 0x0000000000000000; // 0

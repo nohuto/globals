@@ -1,0 +1,2 @@
+// RVA 0xFFCB10, PAGEVRFD
+__int64 ViDdiDeviceObjectArray = 0x0000000000000000; // 0

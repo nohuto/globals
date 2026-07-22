@@ -1,0 +1,2 @@
+// RVA 0xD0F08, .rdata
+unsigned char PowerHaltMiniport = 0x4A; // 74

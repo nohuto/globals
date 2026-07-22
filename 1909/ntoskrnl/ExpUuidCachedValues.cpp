@@ -1,0 +1,2 @@
+// RVA 0x9AD300, PAGEDATA
+__int64 ExpUuidCachedValues = 0x0000000000000000; // 0

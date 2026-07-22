@@ -1,0 +1,2 @@
+// RVA 0x381058, ALMOSTRO
+int KiMxCsrMask = 0x0000FFBF; // 65471

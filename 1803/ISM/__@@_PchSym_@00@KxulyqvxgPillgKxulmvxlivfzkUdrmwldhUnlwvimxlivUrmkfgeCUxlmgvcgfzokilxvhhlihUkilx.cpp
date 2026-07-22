@@ -1,0 +1,3 @@
+// RVA 0x1362C0, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlmgvcgfzokilxvhhlihUkilxvhhlihUwiztmwilkUhbhgvnUoryUlyquivUznwGEUkxsOlyq@DragNDropProcessor
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlmgvcgfzokilxvhhlihUkilxvhhlihUwiztmwilkUhbhgvnUoryUlyquivUznwGEUkxsOlyq_DragNDropProcessor = 0x00; // 0

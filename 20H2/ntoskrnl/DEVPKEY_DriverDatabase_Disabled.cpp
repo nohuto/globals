@@ -1,0 +1,2 @@
+// RVA 0x1C9D8, .rdata
+__int64 DEVPKEY_DriverDatabase_Disabled = 0x4F7A142C8163EB00; // 5726912057536932608

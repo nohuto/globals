@@ -1,0 +1,2 @@
+// RVA 0xFF24F0, PAGEVRFD
+__int64 pXdvNtSetEaFile = 0x0000000000000000; // 0

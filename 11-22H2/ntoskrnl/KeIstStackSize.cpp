@@ -1,0 +1,2 @@
+// RVA 0xD1D45C, ALMOSTRO
+int KeIstStackSize = 0x00006000; // 24576

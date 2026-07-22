@@ -1,0 +1,2 @@
+// RVA 0xFDA008, PAGEDATA
+__int64 PspQuotaDatabaseKey = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x4657C0, CACHEALI
+__int64 NonPagedPoolLock = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x279C98, .rdata
+unsigned char DEVPKEY_DriverDatabase_OemDriverInfFileMap = 0x00; // 0

@@ -1,0 +1,2 @@
+// RVA 0xEFECE0, .data
+ULONG_PTR ExpTimeRefreshLock = 0x0000000000000000; // 0

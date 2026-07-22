@@ -1,0 +1,2 @@
+// RVA 0xFFD168, PAGEVRFD
+__int64 pXdvZwQueryEaFile = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x77EF98, PAGEDATA
+int psMUITest = 0x00000000; // 0

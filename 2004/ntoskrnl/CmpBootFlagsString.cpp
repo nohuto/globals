@@ -1,0 +1,2 @@
+// RVA 0xA95210, INIT
+__int64 CmpBootFlagsString = 0x0000000000140012; // 1310738

@@ -1,0 +1,2 @@
+// RVA 0xFFDB20, PAGEVRFD
+__int64 pXdvKeRemoveDeviceQueue = 0x0000000000000000; // 0

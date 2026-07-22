@@ -1,0 +1,3 @@
+// RVA 0x31F5F0, .data
+// Symbol: ?gMultiTouchGetSettings@@3UtagDEVICECONFIG_SETTING@@A
+struct tagDEVICECONFIG_SETTING _gMultiTouchGetSettings__3UtagDEVICECONFIG_SETTING__A = 0x00000001C02E7DE8; // 7519239656

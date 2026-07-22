@@ -1,0 +1,2 @@
+// RVA 0xFFD408, PAGEVRFD
+__int64 pXdvExIsFastResourceHeld = 0x0000000000000000; // 0

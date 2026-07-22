@@ -1,0 +1,2 @@
+// RVA 0x7AC628, PAGEDATA
+__int64 CmpAsyncKernelPostList = 0x0000000000000000; // 0

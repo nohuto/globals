@@ -1,0 +1,3 @@
+// RVA 0xCF9F3C, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxunrmrlUhvxfirgbUorxvmhrmtUhkxzooUoryUyfrowPhvieviPpnUlyquivUznwGEUhgwzucOlyq@spcall_server_km
+unsigned char _____PchSym__00_KxulyqvxgPillgKxunrmrlUhvxfirgbUorxvmhrmtUhkxzooUoryUyfrowPhvieviPpnUlyquivUznwGEUhgwzucOlyq_spcall_server_km = 0x00; // 0

@@ -1,0 +1,2 @@
+// RVA 0x9C8F50, PAGEVRFD
+__int64 pXdvIoWMIAllocateInstanceIds = 0x0000000000000000; // 0

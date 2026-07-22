@@ -1,0 +1,2 @@
+// RVA 0x9FE5E0, INIT
+__int64 CmpExtendedStateString = 0x00000000001E001C; // 1966108

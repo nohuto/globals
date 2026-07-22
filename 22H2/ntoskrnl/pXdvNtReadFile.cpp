@@ -1,0 +1,2 @@
+// RVA 0xD4A610, PAGEVRFD
+__int64 pXdvNtReadFile = 0x0000000000000000; // 0

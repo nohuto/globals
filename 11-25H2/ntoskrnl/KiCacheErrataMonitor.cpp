@@ -1,0 +1,2 @@
+// RVA 0xFC5D28, ALMOSTRO
+__int64 KiCacheErrataMonitor = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0x317200, .data
+// Symbol: ?s_allocationLookupLock@UmfdAllocation@@0PEAVCPlatformReaderWriterLock@NSInstrumentation@@EA
+PVOID _s_allocationLookupLock_UmfdAllocation__0PEAVCPlatformReaderWriterLock_NSInstrumentation__EA = reinterpret_cast<decltype(_s_allocationLookupLock_UmfdAllocation__0PEAVCPlatformReaderWriterLock_NSInstrumentation__EA)>(0x0000000000000000); // 0

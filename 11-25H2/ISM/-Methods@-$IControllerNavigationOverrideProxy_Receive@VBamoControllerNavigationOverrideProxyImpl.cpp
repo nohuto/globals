@@ -1,0 +1,3 @@
+// RVA 0x1E69C0, .rdata
+// Symbol: ?Methods@?$IControllerNavigationOverrideProxy_Receive@VBamoControllerNavigationOverrideProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+__int64 (__fastcall *_Methods___IControllerNavigationOverrideProxy_Receive_VBamoControllerNavigationOverrideProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IControllerNavigationOverrideProxy_Receive_VBamoControllerNavigationOverrideProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180176E40); // 6443986496

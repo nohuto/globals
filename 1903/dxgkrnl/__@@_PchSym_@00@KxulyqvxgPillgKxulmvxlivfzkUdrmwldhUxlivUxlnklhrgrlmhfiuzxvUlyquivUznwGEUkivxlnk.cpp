@@ -1,0 +1,3 @@
+// RVA 0xA4260, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUxlivUxlnklhrgrlmhfiuzxvUlyquivUznwGEUkivxlnkOlyq@CompositionSurface
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUxlivUxlnklhrgrlmhfiuzxvUlyquivUznwGEUkivxlnkOlyq_CompositionSurface = 0x00; // 0

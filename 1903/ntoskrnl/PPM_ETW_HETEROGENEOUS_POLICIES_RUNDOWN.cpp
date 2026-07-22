@@ -1,0 +1,2 @@
+// RVA 0x395168, .rdata
+unsigned char PPM_ETW_HETEROGENEOUS_POLICIES_RUNDOWN = 0x78; // 120

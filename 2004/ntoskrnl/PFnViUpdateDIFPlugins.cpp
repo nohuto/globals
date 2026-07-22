@@ -1,0 +1,2 @@
+// RVA 0xD481E0, PAGEVRFD
+__int64 PFnViUpdateDIFPlugins = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0x1AEEB0, .rdata
+// Symbol: ?Methods@?$IMagnifierControllerProxy_Receive@VBamoMagnifierControllerProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+__int64 (__fastcall *_Methods___IMagnifierControllerProxy_Receive_VBamoMagnifierControllerProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IMagnifierControllerProxy_Receive_VBamoMagnifierControllerProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180100980); // 6443501952

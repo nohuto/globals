@@ -1,0 +1,3 @@
+// RVA 0x29F8D3, .data
+// Symbol: ?gMenuState@@3V?$SGMENUgMenuState@UtagMENUSTATE@@@@A
+unsigned char _gMenuState__3V__SGMENUgMenuState_UtagMENUSTATE____A = 0x00; // 0

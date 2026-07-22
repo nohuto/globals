@@ -1,0 +1,2 @@
+// RVA 0x987960, PAGEVRFD
+__int64 pXdvFsRtlGetNextFileLock = 0x0000000000000000; // 0

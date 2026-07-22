@@ -1,0 +1,2 @@
+// RVA 0xC12300, .data
+__int64 HalpFullPmuHandle = 0x0000000080000000; // 2147483648

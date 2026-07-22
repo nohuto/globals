@@ -1,0 +1,2 @@
+// RVA 0xC37410, .data
+ULONG_PTR SepRmCapTableLock = 0x0000000000000000; // 0

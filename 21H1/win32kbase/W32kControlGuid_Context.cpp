@@ -1,0 +1,2 @@
+// RVA 0x24B710, .data
+REGHANDLE W32kControlGuid_Context = 0x0000000000000000; // 0

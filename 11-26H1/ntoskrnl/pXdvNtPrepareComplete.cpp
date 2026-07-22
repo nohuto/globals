@@ -1,0 +1,2 @@
+// RVA 0xFF2628, PAGEVRFD
+__int64 pXdvNtPrepareComplete = 0x0000000000000000; // 0

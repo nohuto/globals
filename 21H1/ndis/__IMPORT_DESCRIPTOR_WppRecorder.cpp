@@ -1,0 +1,2 @@
+// RVA 0xF3C2C, .idata
+__int16 **__ptr32 __IMPORT_DESCRIPTOR_WppRecorder = reinterpret_cast<decltype(__IMPORT_DESCRIPTOR_WppRecorder)>(0x000F3CF0); // 998640

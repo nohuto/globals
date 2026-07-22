@@ -1,0 +1,2 @@
+// RVA 0x9AEB68, PAGEDATA
+__int64 PspUserFiberStart = 0x0000000000000000; // 0

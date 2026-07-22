@@ -1,0 +1,2 @@
+// RVA 0x78F278, PAGEVRFD
+unsigned long long pXdvZwClose = 0x000000014017F1D0; // 5370278352

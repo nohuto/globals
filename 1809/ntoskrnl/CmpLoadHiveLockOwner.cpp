@@ -1,0 +1,2 @@
+// RVA 0x96E268, PAGEDATA
+__int64 CmpLoadHiveLockOwner = 0x0000000000000000; // 0

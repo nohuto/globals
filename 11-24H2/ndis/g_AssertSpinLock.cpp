@@ -1,0 +1,2 @@
+// RVA 0x11D8B0, .data
+KSPIN_LOCK g_AssertSpinLock = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x874508, PAGEVRFD
+__int64 pXdvKfRaiseIrql = 0x0000000000000000; // 0

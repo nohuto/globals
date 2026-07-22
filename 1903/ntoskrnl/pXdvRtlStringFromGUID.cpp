@@ -1,0 +1,2 @@
+// RVA 0x9C8368, PAGEVRFD
+__int64 pXdvRtlStringFromGUID = 0x0000000000000000; // 0

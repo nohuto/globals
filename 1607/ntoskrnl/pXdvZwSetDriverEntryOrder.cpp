@@ -1,0 +1,2 @@
+// RVA 0x7588F8, PAGEVRFD
+__int64 pXdvZwSetDriverEntryOrder = 0x0000000000000000; // 0

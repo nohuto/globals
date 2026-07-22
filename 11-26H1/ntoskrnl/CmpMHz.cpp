@@ -1,0 +1,2 @@
+// RVA 0xC154C0, PAGELK
+const WCHAR CmpMHz = 0x007E; // 126

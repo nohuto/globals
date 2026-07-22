@@ -1,0 +1,2 @@
+// RVA 0xFFDC60, PAGEVRFD
+__int64 pXdvIoSetShareAccess = 0x0000000000000000; // 0

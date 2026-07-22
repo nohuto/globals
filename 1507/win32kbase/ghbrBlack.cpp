@@ -1,0 +1,2 @@
+// RVA 0x1041C0, .data
+HFONT ghbrBlack = reinterpret_cast<decltype(ghbrBlack)>(0x0000000000000000); // 0

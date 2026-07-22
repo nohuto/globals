@@ -1,0 +1,3 @@
+// RVA 0x192750, .data
+// Symbol: ??_R0?AV_lambda_0fae2a381de83fbae39279513878d32b_@@@8
+unsigned long long ___R0_AV_lambda_0fae2a381de83fbae39279513878d32b____8 = 0x0000000180138018; // 6443728920

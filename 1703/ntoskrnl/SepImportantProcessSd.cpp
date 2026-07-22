@@ -1,0 +1,2 @@
+// RVA 0x7ACFF0, PAGEDATA
+__int64 SepImportantProcessSd = 0x0000000000000000; // 0

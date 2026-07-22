@@ -1,0 +1,2 @@
+// RVA 0x7BE320, PAGEVRFD
+__int64 pXdvZwRenameKey = 0x0000000000000000; // 0

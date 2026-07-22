@@ -1,0 +1,2 @@
+// RVA 0x2C25D4, .idata
+__int16 **__ptr32 __IMPORT_DESCRIPTOR_HIDPARSE = reinterpret_cast<decltype(__IMPORT_DESCRIPTOR_HIDPARSE)>(0x002C2620); // 2893344

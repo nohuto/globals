@@ -1,0 +1,2 @@
+// RVA 0x1201868, CFGRO
+__int64 VslpSecurePtRoot = 0x0000000000000000; // 0

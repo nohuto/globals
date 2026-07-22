@@ -1,0 +1,2 @@
+// RVA 0xD1F430, ALMOSTRO
+unsigned char KiMicrocodeTracker = 0x00; // 0

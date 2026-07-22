@@ -1,0 +1,2 @@
+// RVA 0x2D7F48, .data
+ULONGLONG EtwpDiskProvRegHandle = 0x0000000000000000; // 0

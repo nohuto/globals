@@ -1,0 +1,2 @@
+// RVA 0xEF4DC0, .data
+KSPIN_LOCK UcSpinLock = 0x0000000000000000; // 0

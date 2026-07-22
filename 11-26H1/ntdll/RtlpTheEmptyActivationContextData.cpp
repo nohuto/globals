@@ -1,0 +1,5 @@
+// RVA 0x17B230, .rdata
+// Type: char[6]
+unsigned char RtlpTheEmptyActivationContextData[0x6] = {
+    0x41, 0x63, 0x74, 0x78, 0x20
+};

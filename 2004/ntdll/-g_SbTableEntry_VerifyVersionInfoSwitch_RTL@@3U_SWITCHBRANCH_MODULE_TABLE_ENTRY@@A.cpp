@@ -1,0 +1,3 @@
+// RVA 0x164780, .data
+// Symbol: ?g_SbTableEntry_VerifyVersionInfoSwitch_RTL@@3U_SWITCHBRANCH_MODULE_TABLE_ENTRY@@A
+unsigned long long _g_SbTableEntry_VerifyVersionInfoSwitch_RTL__3U_SWITCHBRANCH_MODULE_TABLE_ENTRY__A = 0x0000000180126C40; // 6443658304

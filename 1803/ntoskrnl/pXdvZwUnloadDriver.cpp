@@ -1,0 +1,2 @@
+// RVA 0x8749C0, PAGEVRFD
+__int64 pXdvZwUnloadDriver = 0x0000000000000000; // 0

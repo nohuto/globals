@@ -1,0 +1,2 @@
+// RVA 0x3D1370, ALMOSTRO
+__int64 PspCidTable = 0x0000000000000000; // 0

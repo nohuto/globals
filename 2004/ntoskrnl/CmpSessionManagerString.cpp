@@ -1,0 +1,2 @@
+// RVA 0xA962E8, INIT
+__int64 CmpSessionManagerString = 0x000000000020001E; // 2097182

@@ -1,0 +1,2 @@
+// RVA 0x146268, .data
+__int64 RtlpHpNullGUID = 0x0000000000000000; // 0

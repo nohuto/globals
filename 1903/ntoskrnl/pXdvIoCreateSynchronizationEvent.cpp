@@ -1,0 +1,2 @@
+// RVA 0x9C8DA8, PAGEVRFD
+__int64 pXdvIoCreateSynchronizationEvent = 0x0000000000000000; // 0

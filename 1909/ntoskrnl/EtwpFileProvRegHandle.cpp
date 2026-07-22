@@ -1,0 +1,2 @@
+// RVA 0x4327E8, .data
+REGHANDLE EtwpFileProvRegHandle = 0x0000000000000000; // 0

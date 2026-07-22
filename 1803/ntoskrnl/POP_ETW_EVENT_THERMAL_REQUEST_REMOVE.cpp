@@ -1,0 +1,2 @@
+// RVA 0x2F84A8, .rdata
+unsigned char POP_ETW_EVENT_THERMAL_REQUEST_REMOVE = 0x9E; // 158

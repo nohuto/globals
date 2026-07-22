@@ -1,0 +1,2 @@
+// RVA 0xFC5148, ALMOSTRO
+int PoolHitTag = 0xFFFFFF0F; // -241

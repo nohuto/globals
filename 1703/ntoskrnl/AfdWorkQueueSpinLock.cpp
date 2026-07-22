@@ -1,0 +1,2 @@
+// RVA 0x3F9900, CACHEALI
+__int64 AfdWorkQueueSpinLock = 0x0000000000000000; // 0

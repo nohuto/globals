@@ -1,0 +1,2 @@
+// RVA 0xFBF0E4, ALMOSTRO
+int KiMinimumDpcRate = 0x00000003; // 3

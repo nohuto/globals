@@ -1,0 +1,2 @@
+// RVA 0x9870B0, PAGEVRFD
+__int64 pXdvExfTryToWakePushLock = 0x0000000000000000; // 0

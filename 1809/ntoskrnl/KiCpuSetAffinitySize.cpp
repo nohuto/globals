@@ -1,0 +1,2 @@
+// RVA 0x54277C, ALMOSTRO
+size_t KiCpuSetAffinitySize = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x34C1F8, .data
+ULONG_PTR PopFxPluginLock = 0x0000000000000000; // 0

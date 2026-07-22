@@ -1,0 +1,2 @@
+// RVA 0x431F38, .data
+ULONG_PTR ExpKeyManipLock = 0x0000000000000000; // 0

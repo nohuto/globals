@@ -1,0 +1,2 @@
+// RVA 0x3F91C0, CACHEALI
+LONG PsLoadedModuleSpinLock = 0x00000000; // 0

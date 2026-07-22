@@ -1,0 +1,7 @@
+// RVA 0x9D48, .rdata
+// Symbol: ?ObjectPathRootPrefix@?1??_CmOpenDevicePanelRegKeyWorker@@9@9
+// Type: const UNICODE_STRING
+unsigned char _ObjectPathRootPrefix__1___CmOpenDevicePanelRegKeyWorker__9_9[0x10] = {
+    0x32, 0x00, 0x34, 0x00, 0x00, 0x00, 0x00, 0x00, 0x30, 0x57, 0x7D, 0x40,
+    0x01
+};

@@ -1,0 +1,2 @@
+// RVA 0x34AA40, .data
+ULONG_PTR PiResourceListLock = 0x0000000000000000; // 0

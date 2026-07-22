@@ -1,0 +1,2 @@
+// RVA 0xFC7058, ALMOSTRO
+__int64 PspMmcssExtensionHost = 0x0000000000000000; // 0

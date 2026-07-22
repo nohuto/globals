@@ -1,0 +1,3 @@
+// RVA 0x57000, .rdata
+// Symbol: ??_7VIDMM_TASK_DEVICE_RESUME@@6B@
+void *___7VIDMM_TASK_DEVICE_RESUME__6B_ = reinterpret_cast<decltype(___7VIDMM_TASK_DEVICE_RESUME__6B_)>(0x000000014009F860); // 5369362528

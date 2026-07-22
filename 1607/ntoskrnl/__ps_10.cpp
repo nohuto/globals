@@ -1,0 +1,2 @@
+// RVA 0x7770FC, INIT
+int __ps_10 = 0xFFFFF978; // -1672

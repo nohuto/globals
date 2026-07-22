@@ -1,0 +1,2 @@
+// RVA 0xC32628, .data
+KSPIN_LOCK WmipCancelSpinLock = 0x0000000000000000; // 0

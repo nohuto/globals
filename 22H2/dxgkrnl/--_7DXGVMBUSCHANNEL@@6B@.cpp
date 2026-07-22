@@ -1,0 +1,3 @@
+// RVA 0x770D8, .rdata
+// Symbol: ??_7DXGVMBUSCHANNEL@@6B@
+void *___7DXGVMBUSCHANNEL__6B_ = reinterpret_cast<decltype(___7DXGVMBUSCHANNEL__6B_)>(0x00000001C02B2E30); // 7519022640

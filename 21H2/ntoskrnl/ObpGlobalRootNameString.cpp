@@ -1,0 +1,2 @@
+// RVA 0x984468, PAGE
+__int64 ObpGlobalRootNameString = 0x0000000000160014; // 1441812

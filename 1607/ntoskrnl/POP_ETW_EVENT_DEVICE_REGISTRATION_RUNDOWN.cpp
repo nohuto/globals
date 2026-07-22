@@ -1,0 +1,2 @@
+// RVA 0x25EA98, .rdata
+unsigned char POP_ETW_EVENT_DEVICE_REGISTRATION_RUNDOWN = 0x30; // 48

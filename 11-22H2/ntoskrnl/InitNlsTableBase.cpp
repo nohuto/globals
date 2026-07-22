@@ -1,0 +1,2 @@
+// RVA 0xD81190, INITDATA
+__int64 InitNlsTableBase = 0x0000000000000000; // 0

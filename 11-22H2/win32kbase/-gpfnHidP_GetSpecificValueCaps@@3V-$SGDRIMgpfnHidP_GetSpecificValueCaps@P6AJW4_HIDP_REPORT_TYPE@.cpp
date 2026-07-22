@@ -1,0 +1,3 @@
+// RVA 0x293CBE, .data
+// Symbol: ?gpfnHidP_GetSpecificValueCaps@@3V?$SGDRIMgpfnHidP_GetSpecificValueCaps@P6AJW4_HIDP_REPORT_TYPE@@GGGPEAU_HIDP_VALUE_CAPS@@PEAGPEAU_HIDP_PREPARSED_DATA@@@Z@@A
+unsigned char _gpfnHidP_GetSpecificValueCaps__3V__SGDRIMgpfnHidP_GetSpecificValueCaps_P6AJW4_HIDP_REPORT_TYPE__GGGPEAU_HIDP_VALUE_CAPS__PEAGPEAU_HIDP_PREPARSED_DATA___Z__A = 0x00; // 0

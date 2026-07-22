@@ -1,0 +1,2 @@
+// RVA 0x4DCF48, .data
+KSPIN_LOCK KdpDataSpinLock = 0x0000000000000000; // 0

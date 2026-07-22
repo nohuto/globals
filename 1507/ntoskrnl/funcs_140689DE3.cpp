@@ -1,0 +1,2 @@
+// RVA 0x723588, PAGE
+_UNKNOWN *funcs_140689DE3 = reinterpret_cast<decltype(funcs_140689DE3)>(0x0000000140689ED0); // 5375565520

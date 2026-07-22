@@ -1,0 +1,2 @@
+// RVA 0x8420AC, PAGEVRFB
+int VfWin32kSizeOfImage = 0x00000000; // 0

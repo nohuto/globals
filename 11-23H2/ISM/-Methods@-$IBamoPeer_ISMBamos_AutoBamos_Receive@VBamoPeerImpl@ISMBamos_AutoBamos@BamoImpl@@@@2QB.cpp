@@ -1,0 +1,3 @@
+// RVA 0x201740, .rdata
+// Symbol: ?Methods@?$IBamoPeer_ISMBamos_AutoBamos_Receive@VBamoPeerImpl@ISMBamos_AutoBamos@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+_UNKNOWN *_Methods___IBamoPeer_ISMBamos_AutoBamos_Receive_VBamoPeerImpl_ISMBamos_AutoBamos_BamoImpl____2QBUMsgCallMethodDefinition__B = reinterpret_cast<decltype(_Methods___IBamoPeer_ISMBamos_AutoBamos_Receive_VBamoPeerImpl_ISMBamos_AutoBamos_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180019F00); // 6442557184

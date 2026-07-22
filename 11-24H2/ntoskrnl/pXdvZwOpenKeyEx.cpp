@@ -1,0 +1,2 @@
+// RVA 0xFFEF20, PAGEVRFD
+__int64 pXdvZwOpenKeyEx = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xD47F98, PAGEVRFD
+__int64 pXdvIoSetDeviceToVerify = 0x0000000000000000; // 0

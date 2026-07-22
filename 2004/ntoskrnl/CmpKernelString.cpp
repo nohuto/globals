@@ -1,0 +1,2 @@
+// RVA 0xA96408, INIT
+__int64 CmpKernelString = 0x00000000000E000C; // 917516

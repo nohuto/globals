@@ -1,0 +1,2 @@
+// RVA 0x400450, ALMOSTRO
+int PpmHeteroSmallCores = 0x00140001; // 1310721

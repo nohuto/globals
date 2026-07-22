@@ -1,0 +1,2 @@
+// RVA 0xFFD2A8, PAGEVRFD
+__int64 pXdvZwDisplayString = 0x0000000000000000; // 0

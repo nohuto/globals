@@ -1,0 +1,2 @@
+// RVA 0x1C790, .rdata
+__int64 DEVPKEY_DriverDatabase_Extended = 0x4F7A142C8163EB00; // 5726912057536932608

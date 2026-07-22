@@ -1,0 +1,2 @@
+// RVA 0xE66670, .data
+unsigned char Kd_NETAPI_Mask = 0x00; // 0

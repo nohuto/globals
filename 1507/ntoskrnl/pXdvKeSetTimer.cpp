@@ -1,0 +1,2 @@
+// RVA 0x78E648, PAGEVRFD
+unsigned long long pXdvKeSetTimer = 0x00000001400669A0; // 5369129376

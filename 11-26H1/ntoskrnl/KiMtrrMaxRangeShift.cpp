@@ -1,0 +1,2 @@
+// RVA 0xE0B178, .data
+ULONGLONG KiMtrrMaxRangeShift = 0x0000000000000024; // 36

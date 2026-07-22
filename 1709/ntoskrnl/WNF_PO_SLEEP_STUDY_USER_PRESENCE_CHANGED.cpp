@@ -1,0 +1,2 @@
+// RVA 0x2BE068, .rdata
+unsigned char WNF_PO_SLEEP_STUDY_USER_PRESENCE_CHANGED = 0x75; // 117

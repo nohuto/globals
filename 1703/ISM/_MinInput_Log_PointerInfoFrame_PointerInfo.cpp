@@ -1,0 +1,5 @@
+// RVA 0xAD470, .rdata
+// Type: const EVENT_DESCRIPTOR
+unsigned char _MinInput_Log_PointerInfoFrame_PointerInfo[0x10] = {
+    0x09, 0x00, 0x00, 0x00, 0x04, 0x00, 0x03
+};

@@ -1,0 +1,2 @@
+// RVA 0xFFEC40, PAGEVRFD
+__int64 pXdvPsGetVersion = 0x0000000000000000; // 0

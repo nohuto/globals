@@ -1,0 +1,2 @@
+// RVA 0x34DB60, .data
+ULONG_PTR CmpPostLock = 0x0000000000000000; // 0

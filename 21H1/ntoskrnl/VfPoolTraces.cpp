@@ -1,0 +1,2 @@
+// RVA 0xD470B0, PAGEVRFD
+__int64 VfPoolTraces = 0x0000000000000000; // 0

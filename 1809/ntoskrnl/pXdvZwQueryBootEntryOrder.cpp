@@ -1,0 +1,2 @@
+// RVA 0x9874A0, PAGEVRFD
+__int64 pXdvZwQueryBootEntryOrder = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x72C110, PAGEVRFB
+__int64 VfMrxsmbDllBase = 0x0000000000000000; // 0

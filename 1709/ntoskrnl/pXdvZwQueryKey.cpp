@@ -1,0 +1,2 @@
+// RVA 0x8048C0, PAGEVRFD
+__int64 pXdvZwQueryKey = 0x0000000000000000; // 0

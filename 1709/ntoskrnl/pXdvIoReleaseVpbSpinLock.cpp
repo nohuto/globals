@@ -1,0 +1,2 @@
+// RVA 0x804EE8, PAGEVRFD
+__int64 pXdvIoReleaseVpbSpinLock = 0x0000000000000000; // 0

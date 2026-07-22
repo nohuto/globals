@@ -1,0 +1,2 @@
+// RVA 0xD48B98, PAGEVRFD
+__int64 pXdvZwPrepareComplete = 0x0000000000000000; // 0

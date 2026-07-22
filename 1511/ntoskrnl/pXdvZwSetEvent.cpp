@@ -1,0 +1,2 @@
+// RVA 0x70B928, PAGEVRFD
+unsigned long long pXdvZwSetEvent = 0x00000001401507E0; // 5370087392

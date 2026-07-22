@@ -1,0 +1,2 @@
+// RVA 0x397080, .rdata
+unsigned char HV_EVENTLOG_IOMMU_FAILED_INVALID_IOAPIC = 0x93; // 147

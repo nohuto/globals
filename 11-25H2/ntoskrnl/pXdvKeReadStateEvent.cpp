@@ -1,0 +1,2 @@
+// RVA 0xFFD100, PAGEVRFD
+__int64 pXdvKeReadStateEvent = 0x0000000000000000; // 0

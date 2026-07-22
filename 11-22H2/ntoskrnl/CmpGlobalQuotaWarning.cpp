@@ -1,0 +1,2 @@
+// RVA 0xD531C8, PAGEDATA
+__int64 CmpGlobalQuotaWarning = 0x00000000FFFFFFFF; // 4294967295

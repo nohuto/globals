@@ -1,0 +1,2 @@
+// RVA 0x984428, PAGE
+__int64 ObpObjectTypesPathString = 0x00000000001A0018; // 1703960

@@ -1,0 +1,2 @@
+// RVA 0x3583E0, .rdata
+unsigned char POP_ETW_EVENT_SYSTEM_LATENCY_RUNDOWN = 0xF9; // 249

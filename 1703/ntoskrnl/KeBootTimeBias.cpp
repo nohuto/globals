@@ -1,0 +1,2 @@
+// RVA 0x3E43C0, ALMOSTRO
+__int64 KeBootTimeBias = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x303AD8, .data
+KSPIN_LOCK PopWorkerSpinLock = 0x0000000000000000; // 0

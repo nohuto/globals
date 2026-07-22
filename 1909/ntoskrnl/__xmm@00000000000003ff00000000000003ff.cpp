@@ -1,0 +1,6 @@
+// RVA 0x37D1B0, .rdata
+// Symbol: __xmm@00000000000003ff00000000000003ff
+// Type: __int128
+unsigned char __xmm_00000000000003ff00000000000003ff[0x10] = {
+    0xFF, 0x03, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0xFF, 0x03
+};

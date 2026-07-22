@@ -1,0 +1,2 @@
+// RVA 0x349DE8, .data
+KSPIN_LOCK PopIdleAoAcDozeS4Lock = 0x0000000000000000; // 0

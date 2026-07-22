@@ -1,0 +1,2 @@
+// RVA 0xC99C8, .rdata
+unsigned char WNF_DX_HDR_BRIGHTNESS_POLICY_CHANGED = 0x35; // 53

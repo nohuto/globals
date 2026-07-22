@@ -1,0 +1,2 @@
+// RVA 0xC16768, .data
+ULONG_PTR ExpSvmDeviceListLock = 0x0000000000000000; // 0

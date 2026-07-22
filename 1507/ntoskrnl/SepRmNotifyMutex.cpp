@@ -1,0 +1,2 @@
+// RVA 0x36A8D8, .data
+ULONG_PTR SepRmNotifyMutex = 0x0000000000000000; // 0

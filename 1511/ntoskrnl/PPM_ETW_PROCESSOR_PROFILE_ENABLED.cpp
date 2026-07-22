@@ -1,0 +1,2 @@
+// RVA 0x243C08, .rdata
+unsigned char PPM_ETW_PROCESSOR_PROFILE_ENABLED = 0x6C; // 108

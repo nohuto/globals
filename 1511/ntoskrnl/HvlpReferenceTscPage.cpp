@@ -1,0 +1,2 @@
+// RVA 0x3824F0, ALMOSTRO
+__int64 HvlpReferenceTscPage = 0x0000000000000000; // 0

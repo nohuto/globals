@@ -1,0 +1,2 @@
+// RVA 0x38237C, ALMOSTRO
+int KeRootProcSpecified = 0x00000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xD81270, INITDATA
+__int64 KiInterruptInitTable = 0x0000000000000000; // 0

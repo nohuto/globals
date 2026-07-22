@@ -1,0 +1,2 @@
+// RVA 0x9C85E8, PAGEVRFD
+__int64 pXdvKeInitializeTimerEx = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x6FBF58, PAGEDATA
+__int64 PnpProfileNotifyList = 0x0000000000000000; // 0

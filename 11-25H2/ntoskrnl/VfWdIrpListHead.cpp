@@ -1,0 +1,2 @@
+// RVA 0xFFCBE0, PAGEVRFD
+__int64 VfWdIrpListHead = 0x0000000000000000; // 0

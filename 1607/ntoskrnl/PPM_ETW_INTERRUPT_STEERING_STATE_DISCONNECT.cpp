@@ -1,0 +1,2 @@
+// RVA 0x25F718, .rdata
+unsigned char PPM_ETW_INTERRUPT_STEERING_STATE_DISCONNECT = 0x05; // 5

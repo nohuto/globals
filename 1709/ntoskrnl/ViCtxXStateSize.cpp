@@ -1,0 +1,2 @@
+// RVA 0x7D505C, PAGEVRFB
+size_t ViCtxXStateSize = 0x0000000000000000; // 0

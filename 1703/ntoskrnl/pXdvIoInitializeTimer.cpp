@@ -1,0 +1,2 @@
+// RVA 0x7BDB08, PAGEVRFD
+__int64 pXdvIoInitializeTimer = 0x0000000000000000; // 0

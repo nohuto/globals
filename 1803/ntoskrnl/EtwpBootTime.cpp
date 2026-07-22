@@ -1,0 +1,2 @@
+// RVA 0x3A1F58, .data
+__int64 EtwpBootTime = 0x0000000000000000; // 0

@@ -1,0 +1,6 @@
+// RVA 0x24A120, .rdata
+// Symbol: ?dispatcherObjects@CMouseSensor@@0QBW4DispatcherHandleName@CRIMBase@@B
+unsigned char _dispatcherObjects_CMouseSensor__0QBW4DispatcherHandleName_CRIMBase__B[0x10] = {
+    0x00, 0x00, 0x00, 0x00, 0x01, 0x00, 0x00, 0x00, 0x02, 0x00, 0x00, 0x00,
+    0x03
+};

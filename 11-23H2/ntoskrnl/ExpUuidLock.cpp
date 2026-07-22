@@ -1,0 +1,2 @@
+// RVA 0xD0CCB0, .data
+ULONG_PTR ExpUuidLock = 0x0000000000000000; // 0

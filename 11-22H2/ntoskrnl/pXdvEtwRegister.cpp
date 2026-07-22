@@ -1,0 +1,2 @@
+// RVA 0xD70A98, PAGEVRFD
+__int64 pXdvEtwRegister = 0x0000000000000000; // 0

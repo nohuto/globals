@@ -1,0 +1,2 @@
+// RVA 0x7ACF18, PAGEDATA
+__int64 SeUndockPrivilege = 0x0000000000000000; // 0

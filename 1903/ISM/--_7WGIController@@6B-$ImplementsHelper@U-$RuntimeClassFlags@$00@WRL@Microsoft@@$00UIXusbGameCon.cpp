@@ -1,0 +1,3 @@
+// RVA 0x1754C8, .rdata
+// Symbol: ??_7WGIController@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$00@WRL@Microsoft@@$00UIXusbGameControllerInputSink@Custom@Input@Gaming@Windows@@@Details@WRL@Microsoft@@@
+void *___7WGIController__6B__ImplementsHelper_U__RuntimeClassFlags__00_WRL_Microsoft___00UIXusbGameControllerInputSink_Custom_Input_Gaming_Windows___Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7WGIController__6B__ImplementsHelper_U__RuntimeClassFlags__00_WRL_Microsoft___00UIXusbGameControllerInputSink_Custom_Input_Gaming_Windows___Details_WRL_Microsoft___)>(0x0000000180038B10); // 6442683152

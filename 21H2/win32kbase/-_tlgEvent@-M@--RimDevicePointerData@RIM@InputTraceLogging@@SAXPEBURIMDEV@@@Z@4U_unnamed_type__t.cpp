@@ -1,0 +1,3 @@
+// RVA 0x219350, .rdata
+// Symbol: ?_tlgEvent@?M@??RimDevicePointerData@RIM@InputTraceLogging@@SAXPEBURIMDEV@@@Z@4U_unnamed_type__tlgEvent_@?M@??123@SAX0@Z@B
+unsigned char __tlgEvent__M___RimDevicePointerData_RIM_InputTraceLogging__SAXPEBURIMDEV___Z_4U_unnamed_type__tlgEvent___M___123_SAX0_Z_B = 0x06; // 6

@@ -1,0 +1,2 @@
+// RVA 0x7BDDA0, PAGEVRFD
+__int64 pXdvIoCancelIrp = 0x0000000000000000; // 0

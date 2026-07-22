@@ -1,0 +1,2 @@
+// RVA 0x395900, CACHEALI
+__int64 IopCompletionLock = 0x0000000000000000; // 0

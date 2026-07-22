@@ -1,0 +1,2 @@
+// RVA 0xFF2920, PAGEVRFD
+__int64 pXdvZwTraceControl = 0x0000000000000000; // 0

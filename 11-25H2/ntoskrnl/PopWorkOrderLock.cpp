@@ -1,0 +1,2 @@
+// RVA 0xF0CE58, .data
+KSPIN_LOCK PopWorkOrderLock = 0x0000000000000000; // 0

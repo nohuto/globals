@@ -1,0 +1,2 @@
+// RVA 0xFC8360, ALMOSTRO
+__int64 KiSystemAllowedCpuSets = 0x0000000000000000; // 0

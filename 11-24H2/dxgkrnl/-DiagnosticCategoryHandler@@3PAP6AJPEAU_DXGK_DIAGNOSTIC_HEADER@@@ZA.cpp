@@ -1,0 +1,6 @@
+// RVA 0xA6E68, .rdata
+// Symbol: ?DiagnosticCategoryHandler@@3PAP6AJPEAU_DXGK_DIAGNOSTIC_HEADER@@@ZA
+unsigned char _DiagnosticCategoryHandler__3PAP6AJPEAU_DXGK_DIAGNOSTIC_HEADER___ZA[0x10] = {
+    0x40, 0x10, 0x07, 0x40, 0x01, 0x00, 0x00, 0x00, 0xB0, 0x14, 0x07, 0x40,
+    0x01
+};

@@ -1,0 +1,2 @@
+// RVA 0x9C8D50, PAGEVRFD
+__int64 pXdvIoAttachDevice = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0x1322E4, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUxlivUwcpvimvoUwctpimoUnlmrgliUpvimvoUlyquivUznwGEUkivxlnkOlyq@monitor
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUxlivUwcpvimvoUwctpimoUnlmrgliUpvimvoUlyquivUznwGEUkivxlnkOlyq_monitor = 0x00; // 0

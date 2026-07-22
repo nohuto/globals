@@ -1,0 +1,2 @@
+// RVA 0x23DF0, .rdata
+const ULONG64 MmUserProbeAddress = 0x00007FFFFFFF0000; // 140737488289792

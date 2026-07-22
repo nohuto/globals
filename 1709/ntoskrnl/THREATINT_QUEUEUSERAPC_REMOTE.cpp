@@ -1,0 +1,2 @@
+// RVA 0x2D60F8, .rdata
+unsigned char THREATINT_QUEUEUSERAPC_REMOTE = 0x04; // 4

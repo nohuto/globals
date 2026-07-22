@@ -1,0 +1,3 @@
+// RVA 0x319F00, .data
+// Type: union _RTL_RUN_ONCE
+unsigned char PspLoadImageNotifyRoutine[0x8] = {};

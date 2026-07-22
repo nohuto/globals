@@ -1,0 +1,2 @@
+// RVA 0x9C8678, PAGEVRFD
+__int64 pXdvZwCreateKey = 0x0000000000000000; // 0

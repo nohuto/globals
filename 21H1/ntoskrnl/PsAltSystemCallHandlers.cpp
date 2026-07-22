@@ -1,0 +1,2 @@
+// RVA 0xCFC788, ALMOSTRO
+__int64 PsAltSystemCallHandlers = 0x0000000000000000; // 0

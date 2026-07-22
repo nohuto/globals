@@ -1,0 +1,2 @@
+// RVA 0xC47CA0, .data
+ULONG_PTR CmpKeyLockTracker = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x87C620, INITDATA
+__int64 MiHalScratchPte = 0x0000000000000000; // 0

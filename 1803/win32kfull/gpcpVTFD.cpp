@@ -1,0 +1,2 @@
+// RVA 0x32AEB0, .data
+__int64 gpcpVTFD = 0x0000000000000000; // 0

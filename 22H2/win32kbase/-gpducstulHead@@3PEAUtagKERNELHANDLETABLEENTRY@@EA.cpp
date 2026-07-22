@@ -1,0 +1,3 @@
+// RVA 0x24ECF8, .data
+// Symbol: ?gpducstulHead@@3PEAUtagKERNELHANDLETABLEENTRY@@EA
+struct tagKERNELHANDLETABLEENTRY *_gpducstulHead__3PEAUtagKERNELHANDLETABLEENTRY__EA = reinterpret_cast<decltype(_gpducstulHead__3PEAUtagKERNELHANDLETABLEENTRY__EA)>(0x0000000000000000); // 0

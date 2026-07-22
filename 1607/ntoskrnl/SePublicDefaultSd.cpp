@@ -1,0 +1,2 @@
+// RVA 0x747E58, PAGEDATA
+__int64 SePublicDefaultSd = 0x0000000000000000; // 0

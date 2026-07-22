@@ -1,0 +1,3 @@
+// RVA 0x17AB60, .rdata
+// Symbol: ??_7SpatialGraphNodeReference@Holographic@Internal@Windows@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$02@WRL@Microsoft@@$00U?$ImplementsMarker@VFtmBase@WRL@Microsoft@@@Details@23@@Details@WRL@Microsoft@@@
+void *___7SpatialGraphNodeReference_Holographic_Internal_Windows__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00U__ImplementsMarker_VFtmBase_WRL_Microsoft___Details_23__Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7SpatialGraphNodeReference_Holographic_Internal_Windows__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00U__ImplementsMarker_VFtmBase_WRL_Microsoft___Details_23__Details_WRL_Microsoft___)>(0x000000018003A250); // 6442689104

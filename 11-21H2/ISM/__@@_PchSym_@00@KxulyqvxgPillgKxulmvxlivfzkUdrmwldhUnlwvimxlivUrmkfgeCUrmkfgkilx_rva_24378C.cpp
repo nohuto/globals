@@ -1,0 +1,3 @@
+// RVA 0x24378C, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUwlxpUoryUlyquivUznwGEUkivxlnkOlyq@DockProcessor
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUwlxpUoryUlyquivUznwGEUkivxlnkOlyq_DockProcessor = 0x00; // 0

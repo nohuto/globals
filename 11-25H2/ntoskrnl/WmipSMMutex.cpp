@@ -1,0 +1,2 @@
+// RVA 0xEFF160, .data
+ULONG_PTR WmipSMMutex = 0x0000000000000000; // 0

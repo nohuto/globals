@@ -1,0 +1,2 @@
+// RVA 0xFC6260, ALMOSTRO
+__int64 KiWaitAlways = 0x0000000000000000; // 0

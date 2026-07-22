@@ -1,0 +1,3 @@
+// RVA 0x159AE0, .rdata
+// Symbol: ??_7CDeviceAcceleration@@6B@
+void *___7CDeviceAcceleration__6B_ = reinterpret_cast<decltype(___7CDeviceAcceleration__6B_)>(0x00000001C00A8FC0); // 7516884928

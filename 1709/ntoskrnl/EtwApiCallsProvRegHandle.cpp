@@ -1,0 +1,2 @@
+// RVA 0x35E778, .data
+REGHANDLE EtwApiCallsProvRegHandle = 0x0000000000000000; // 0

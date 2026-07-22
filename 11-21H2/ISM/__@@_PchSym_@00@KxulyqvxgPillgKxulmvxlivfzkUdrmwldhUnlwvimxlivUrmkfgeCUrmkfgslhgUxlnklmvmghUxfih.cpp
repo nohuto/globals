@@ -1,0 +1,3 @@
+// RVA 0x24361C, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgslhgUxlnklmvmghUxfihliUhbhgvnxfihlihvierxvUoryUlyquivUznwGEUkxsOlyq@CursorVisuals
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgslhgUxlnklmvmghUxfihliUhbhgvnxfihlihvierxvUoryUlyquivUznwGEUkxsOlyq_CursorVisuals = 0x00; // 0

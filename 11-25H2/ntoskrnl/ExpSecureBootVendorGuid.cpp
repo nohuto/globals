@@ -1,0 +1,2 @@
+// RVA 0x387B8, .rdata
+__int64 ExpSecureBootVendorGuid = 0x4D32035977FA9ABD; // 5562512172555868861

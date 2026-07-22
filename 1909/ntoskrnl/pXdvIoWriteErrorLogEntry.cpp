@@ -1,0 +1,2 @@
+// RVA 0x9C8AB0, PAGEVRFD
+__int64 pXdvIoWriteErrorLogEntry = 0x0000000000000000; // 0

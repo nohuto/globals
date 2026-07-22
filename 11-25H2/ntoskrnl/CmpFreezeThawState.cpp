@@ -1,0 +1,2 @@
+// RVA 0xEEF5F0, .data
+int CmpFreezeThawState = 0x00000000; // 0

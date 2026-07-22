@@ -1,0 +1,2 @@
+// RVA 0x32E3B0, .data
+ULONG_PTR PopAwaymodeLock = 0x0000000000000000; // 0

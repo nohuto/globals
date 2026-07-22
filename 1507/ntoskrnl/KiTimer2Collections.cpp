@@ -1,0 +1,2 @@
+// RVA 0x338D80, .data
+unsigned char KiTimer2Collections = 0x00; // 0

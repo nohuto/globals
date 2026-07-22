@@ -1,0 +1,3 @@
+// RVA 0x16CC40, .rdata
+// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIInputServiceProxy@@UIMessageProxyReconnectAdapterOwner@@@WRL@Microsoft@@6BIInputServiceProxy@@@
+void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIInputServiceProxy__UIMessageProxyReconnectAdapterOwner___WRL_Microsoft__6BIInputServiceProxy___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIInputServiceProxy__UIMessageProxyReconnectAdapterOwner___WRL_Microsoft__6BIInputServiceProxy___)>(0x0000000180018590); // 6442550672

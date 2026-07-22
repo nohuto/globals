@@ -1,0 +1,3 @@
+// RVA 0x140A44, .data
+// Symbol: ?Config@DXGADAPTER@@0UDXGADAPTER_CONFIG@@A
+unsigned char _Config_DXGADAPTER__0UDXGADAPTER_CONFIG__A = 0x00; // 0

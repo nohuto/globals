@@ -1,0 +1,2 @@
+// RVA 0x981D80, PAGE
+__int64 ExpInitializeCallback = 0x0000000140C192D8; // 5381395160

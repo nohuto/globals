@@ -1,0 +1,2 @@
+// RVA 0x438848, .data
+KSPIN_LOCK PopWatchdogLock = 0x0000000000000000; // 0

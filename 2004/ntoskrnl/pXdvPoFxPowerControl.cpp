@@ -1,0 +1,2 @@
+// RVA 0xD49278, PAGEVRFD
+__int64 pXdvPoFxPowerControl = 0x0000000000000000; // 0

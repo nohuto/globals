@@ -1,0 +1,3 @@
+// RVA 0x202280, .rdata
+// Symbol: ?Methods@?$IEdgyNotificationSourceClientProxy_Receive@VBamoEdgyNotificationSourceClientProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+__int64 (__fastcall *_Methods___IEdgyNotificationSourceClientProxy_Receive_VBamoEdgyNotificationSourceClientProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IEdgyNotificationSourceClientProxy_Receive_VBamoEdgyNotificationSourceClientProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x00000001801341E0); // 6443712992

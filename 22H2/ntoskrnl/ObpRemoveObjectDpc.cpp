@@ -1,0 +1,2 @@
+// RVA 0xC25BA0, .data
+ULONG_PTR ObpRemoveObjectDpc = 0x0000000000000000; // 0

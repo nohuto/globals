@@ -1,0 +1,2 @@
+// RVA 0xFFD130, PAGEVRFD
+__int64 pXdvEtwUnregister = 0x0000000000000000; // 0

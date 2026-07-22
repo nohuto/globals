@@ -1,0 +1,3 @@
+// RVA 0x215A5C, .rdata
+// Symbol: ?_tlgEvent@?6??LogSendDragEnded@BamoDragManagerClientProxyImpl@BamoImpl@@AEAAXIAEBUtagPOINT@@00AEBUGestureAnimationProperties@@_KW4VirtualKeyModifiers@System@Windows@@2@Z@4U_unnamed_type__tlgEvent_@?6??123@AEAAXI0001232@Z@B
+unsigned char __tlgEvent__6__LogSendDragEnded_BamoDragManagerClientProxyImpl_BamoImpl__AEAAXIAEBUtagPOINT__00AEBUGestureAnimationProperties___KW4VirtualKeyModifiers_System_Windows__2_Z_4U_unnamed_type__tlgEvent___6__123_AEAAXI0001232_Z_B = 0x06; // 6

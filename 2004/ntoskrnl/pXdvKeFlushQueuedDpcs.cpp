@@ -1,0 +1,2 @@
+// RVA 0xD49120, PAGEVRFD
+__int64 pXdvKeFlushQueuedDpcs = 0x0000000000000000; // 0

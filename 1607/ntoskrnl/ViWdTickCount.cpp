@@ -1,0 +1,2 @@
+// RVA 0x72C050, PAGEVRFB
+int ViWdTickCount = 0x00000000; // 0

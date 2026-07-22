@@ -1,0 +1,2 @@
+// RVA 0xD0CCC0, .data
+KSPIN_LOCK HalpCmcFallbackLock = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xD2C0F8, PAGEDATA
+int TunnelMaxAge = 0x0000000F; // 15

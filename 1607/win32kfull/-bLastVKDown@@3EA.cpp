@@ -1,0 +1,3 @@
+// RVA 0x333328, .data
+// Symbol: ?bLastVKDown@@3EA
+unsigned __int8 _bLastVKDown__3EA = 0x00; // 0

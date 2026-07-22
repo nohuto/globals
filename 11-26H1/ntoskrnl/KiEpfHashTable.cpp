@@ -1,0 +1,2 @@
+// RVA 0xF14F40, .data
+__int64 KiEpfHashTable = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0x57700, .rdata
+// Symbol: ??_7VIDSCH_VSYNC_SMOOTHER@@6B@
+void *___7VIDSCH_VSYNC_SMOOTHER__6B_ = reinterpret_cast<decltype(___7VIDSCH_VSYNC_SMOOTHER__6B_)>(0x0000000140039420); // 5368943648

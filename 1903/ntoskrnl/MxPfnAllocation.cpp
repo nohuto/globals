@@ -1,0 +1,2 @@
+// RVA 0x572640, ALMOSTRO
+__int64 MxPfnAllocation = 0x0000000000000000; // 0

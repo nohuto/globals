@@ -1,0 +1,2 @@
+// RVA 0x32E600, .data
+ULONG_PTR PopVolumeLock = 0x0000000000000000; // 0

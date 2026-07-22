@@ -1,0 +1,2 @@
+// RVA 0x747050, PAGEDATA
+__int64 PnpDeviceEventList = 0x0000000000000000; // 0

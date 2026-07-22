@@ -1,0 +1,2 @@
+// RVA 0x353C10, .rdata
+_UNKNOWN **Feature_HapticsCloseButtonSourceCheck__private_requiresFeatures = reinterpret_cast<decltype(Feature_HapticsCloseButtonSourceCheck__private_requiresFeatures)>(0x000000014039C5F0); // 5372495344

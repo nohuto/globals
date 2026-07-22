@@ -1,0 +1,2 @@
+// RVA 0xFFD568, PAGEVRFD
+__int64 pXdvExReleaseResourceLite = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x10083D0, INITDATA
+__int64 MxBootFreeDescriptor = 0x0000000000000000; // 0

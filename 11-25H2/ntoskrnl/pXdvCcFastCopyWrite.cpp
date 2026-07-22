@@ -1,0 +1,2 @@
+// RVA 0xFF30B8, PAGEVRFD
+__int64 pXdvCcFastCopyWrite = 0x0000000000000000; // 0

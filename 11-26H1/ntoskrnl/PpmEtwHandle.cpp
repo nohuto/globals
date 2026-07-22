@@ -1,0 +1,2 @@
+// RVA 0xF0C2A0, .data
+REGHANDLE PpmEtwHandle = 0x0000000000000000; // 0

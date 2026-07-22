@@ -1,0 +1,2 @@
+// RVA 0xBE0B48, PAGE
+__int64 PspLargePageDLLKeyName = 0x00000000001C001A; // 1835034

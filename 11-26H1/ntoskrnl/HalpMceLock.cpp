@@ -1,0 +1,2 @@
+// RVA 0xE10868, .data
+KSPIN_LOCK HalpMceLock = 0x0000000000000000; // 0

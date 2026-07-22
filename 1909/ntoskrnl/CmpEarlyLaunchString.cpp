@@ -1,0 +1,2 @@
+// RVA 0xA42E80, INIT
+__int64 CmpEarlyLaunchString = 0x0000000000180016; // 1572886

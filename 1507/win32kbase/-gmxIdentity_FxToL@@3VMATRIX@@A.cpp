@@ -1,0 +1,3 @@
+// RVA 0xFF6A8, .data
+// Symbol: ?gmxIdentity_FxToL@@3VMATRIX@@A
+unsigned char _gmxIdentity_FxToL__3VMATRIX__A = 0x00; // 0

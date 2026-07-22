@@ -1,0 +1,3 @@
+// RVA 0xA4E88, .rdata
+// Symbol: ??_7CTDR_GDI_RESET_THREAD@@6B@
+void *___7CTDR_GDI_RESET_THREAD__6B_ = reinterpret_cast<decltype(___7CTDR_GDI_RESET_THREAD__6B_)>(0x00000001401C9950); // 5370583376

@@ -1,0 +1,2 @@
+// RVA 0xA962B8, INIT
+__int64 CmpParametersString = 0x0000000000160014; // 1441812

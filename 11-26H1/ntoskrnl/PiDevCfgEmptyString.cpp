@@ -1,0 +1,2 @@
+// RVA 0xBDF9A8, PAGE
+__int64 PiDevCfgEmptyString = 0x0000000000020000; // 131072

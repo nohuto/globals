@@ -1,0 +1,2 @@
+// RVA 0x3F8E0, .rdata
+unsigned char EventMarkAllocation = 0x48; // 72

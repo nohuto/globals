@@ -1,0 +1,2 @@
+// RVA 0x349338, .data
+SIZE_T PnprContext = 0x0000000000000000; // 0

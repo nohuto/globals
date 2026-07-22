@@ -1,0 +1,2 @@
+// RVA 0x9AEB78, PAGEDATA
+ULONG_PTR KiSystemServiceTraceCallbackLock = 0x0000000000000000; // 0

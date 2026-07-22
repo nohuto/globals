@@ -1,0 +1,3 @@
+// RVA 0x255F90, .data
+// Symbol: ?s_configuredControllers@VirtualTouchpadControllerProxy@@0V?$unordered_map@PEAVVirtualTouchpadControllerProxy@@UVPTP_ID@@U?$hash@PEAVVirtualTouchpadControllerProxy@@@std@@U?$equal_to@PEAVVirtualTouchpadControllerProxy@@@4@V?$allocator@U?$pair@QEAVVirtualTouchpadControllerProxy@@UVPTP_ID@@@std@@@4@@std@@A
+int _s_configuredControllers_VirtualTouchpadControllerProxy__0V__unordered_map_PEAVVirtualTouchpadControllerProxy__UVPTP_ID__U__hash_PEAVVirtualTouchpadControllerProxy___std__U__equal_to_PEAVVirtualTouchpadControllerProxy___4_V__allocator_U__pair_QEAVVirtualTouchpadControllerProxy__UVPTP_ID___std___4__std__A = 0x00000000; // 0

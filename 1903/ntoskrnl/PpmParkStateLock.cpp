@@ -1,0 +1,2 @@
+// RVA 0x443798, .data
+KSPIN_LOCK PpmParkStateLock = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x9D90, .rdata
+_UNKNOWN **Feature_Servicing_ZwTerminateMinimalProcess_Terminate_Fix__private_requiresFeatures = reinterpret_cast<decltype(Feature_Servicing_ZwTerminateMinimalProcess_Terminate_Fix__private_requiresFeatures)>(0x00000001400DC1C8); // 5369610696

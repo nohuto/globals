@@ -1,0 +1,5 @@
+// RVA 0xAB20, .rdata
+// Type: const struct _SID_IDENTIFIER_AUTHORITY
+unsigned char RtlpNtAuthority[0x6] = {
+    0x00, 0x00, 0x00, 0x00, 0x00, 0x05
+};

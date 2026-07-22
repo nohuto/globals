@@ -1,0 +1,2 @@
+// RVA 0x874988, PAGEVRFD
+__int64 pXdvZwSetSecurityObject = 0x0000000000000000; // 0

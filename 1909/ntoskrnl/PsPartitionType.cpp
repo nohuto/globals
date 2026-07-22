@@ -1,0 +1,2 @@
+// RVA 0x572858, ALMOSTRO
+__int64 PsPartitionType = 0x0000000000000000; // 0

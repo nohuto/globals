@@ -1,0 +1,2 @@
+// RVA 0x78E990, PAGEVRFD
+unsigned long long pXdvZwUnloadKey = 0x0000000140182530; // 5370291504

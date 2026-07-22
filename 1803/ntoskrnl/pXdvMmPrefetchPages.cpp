@@ -1,0 +1,2 @@
+// RVA 0x875110, PAGEVRFD
+__int64 pXdvMmPrefetchPages = 0x0000000000000000; // 0

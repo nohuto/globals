@@ -1,0 +1,2 @@
+// RVA 0xFC15E0, .data
+ULONG_PTR HalpPmuArbiter = 0x0000000000000000; // 0

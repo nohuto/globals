@@ -1,0 +1,2 @@
+// RVA 0xC4BF90, .data
+ULONG_PTR HalpClockTimer = 0x0000000000000000; // 0

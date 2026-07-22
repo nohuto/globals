@@ -1,0 +1,2 @@
+// RVA 0xBF690, .rdata
+unsigned char WNF_DX_MODERN_OUTPUTDUPLICATION_CONTEXTS = 0x35; // 53

@@ -1,0 +1,2 @@
+// RVA 0xCF9D30, .data
+KSPIN_LOCK KdpTimeSlipEventLock = 0x0000000000000000; // 0

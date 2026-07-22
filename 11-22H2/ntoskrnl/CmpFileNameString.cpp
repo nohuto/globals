@@ -1,0 +1,2 @@
+// RVA 0xB9FEB8, INIT
+__int64 CmpFileNameString = 0x0000000000120010; // 1179664

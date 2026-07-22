@@ -1,0 +1,2 @@
+// RVA 0x350B78, .rdata
+const struct tagINPUT_MESSAGE_SOURCE WPP_5203336677413a97442e065d09735669_Traceguids = 0x66; // 102

@@ -1,0 +1,2 @@
+// RVA 0x407E30, .data
+ULONG_PTR ExpHpGCTimerPaged = 0x0000000000000000; // 0

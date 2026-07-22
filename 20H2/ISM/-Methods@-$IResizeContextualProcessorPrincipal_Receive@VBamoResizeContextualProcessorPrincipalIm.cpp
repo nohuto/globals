@@ -1,0 +1,3 @@
+// RVA 0x1AEE10, .rdata
+// Symbol: ?Methods@?$IResizeContextualProcessorPrincipal_Receive@VBamoResizeContextualProcessorPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+__int64 (__fastcall *_Methods___IResizeContextualProcessorPrincipal_Receive_VBamoResizeContextualProcessorPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IResizeContextualProcessorPrincipal_Receive_VBamoResizeContextualProcessorPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x00000001800FCD90); // 6443486608

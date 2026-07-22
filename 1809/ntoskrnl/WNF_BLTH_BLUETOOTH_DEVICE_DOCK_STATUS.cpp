@@ -1,0 +1,2 @@
+// RVA 0x35A950, .rdata
+unsigned char WNF_BLTH_BLUETOOTH_DEVICE_DOCK_STATUS = 0x75; // 117

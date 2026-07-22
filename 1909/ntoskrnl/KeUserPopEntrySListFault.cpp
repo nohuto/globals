@@ -1,0 +1,2 @@
+// RVA 0x5728F0, ALMOSTRO
+__int64 KeUserPopEntrySListFault = 0x0000000000000000; // 0

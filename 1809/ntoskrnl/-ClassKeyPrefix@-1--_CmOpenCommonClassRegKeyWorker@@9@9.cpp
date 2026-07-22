@@ -1,0 +1,7 @@
+// RVA 0x350628, .rdata
+// Symbol: ?ClassKeyPrefix@?1??_CmOpenCommonClassRegKeyWorker@@9@9
+// Type: const UNICODE_STRING
+unsigned char _ClassKeyPrefix__1___CmOpenCommonClassRegKeyWorker__9_9[0x10] = {
+    0x1C, 0x00, 0x1E, 0x00, 0x00, 0x00, 0x00, 0x00, 0xA0, 0x56, 0x76, 0x40,
+    0x01
+};

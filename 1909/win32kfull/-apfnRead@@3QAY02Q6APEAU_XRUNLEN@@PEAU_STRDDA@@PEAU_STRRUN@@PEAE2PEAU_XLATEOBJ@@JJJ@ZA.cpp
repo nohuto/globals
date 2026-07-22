@@ -1,0 +1,3 @@
+// RVA 0x2D6490, .rdata
+// Symbol: ?apfnRead@@3QAY02Q6APEAU_XRUNLEN@@PEAU_STRDDA@@PEAU_STRRUN@@PEAE2PEAU_XLATEOBJ@@JJJ@ZA
+struct _XRUNLEN *(*(near *_apfnRead__3QAY02Q6APEAU_XRUNLEN__PEAU_STRDDA__PEAU_STRRUN__PEAE2PEAU_XLATEOBJ__JJJ_ZA)[3])(struct _STRDDA *, struct _STRRUN *, unsigned __int8 *, unsigned __int8 *, struct _XLATEOBJ *, int, int, int) = reinterpret_cast<decltype(_apfnRead__3QAY02Q6APEAU_XRUNLEN__PEAU_STRDDA__PEAU_STRRUN__PEAE2PEAU_XLATEOBJ__JJJ_ZA)>(0x0000000000000000); // 0

@@ -1,0 +1,3 @@
+// RVA 0x5FB50, .rdata
+// Symbol: ??_7DMMVIDEOPRESENTTARGETSET@@6B?$AggregatedBy@VVIDPN_MGR@@@@@
+void *___7DMMVIDEOPRESENTTARGETSET__6B__AggregatedBy_VVIDPN_MGR_____ = reinterpret_cast<decltype(___7DMMVIDEOPRESENTTARGETSET__6B__AggregatedBy_VVIDPN_MGR_____)>(0x00000001C00233F0); // 7516337136

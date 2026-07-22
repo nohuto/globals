@@ -1,0 +1,2 @@
+// RVA 0xFFEE08, PAGEVRFD
+__int64 pXdvMmAddPhysicalMemory = 0x0000000000000000; // 0

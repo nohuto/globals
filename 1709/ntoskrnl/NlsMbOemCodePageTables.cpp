@@ -1,0 +1,2 @@
+// RVA 0x7F3EF0, PAGEDATA
+__int64 NlsMbOemCodePageTables = 0x0000000000000000; // 0

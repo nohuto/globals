@@ -1,0 +1,2 @@
+// RVA 0xBF5D8, .rdata
+unsigned char WNF_DX_RENDER_ADAPTER_PAIRING_CHANGED = 0x35; // 53

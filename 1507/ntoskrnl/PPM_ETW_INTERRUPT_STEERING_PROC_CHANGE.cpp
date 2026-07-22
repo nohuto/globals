@@ -1,0 +1,2 @@
+// RVA 0x2916B0, .rdata
+unsigned char PPM_ETW_INTERRUPT_STEERING_PROC_CHANGE = 0x08; // 8

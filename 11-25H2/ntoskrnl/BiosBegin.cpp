@@ -1,0 +1,2 @@
+// RVA 0x1007720, INITDATA
+__int64 BiosBegin = 0x0000000000000000; // 0

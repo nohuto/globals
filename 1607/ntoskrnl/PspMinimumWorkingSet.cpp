@@ -1,0 +1,2 @@
+// RVA 0x747270, PAGEDATA
+__int64 PspMinimumWorkingSet = 0x0000000000000014; // 20

@@ -1,0 +1,2 @@
+// RVA 0x77EB30, PAGEDATA
+int PpDDBHandle = 0x00000000; // 0

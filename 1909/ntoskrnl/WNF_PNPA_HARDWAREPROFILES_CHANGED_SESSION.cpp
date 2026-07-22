@@ -1,0 +1,2 @@
+// RVA 0x395580, .rdata
+unsigned char WNF_PNPA_HARDWAREPROFILES_CHANGED_SESSION = 0x35; // 53

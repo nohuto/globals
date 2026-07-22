@@ -1,0 +1,2 @@
+// RVA 0x78E888, PAGEVRFD
+unsigned long long pXdvZwQueryKey = 0x000000014017F2B0; // 5370278576

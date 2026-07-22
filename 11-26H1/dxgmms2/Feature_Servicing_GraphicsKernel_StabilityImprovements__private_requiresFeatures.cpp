@@ -1,0 +1,2 @@
+// RVA 0x5DEF0, .rdata
+_UNKNOWN **Feature_Servicing_GraphicsKernel_StabilityImprovements__private_requiresFeatures = reinterpret_cast<decltype(Feature_Servicing_GraphicsKernel_StabilityImprovements__private_requiresFeatures)>(0x00000001400887F0); // 5369268208

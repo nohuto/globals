@@ -1,0 +1,3 @@
+// RVA 0x203210, .rdata
+// Symbol: ?Interfaces@?$IList_DisplayOcclusionRect_Proxy_Receive@VBamoList_DisplayOcclusionRect_ProxyImpl@ISMBamos_AutoBamos@BamoImpl@Lib@Bamo@Microsoft@@@ISMBamos_AutoBamos@Lib@Bamo@Microsoft@@2QBUMsgCallInterfaceTableEntry@@B
+unsigned char _Interfaces___IList_DisplayOcclusionRect_Proxy_Receive_VBamoList_DisplayOcclusionRect_ProxyImpl_ISMBamos_AutoBamos_BamoImpl_Lib_Bamo_Microsoft___ISMBamos_AutoBamos_Lib_Bamo_Microsoft__2QBUMsgCallInterfaceTableEntry__B = 0x64; // 100

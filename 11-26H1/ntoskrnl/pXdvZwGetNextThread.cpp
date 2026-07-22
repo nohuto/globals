@@ -1,0 +1,2 @@
+// RVA 0xFF26D0, PAGEVRFD
+__int64 pXdvZwGetNextThread = 0x0000000000000000; // 0

@@ -1,0 +1,5 @@
+// RVA 0xC0B780, .data
+// Type: wchar_t[3]
+unsigned char KiClockCheckReady[0x6] = {
+    0x20, 0x00, 0x20
+};

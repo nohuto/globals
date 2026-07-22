@@ -1,0 +1,3 @@
+// RVA 0x20B5D4, .rdata
+// Symbol: ?_tlgEvent@?3??CreateCursorForDevice@Cursor@InputTraceLogging@@SAX_KPEBX@Z@4U_unnamed_type__tlgEvent_@?3??123@SAX01@Z@B
+unsigned char __tlgEvent__3__CreateCursorForDevice_Cursor_InputTraceLogging__SAX_KPEBX_Z_4U_unnamed_type__tlgEvent___3__123_SAX01_Z_B = 0x06; // 6

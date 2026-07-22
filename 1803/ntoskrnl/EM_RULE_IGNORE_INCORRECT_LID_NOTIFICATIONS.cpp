@@ -1,0 +1,2 @@
+// RVA 0x312070, .rdata
+unsigned char EM_RULE_IGNORE_INCORRECT_LID_NOTIFICATIONS = 0xE1; // 225

@@ -1,0 +1,5 @@
+// RVA 0x80C2C0, INIT
+// Type: char[4]
+unsigned char __ts_22[0x4] = {
+    0x98, 0xFF, 0xFF, 0xFF
+};

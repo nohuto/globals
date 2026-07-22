@@ -1,0 +1,2 @@
+// RVA 0x6AF170, PAGEVRFY
+unsigned long long PowerIrpNames = 0x00000001406AFFC8; // 5375721416

@@ -1,0 +1,2 @@
+// RVA 0x401550, ALMOSTRO
+__int64 KeUserPopEntrySListResume = 0x0000000000000000; // 0

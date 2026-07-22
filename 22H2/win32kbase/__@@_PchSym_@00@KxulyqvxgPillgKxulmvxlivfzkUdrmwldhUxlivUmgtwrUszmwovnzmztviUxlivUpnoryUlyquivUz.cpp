@@ -1,0 +1,3 @@
+// RVA 0x25867C, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUxlivUmgtwrUszmwovnzmztviUxlivUpnoryUlyquivUznwGEUkivxlnkOlyq@gdihandlemanagerk
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUxlivUmgtwrUszmwovnzmztviUxlivUpnoryUlyquivUznwGEUkivxlnkOlyq_gdihandlemanagerk = 0x00; // 0

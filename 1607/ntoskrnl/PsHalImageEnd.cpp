@@ -1,0 +1,2 @@
+// RVA 0x3AA3E8, ALMOSTRO
+__int64 PsHalImageEnd = 0x0000000000000000; // 0

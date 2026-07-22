@@ -1,0 +1,3 @@
+// RVA 0x1A8480, .rdata
+// Symbol: ??_7SpatialInteractionSourceDeviceCollection@SpatialInteractions@Internal@Windows@@6BISpatialInteractionSourceCollection@123@@
+void *___7SpatialInteractionSourceDeviceCollection_SpatialInteractions_Internal_Windows__6BISpatialInteractionSourceCollection_123__ = reinterpret_cast<decltype(___7SpatialInteractionSourceDeviceCollection_SpatialInteractions_Internal_Windows__6BISpatialInteractionSourceCollection_123__)>(0x000000018004B0A0); // 6442758304

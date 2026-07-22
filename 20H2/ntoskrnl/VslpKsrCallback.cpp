@@ -1,0 +1,2 @@
+// RVA 0xCFCB10, ALMOSTRO
+__int64 VslpKsrCallback = 0x0000000000000000; // 0

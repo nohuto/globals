@@ -1,0 +1,3 @@
+// RVA 0x1F03D8, .rdata
+// Symbol: ?Methods@?$ISystemButtonEventControllerProxy_Receive@VBamoSystemButtonEventControllerProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+__int64 (__fastcall *_Methods___ISystemButtonEventControllerProxy_Receive_VBamoSystemButtonEventControllerProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)(Microsoft::BamoImpl::BamoProxyImpl *this) = reinterpret_cast<decltype(_Methods___ISystemButtonEventControllerProxy_Receive_VBamoSystemButtonEventControllerProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180160050); // 6443892816

@@ -1,0 +1,2 @@
+// RVA 0x2924F8, .rdata
+unsigned char POP_ETW_EVENT_THERMAL_REQUEST_ADD = 0x9C; // 156

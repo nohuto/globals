@@ -1,0 +1,2 @@
+// RVA 0x8F2770, INITDATA
+__int64 MxFreeDescriptor = 0x0000000000000000; // 0

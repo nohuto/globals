@@ -1,0 +1,2 @@
+// RVA 0x70B7F0, PAGEVRFD
+unsigned long long pXdvZwOpenTimer = 0x00000001401529C0; // 5370096064

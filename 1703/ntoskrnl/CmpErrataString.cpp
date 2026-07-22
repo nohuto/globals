@@ -1,0 +1,2 @@
+// RVA 0x83A0E0, INIT
+__int64 CmpErrataString = 0x00000000000E000C; // 917516

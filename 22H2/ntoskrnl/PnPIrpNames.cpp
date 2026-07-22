@@ -1,0 +1,2 @@
+// RVA 0x9BB530, PAGEVRFY
+unsigned long long PnPIrpNames = 0x00000001409BBC08; // 5378915336

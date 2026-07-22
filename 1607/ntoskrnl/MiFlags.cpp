@@ -1,0 +1,2 @@
+// RVA 0x3AA240, ALMOSTRO
+int MiFlags = 0x00000000; // 0

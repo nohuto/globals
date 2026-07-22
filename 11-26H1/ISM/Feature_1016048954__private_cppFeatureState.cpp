@@ -1,0 +1,2 @@
+// RVA 0x256AA0, .data
+unsigned char Feature_1016048954__private_cppFeatureState = 0x00; // 0

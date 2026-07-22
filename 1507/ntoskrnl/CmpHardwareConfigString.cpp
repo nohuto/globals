@@ -1,0 +1,2 @@
+// RVA 0x7FFE00, INIT
+__int64 CmpHardwareConfigString = 0x00000000001E001C; // 1966108

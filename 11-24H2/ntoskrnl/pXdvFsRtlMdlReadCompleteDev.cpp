@@ -1,0 +1,2 @@
+// RVA 0xFFEA40, PAGEVRFD
+__int64 pXdvFsRtlMdlReadCompleteDev = 0x0000000000000000; // 0

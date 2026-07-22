@@ -1,0 +1,3 @@
+// RVA 0xEF9FA0, .data
+// Type: struct _KTIMER
+unsigned char ExpWorkerFactoryThreadCreationTimer[0x40] = {};

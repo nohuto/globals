@@ -1,0 +1,3 @@
+// RVA 0x16E868, .rdata
+// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIMessageProxyReconnectAdapterOwner@@UIMessageListListener@@UIViewHierarchy@@@WRL@Microsoft@@6BIMessageListListener@@@
+void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIMessageProxyReconnectAdapterOwner__UIMessageListListener__UIViewHierarchy___WRL_Microsoft__6BIMessageListListener___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIMessageProxyReconnectAdapterOwner__UIMessageListListener__UIViewHierarchy___WRL_Microsoft__6BIMessageListListener___)>(0x0000000180037C60); // 6442679392

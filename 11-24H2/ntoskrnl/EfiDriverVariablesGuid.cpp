@@ -1,0 +1,2 @@
+// RVA 0x39128, .rdata
+__int64 EfiDriverVariablesGuid = 0x11D293CA8BE4DF61; // 1284251341893721953

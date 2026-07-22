@@ -1,0 +1,2 @@
+// RVA 0x401658, ALMOSTRO
+__int64 KeExecuteUmsThread = 0x0000000000000000; // 0

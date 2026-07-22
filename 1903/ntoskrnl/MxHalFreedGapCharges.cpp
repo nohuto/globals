@@ -1,0 +1,2 @@
+// RVA 0xA50668, INITDATA
+__int64 MxHalFreedGapCharges = 0x0000000000000000; // 0

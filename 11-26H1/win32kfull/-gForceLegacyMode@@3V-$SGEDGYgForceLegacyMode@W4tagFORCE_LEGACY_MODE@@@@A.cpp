@@ -1,0 +1,3 @@
+// RVA 0x3A2F9A, .data
+// Symbol: ?gForceLegacyMode@@3V?$SGEDGYgForceLegacyMode@W4tagFORCE_LEGACY_MODE@@@@A
+unsigned char _gForceLegacyMode__3V__SGEDGYgForceLegacyMode_W4tagFORCE_LEGACY_MODE____A = 0x00; // 0

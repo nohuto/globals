@@ -1,0 +1,2 @@
+// RVA 0x7BE2D8, PAGEVRFD
+__int64 pXdvZwOpenKeyTransacted = 0x0000000000000000; // 0

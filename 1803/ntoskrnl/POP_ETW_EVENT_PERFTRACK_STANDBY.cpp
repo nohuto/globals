@@ -1,0 +1,2 @@
+// RVA 0x310030, .rdata
+unsigned char POP_ETW_EVENT_PERFTRACK_STANDBY = 0x79; // 121

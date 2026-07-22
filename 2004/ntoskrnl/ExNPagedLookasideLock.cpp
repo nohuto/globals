@@ -1,0 +1,2 @@
+// RVA 0xC168D0, .data
+KSPIN_LOCK ExNPagedLookasideLock = 0x0000000000000000; // 0

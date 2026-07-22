@@ -1,0 +1,2 @@
+// RVA 0x4B380, .rdata
+unsigned char WNF_DX_INTERNAL_PANEL_DIMENSIONS = 0x75; // 117

@@ -1,0 +1,2 @@
+// RVA 0xCEC988, .data
+ULONGLONG KiIntSteerEtwHandle = 0x0000000000000000; // 0

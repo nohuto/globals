@@ -1,0 +1,2 @@
+// RVA 0x418E48, .data
+KSPIN_LOCK PopIrpLock = 0x0000000000000000; // 0

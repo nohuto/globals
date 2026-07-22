@@ -1,0 +1,2 @@
+// RVA 0xD48028, PAGEVRFD
+ULONG VfBugcheckTmpData = 0x00000000; // 0

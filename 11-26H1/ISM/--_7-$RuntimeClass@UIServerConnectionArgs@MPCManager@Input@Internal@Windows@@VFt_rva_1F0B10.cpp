@@ -1,0 +1,3 @@
+// RVA 0x1F0B10, .rdata
+// Symbol: ??_7?$RuntimeClass@UIServerConnectionArgs@MPCManager@Input@Internal@Windows@@VFtmBase@WRL@Microsoft@@@WRL@Microsoft@@6BIWeakReferenceSource@@@
+void *___7__RuntimeClass_UIServerConnectionArgs_MPCManager_Input_Internal_Windows__VFtmBase_WRL_Microsoft___WRL_Microsoft__6BIWeakReferenceSource___ = reinterpret_cast<decltype(___7__RuntimeClass_UIServerConnectionArgs_MPCManager_Input_Internal_Windows__VFtmBase_WRL_Microsoft___WRL_Microsoft__6BIWeakReferenceSource___)>(0x0000000180168740); // 6443927360

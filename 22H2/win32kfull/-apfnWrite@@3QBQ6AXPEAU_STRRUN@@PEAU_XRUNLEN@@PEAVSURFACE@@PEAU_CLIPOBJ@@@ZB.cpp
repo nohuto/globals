@@ -1,0 +1,3 @@
+// RVA 0x2E1450, .rdata
+// Symbol: ?apfnWrite@@3QBQ6AXPEAU_STRRUN@@PEAU_XRUNLEN@@PEAVSURFACE@@PEAU_CLIPOBJ@@@ZB
+void (*const near *const _apfnWrite__3QBQ6AXPEAU_STRRUN__PEAU_XRUNLEN__PEAVSURFACE__PEAU_CLIPOBJ___ZB)(struct _STRRUN *, struct _XRUNLEN *, struct SURFACE *, struct _CLIPOBJ *) = reinterpret_cast<decltype(_apfnWrite__3QBQ6AXPEAU_STRRUN__PEAU_XRUNLEN__PEAVSURFACE__PEAU_CLIPOBJ___ZB)>(0x0000000000000000); // 0

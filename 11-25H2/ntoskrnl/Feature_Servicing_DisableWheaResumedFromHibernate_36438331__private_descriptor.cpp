@@ -1,0 +1,2 @@
+// RVA 0xDBA98, .rdata
+int *Feature_Servicing_DisableWheaResumedFromHibernate_36438331__private_descriptor = reinterpret_cast<decltype(Feature_Servicing_DisableWheaResumedFromHibernate_36438331__private_descriptor)>(0x0000000140FC33F8); // 5385237496

@@ -1,0 +1,3 @@
+// RVA 0xA35C8, .rdata
+// Symbol: ??_7DMMVIDPNSOURCE@@6B?$ContainedBy@VDMMVIDPNSOURCESET@@@@@
+void *___7DMMVIDPNSOURCE__6B__ContainedBy_VDMMVIDPNSOURCESET_____ = reinterpret_cast<decltype(___7DMMVIDPNSOURCE__6B__ContainedBy_VDMMVIDPNSOURCESET_____)>(0x000000014008EEB0); // 5369294512

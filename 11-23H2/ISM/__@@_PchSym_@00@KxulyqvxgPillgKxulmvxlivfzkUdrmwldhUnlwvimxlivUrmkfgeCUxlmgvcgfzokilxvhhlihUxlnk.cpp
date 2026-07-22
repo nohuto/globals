@@ -1,0 +1,3 @@
+// RVA 0x26968C, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlmgvcgfzokilxvhhlihUxlnklmvmghUrmkfgtvhgfivhUhbhgvnUlyquivUznwGEUkxsOlyq@GestureServices
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlmgvcgfzokilxvhhlihUxlnklmvmghUrmkfgtvhgfivhUhbhgvnUlyquivUznwGEUkxsOlyq_GestureServices = 0x00; // 0

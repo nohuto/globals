@@ -1,0 +1,2 @@
+// RVA 0xFC60C0, ALMOSTRO
+__int64 KeBootTimeInfo = 0x0000000000000000; // 0

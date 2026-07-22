@@ -1,0 +1,2 @@
+// RVA 0xFC5EE8, ALMOSTRO
+__int64 IoDeviceObjectType = 0x0000000000000000; // 0

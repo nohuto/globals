@@ -1,0 +1,2 @@
+// RVA 0x27588, .rdata
+const __int64 DEVPKEY_Device_AssignedToGuest = 0x45BC8B40540B947E; // 5025044392642843774

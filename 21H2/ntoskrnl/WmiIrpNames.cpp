@@ -1,0 +1,2 @@
+// RVA 0x9BC310, PAGEVRFY
+unsigned long long WmiIrpNames = 0x00000001409BCD40; // 5378919744

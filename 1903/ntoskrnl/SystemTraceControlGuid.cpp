@@ -1,0 +1,2 @@
+// RVA 0x377F28, .rdata
+__int64 SystemTraceControlGuid = 0x11D232049E814AAD; // 1284143839174544045

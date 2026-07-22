@@ -1,0 +1,2 @@
+// RVA 0xC1A330, .data
+REGHANDLE WdipSemRegHandle = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x9BC2C0, PAGEVRFY
+unsigned long long ActionNames = 0x00000001409BD248; // 5378921032

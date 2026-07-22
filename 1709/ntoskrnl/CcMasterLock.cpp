@@ -1,0 +1,2 @@
+// RVA 0x38DF80, .data
+KSPIN_LOCK CcMasterLock = 0x0000000000000000; // 0

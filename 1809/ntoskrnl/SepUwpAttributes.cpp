@@ -1,0 +1,2 @@
+// RVA 0x90C0C0, PAGE
+__int64 SepUwpAttributes = 0x00000000001E001C; // 1966108

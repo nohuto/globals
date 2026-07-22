@@ -1,0 +1,3 @@
+// RVA 0x179CB8, .rdata
+// Symbol: ??_7ConstantChangedEventArgs@MPCManager@Input@Internal@Windows@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$00@WRL@Microsoft@@$00U?$ImplementsMarker@VFtmBase@WRL@Microsoft@@@Details@23@@Details@WRL@Microsoft@@@
+void *___7ConstantChangedEventArgs_MPCManager_Input_Internal_Windows__6B__ImplementsHelper_U__RuntimeClassFlags__00_WRL_Microsoft___00U__ImplementsMarker_VFtmBase_WRL_Microsoft___Details_23__Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7ConstantChangedEventArgs_MPCManager_Input_Internal_Windows__6B__ImplementsHelper_U__RuntimeClassFlags__00_WRL_Microsoft___00U__ImplementsMarker_VFtmBase_WRL_Microsoft___Details_23__Details_WRL_Microsoft___)>(0x0000000180039790); // 6442686352

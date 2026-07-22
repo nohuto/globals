@@ -1,0 +1,2 @@
+// RVA 0xA5D10, .rdata
+_UNKNOWN **Feature_Servicing_GraphicsKernel_IommuIntegerOverflow__private_requiresFeatures = reinterpret_cast<decltype(Feature_Servicing_GraphicsKernel_IommuIntegerOverflow__private_requiresFeatures)>(0x0000000140159ED0); // 5370126032

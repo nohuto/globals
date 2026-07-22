@@ -1,0 +1,2 @@
+// RVA 0x758CE8, PAGEVRFD
+__int64 pXdvFsRtlFreeFileLock = 0x0000000000000000; // 0

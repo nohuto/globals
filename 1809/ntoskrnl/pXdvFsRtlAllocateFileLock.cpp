@@ -1,0 +1,2 @@
+// RVA 0x9878B0, PAGEVRFD
+__int64 pXdvFsRtlAllocateFileLock = 0x0000000000000000; // 0

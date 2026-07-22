@@ -1,0 +1,2 @@
+// RVA 0x3A1D70, .data
+ULONG_PTR EtwpReplyListLock = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x7BD098, PAGEVRFD
+__int64 pXdvDriverStartIo = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xD4A908, PAGEVRFD
+__int64 pXdvZwRestoreKey = 0x0000000000000000; // 0

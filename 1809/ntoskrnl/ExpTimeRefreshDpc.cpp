@@ -1,0 +1,2 @@
+// RVA 0x40AB40, .data
+ULONG_PTR ExpTimeRefreshDpc = 0x0000000000000000; // 0

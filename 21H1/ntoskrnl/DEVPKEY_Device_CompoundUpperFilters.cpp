@@ -1,0 +1,2 @@
+// RVA 0xAD20, .rdata
+__int64 DEVPKEY_Device_CompoundUpperFilters = 0x408897A683DA6326; // 4650133356692529958

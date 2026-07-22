@@ -1,0 +1,2 @@
+// RVA 0x861128, PAGEDATA
+__int64 PspUniqueJobIdTable = 0x0000000000000000; // 0

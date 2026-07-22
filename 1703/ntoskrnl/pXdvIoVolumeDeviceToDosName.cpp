@@ -1,0 +1,2 @@
+// RVA 0x7BD5E8, PAGEVRFD
+__int64 pXdvIoVolumeDeviceToDosName = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x2F3560, .rdata
+unsigned char WNF_SPI_PRIMARY_MONITOR_DPI_CHANGED = 0x35; // 53

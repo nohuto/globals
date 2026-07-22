@@ -1,0 +1,2 @@
+// RVA 0x3954D8, .rdata
+unsigned char WNF_PNPA_VOLUMES_CHANGED_SESSION = 0x35; // 53

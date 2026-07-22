@@ -1,0 +1,2 @@
+// RVA 0x758100, PAGEVRFD
+__int64 pXdvKeWaitForSingleObject = 0x0000000000000000; // 0

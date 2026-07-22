@@ -1,0 +1,3 @@
+// RVA 0x1AF0C0, .rdata
+// Symbol: ?Methods@?$IKeyboardDockServerPrincipal_Receive@VBamoKeyboardDockServerPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+__int64 (__fastcall *_Methods___IKeyboardDockServerPrincipal_Receive_VBamoKeyboardDockServerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IKeyboardDockServerPrincipal_Receive_VBamoKeyboardDockServerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180127E20); // 6443662880

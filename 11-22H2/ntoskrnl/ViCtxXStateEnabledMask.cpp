@@ -1,0 +1,2 @@
+// RVA 0xD70608, PAGEVRFD
+__int64 ViCtxXStateEnabledMask = 0x0000000000000000; // 0

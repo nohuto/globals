@@ -1,0 +1,2 @@
+// RVA 0xF8C3A0, .data
+ULONG_PTR IopInitFailCode = 0x0000000000000000; // 0

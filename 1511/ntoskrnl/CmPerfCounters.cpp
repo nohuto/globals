@@ -1,0 +1,2 @@
+// RVA 0x6FC020, PAGEDATA
+__int64 CmPerfCounters = 0x0000000000000000; // 0

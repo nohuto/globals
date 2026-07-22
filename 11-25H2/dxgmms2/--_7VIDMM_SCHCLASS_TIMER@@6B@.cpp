@@ -1,0 +1,3 @@
+// RVA 0x58698, .rdata
+// Symbol: ??_7VIDMM_SCHCLASS_TIMER@@6B@
+void *___7VIDMM_SCHCLASS_TIMER__6B_ = reinterpret_cast<decltype(___7VIDMM_SCHCLASS_TIMER__6B_)>(0x00000001400A4C70); // 5369384048

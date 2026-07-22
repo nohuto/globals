@@ -1,0 +1,2 @@
+// RVA 0x216F8, .rdata
+__int64 DEVPKEY_DeviceClass_FSFilterClass = 0x47CE50A7259ABFFC; // 5174161700715937788

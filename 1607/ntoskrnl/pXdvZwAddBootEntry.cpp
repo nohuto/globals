@@ -1,0 +1,2 @@
+// RVA 0x758658, PAGEVRFD
+__int64 pXdvZwAddBootEntry = 0x0000000000000000; // 0

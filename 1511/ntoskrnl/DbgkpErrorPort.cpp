@@ -1,0 +1,2 @@
+// RVA 0x6FB130, PAGEDATA
+__int64 DbgkpErrorPort = 0x0000000000000000; // 0

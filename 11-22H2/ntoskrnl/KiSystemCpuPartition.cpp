@@ -1,0 +1,2 @@
+// RVA 0xD1ECC0, ALMOSTRO
+__int64 KiSystemCpuPartition = 0x0000000000000000; // 0

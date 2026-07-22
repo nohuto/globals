@@ -1,0 +1,2 @@
+// RVA 0xD2C044, PAGEDATA
+int PiDevCfgFlags = 0x00000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x70B3B0, PAGEVRFD
+unsigned long long pXdvRtlUnicodeToUTF8N = 0x0000000140541E9C; // 5374221980

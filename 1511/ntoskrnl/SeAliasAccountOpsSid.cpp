@@ -1,0 +1,2 @@
+// RVA 0x6FBC90, PAGEDATA
+__int64 SeAliasAccountOpsSid = 0x0000000000000000; // 0

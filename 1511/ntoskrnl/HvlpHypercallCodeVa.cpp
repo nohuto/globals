@@ -1,0 +1,2 @@
+// RVA 0x3825A0, ALMOSTRO
+__int64 HvlpHypercallCodeVa = 0x0000000000000000; // 0

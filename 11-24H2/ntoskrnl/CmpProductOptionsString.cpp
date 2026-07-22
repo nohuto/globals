@@ -1,0 +1,2 @@
+// RVA 0xC74D28, INIT
+__int64 CmpProductOptionsString = 0x00000000001E001C; // 1966108

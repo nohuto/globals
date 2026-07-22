@@ -1,0 +1,2 @@
+// RVA 0xCFC770, ALMOSTRO
+ULONG VslpHotpatchLog = 0x00000000; // 0

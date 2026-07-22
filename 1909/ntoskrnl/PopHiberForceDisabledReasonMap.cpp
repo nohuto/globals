@@ -1,0 +1,5 @@
+// RVA 0x947150, PAGE
+// Type: __int64[2]
+unsigned char PopHiberForceDisabledReasonMap[0x10] = {
+    0x04, 0x00, 0x00, 0x00, 0x05
+};

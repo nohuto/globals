@@ -1,0 +1,2 @@
+// RVA 0x3D1698, ALMOSTRO
+__int64 KeUserPopEntrySListFaultWow64 = 0x0000000000000000; // 0

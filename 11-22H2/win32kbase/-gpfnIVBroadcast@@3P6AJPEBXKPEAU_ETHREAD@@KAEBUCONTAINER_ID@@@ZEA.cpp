@@ -1,0 +1,3 @@
+// RVA 0x297560, .data
+// Symbol: ?gpfnIVBroadcast@@3P6AJPEBXKPEAU_ETHREAD@@KAEBUCONTAINER_ID@@@ZEA
+int (*_gpfnIVBroadcast__3P6AJPEBXKPEAU_ETHREAD__KAEBUCONTAINER_ID___ZEA)(const void *, unsigned int, struct _ETHREAD *, unsigned int, const struct CONTAINER_ID *) = reinterpret_cast<decltype(_gpfnIVBroadcast__3P6AJPEBXKPEAU_ETHREAD__KAEBUCONTAINER_ID___ZEA)>(0x0000000000000000); // 0

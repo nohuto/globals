@@ -1,0 +1,2 @@
+// RVA 0xFFC1A0, INITDATA
+size_t MmVerifyDriverBufferLength = 0x0000030000001800; // 3298534889472

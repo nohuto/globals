@@ -1,0 +1,3 @@
+// RVA 0x31F230, .data
+// Symbol: ?gaTouchGestureSettings@@3PAUtagDEVICECONFIG_SETTING@@A
+struct tagDEVICECONFIG_SETTING _gaTouchGestureSettings__3PAUtagDEVICECONFIG_SETTING__A = 0x00000001C02E5728; // 7519229736

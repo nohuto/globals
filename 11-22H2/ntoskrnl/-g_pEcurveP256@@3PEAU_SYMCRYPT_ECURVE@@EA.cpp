@@ -1,0 +1,3 @@
+// RVA 0xD1C410, .data
+// Symbol: ?g_pEcurveP256@@3PEAU_SYMCRYPT_ECURVE@@EA
+struct _SYMCRYPT_ECURVE *_g_pEcurveP256__3PEAU_SYMCRYPT_ECURVE__EA = reinterpret_cast<decltype(_g_pEcurveP256__3PEAU_SYMCRYPT_ECURVE__EA)>(0x0000000000000000); // 0

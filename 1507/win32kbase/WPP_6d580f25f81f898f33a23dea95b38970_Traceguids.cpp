@@ -1,0 +1,2 @@
+// RVA 0xE6080, .rdata
+const ULONG WPP_6d580f25f81f898f33a23dea95b38970_Traceguids = 0x6D580F25; // 1834487589

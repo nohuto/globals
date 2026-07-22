@@ -1,0 +1,2 @@
+// RVA 0x6FBC98, PAGEDATA
+__int64 SeAliasBackupOpsSid = 0x0000000000000000; // 0

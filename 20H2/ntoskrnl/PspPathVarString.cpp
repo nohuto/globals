@@ -1,0 +1,2 @@
+// RVA 0x986550, PAGE
+__int64 PspPathVarString = 0x00000000000C000A; // 786442

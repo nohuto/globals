@@ -1,0 +1,2 @@
+// RVA 0x2D7280, .rdata
+unsigned char HV_EVENTLOG_BAL_TOO_MANY_RS_MEMORY_RANGES = 0x40; // 64

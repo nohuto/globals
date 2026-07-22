@@ -1,0 +1,2 @@
+// RVA 0x3761A0, .rdata
+unsigned char THREATINT_MAPVIEW_REMOTE_KERNEL_CALLER = 0x17; // 23

@@ -1,0 +1,2 @@
+// RVA 0x986D98, PAGEVRFD
+__int64 ViFaultTraces = 0x0000000000000000; // 0

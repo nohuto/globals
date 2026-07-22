@@ -1,0 +1,2 @@
+// RVA 0xFFE350, PAGEVRFD
+__int64 pXdvZwUnloadKey = 0x0000000000000000; // 0

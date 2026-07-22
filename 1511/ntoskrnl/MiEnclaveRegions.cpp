@@ -1,0 +1,2 @@
+// RVA 0x382540, ALMOSTRO
+__int64 MiEnclaveRegions = 0x0000000000000000; // 0

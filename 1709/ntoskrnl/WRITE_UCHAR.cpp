@@ -1,0 +1,2 @@
+// RVA 0x3560D0, .data
+unsigned long long WRITE_UCHAR = 0x0000000140132FC0; // 5369966528

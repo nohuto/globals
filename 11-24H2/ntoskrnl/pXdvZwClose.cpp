@@ -1,0 +1,2 @@
+// RVA 0xFFEEC8, PAGEVRFD
+__int64 pXdvZwClose = 0x0000000000000000; // 0

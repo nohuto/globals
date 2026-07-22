@@ -1,0 +1,2 @@
+// RVA 0x35A7D0, .rdata
+unsigned char WNF_PO_PRIMARY_DISPLAY_VISIBLE_STATE = 0x75; // 117

@@ -1,0 +1,2 @@
+// RVA 0xCFCA20, ALMOSTRO
+__int64 HvlPartitionId = 0x0000000000000000; // 0

@@ -1,0 +1,5 @@
+// RVA 0x13E0, .text
+// Type: int[2]
+unsigned char _LdrpLogLevelStateTable[0x8] = {
+    0x02, 0x00, 0x00, 0x00, 0x10
+};

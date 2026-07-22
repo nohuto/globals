@@ -1,0 +1,3 @@
+// RVA 0x204078, .rdata
+// Symbol: ??_7?$ITypedEventHandler@PEAVSpatialGestureRecognizer@Spatial@Input@UI@Windows@@PEAVSpatialManipulationCompletedEventArgs@2345@@Foundation@Windows@@6B@
+void *___7__ITypedEventHandler_PEAVSpatialGestureRecognizer_Spatial_Input_UI_Windows__PEAVSpatialManipulationCompletedEventArgs_2345__Foundation_Windows__6B_ = reinterpret_cast<decltype(___7__ITypedEventHandler_PEAVSpatialGestureRecognizer_Spatial_Input_UI_Windows__PEAVSpatialManipulationCompletedEventArgs_2345__Foundation_Windows__6B_)>(0x0000000180056580); // 6442804608

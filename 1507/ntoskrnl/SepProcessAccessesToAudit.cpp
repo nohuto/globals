@@ -1,0 +1,2 @@
+// RVA 0x77E130, PAGEDATA
+ACCESS_MASK SepProcessAccessesToAudit = 0x00000000; // 0

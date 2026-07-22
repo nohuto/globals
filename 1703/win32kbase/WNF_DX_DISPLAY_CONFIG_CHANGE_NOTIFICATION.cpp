@@ -1,0 +1,2 @@
+// RVA 0x161EA8, .rdata
+unsigned char WNF_DX_DISPLAY_CONFIG_CHANGE_NOTIFICATION = 0x35; // 53

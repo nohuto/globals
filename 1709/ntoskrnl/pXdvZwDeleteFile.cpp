@@ -1,0 +1,2 @@
+// RVA 0x8046F0, PAGEVRFD
+__int64 pXdvZwDeleteFile = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0xB6B5F0, PAGEVRFY
+unsigned long long IrpMajorNames = 0x0000000140B6B960; // 5380684128

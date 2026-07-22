@@ -1,0 +1,5 @@
+// RVA 0x1D6A28, .rdata
+// Type: const union _LARGE_INTEGER
+unsigned char WPP_8c8d7d8b35513e4b70580dacda9ab929_Traceguids[0x8] = {
+    0x8B, 0x7D, 0x8D, 0x8C, 0x51, 0x35, 0x4B, 0x3E
+};

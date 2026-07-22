@@ -1,0 +1,2 @@
+// RVA 0xC477D8, .data
+ULONG_PTR VrpActiveSilosLock = 0x0000000000000000; // 0

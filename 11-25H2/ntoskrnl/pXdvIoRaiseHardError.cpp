@@ -1,0 +1,2 @@
+// RVA 0xFFD978, PAGEVRFD
+__int64 pXdvIoRaiseHardError = 0x0000000000000000; // 0

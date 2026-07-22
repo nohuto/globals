@@ -1,0 +1,2 @@
+// RVA 0x3C85C0, .data
+REGHANDLE IoTraceHandle = 0x0000000000000000; // 0

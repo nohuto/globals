@@ -1,0 +1,2 @@
+// RVA 0x3238F0, .data
+unsigned long long READ_UCHAR = 0x0000000140195F34; // 5370371892

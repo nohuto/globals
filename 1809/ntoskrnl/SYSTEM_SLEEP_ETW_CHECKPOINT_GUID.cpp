@@ -1,0 +1,2 @@
+// RVA 0x3782F8, .rdata
+unsigned char SYSTEM_SLEEP_ETW_CHECKPOINT_GUID = 0x1A; // 26

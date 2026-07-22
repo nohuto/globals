@@ -1,0 +1,2 @@
+// RVA 0x3E4268, ALMOSTRO
+__int64 ExpPoolQuotaCookie = 0x0000000000000000; // 0

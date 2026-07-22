@@ -1,0 +1,5 @@
+// RVA 0x1A128, .rdata
+// Type: __int128
+unsigned char PpmPolicyActionIdleMask[0x10] = {
+    0x00, 0x00, 0x00, 0xB0, 0x41
+};

@@ -1,0 +1,3 @@
+// RVA 0x5DD30, .rdata
+// Symbol: ??_7VIDMM_APERTURE_SEGMENT@@6B@
+void *___7VIDMM_APERTURE_SEGMENT__6B_ = reinterpret_cast<decltype(___7VIDMM_APERTURE_SEGMENT__6B_)>(0x0000000140050190); // 5369037200

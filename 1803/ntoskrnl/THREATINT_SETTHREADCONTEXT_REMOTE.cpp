@@ -1,0 +1,2 @@
+// RVA 0x30F740, .rdata
+unsigned char THREATINT_SETTHREADCONTEXT_REMOTE = 0x05; // 5

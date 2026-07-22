@@ -1,0 +1,2 @@
+// RVA 0x804A88, PAGEVRFD
+__int64 pXdvZwQueryLicenseValue = 0x0000000000000000; // 0

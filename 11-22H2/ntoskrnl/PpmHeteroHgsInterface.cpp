@@ -1,0 +1,2 @@
+// RVA 0xD1F3F0, ALMOSTRO
+__int64 PpmHeteroHgsInterface = 0x0000000000000000; // 0

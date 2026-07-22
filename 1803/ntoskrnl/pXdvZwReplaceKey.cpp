@@ -1,0 +1,2 @@
+// RVA 0x8748D8, PAGEVRFD
+__int64 pXdvZwReplaceKey = 0x0000000000000000; // 0

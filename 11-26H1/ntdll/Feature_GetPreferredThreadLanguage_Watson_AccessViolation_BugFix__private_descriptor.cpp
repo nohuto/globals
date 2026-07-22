@@ -1,0 +1,2 @@
+// RVA 0x1AFEC0, .rdata
+int *Feature_GetPreferredThreadLanguage_Watson_AccessViolation_BugFix__private_descriptor = reinterpret_cast<decltype(Feature_GetPreferredThreadLanguage_Watson_AccessViolation_BugFix__private_descriptor)>(0x00000001801CCF70); // 6444339056

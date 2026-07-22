@@ -1,0 +1,7 @@
+// RVA 0x1730, .rdata
+// Symbol: ?EnumKeyPrefix@?1??_CmDeleteDeviceRegKeyWorker@@9@9
+// Type: const UNICODE_STRING
+unsigned char _EnumKeyPrefix__1___CmDeleteDeviceRegKeyWorker__9_9[0x10] = {
+    0x0A, 0x00, 0x0C, 0x00, 0x00, 0x00, 0x00, 0x00, 0xD0, 0x13, 0x7D, 0x40,
+    0x01
+};

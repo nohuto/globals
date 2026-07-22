@@ -1,0 +1,2 @@
+// RVA 0x9C9178, PAGEVRFD
+__int64 pXdvPsReferenceImpersonationToken = 0x0000000000000000; // 0

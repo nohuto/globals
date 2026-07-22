@@ -1,0 +1,2 @@
+// RVA 0xA97D30, INIT
+__int64 CmpDriverStateSourceIdName = 0x000000000020001E; // 2097182

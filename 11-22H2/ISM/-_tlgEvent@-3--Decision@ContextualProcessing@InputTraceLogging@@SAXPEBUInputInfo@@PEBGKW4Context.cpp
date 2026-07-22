@@ -1,0 +1,3 @@
+// RVA 0x237AF6, .rdata
+// Symbol: ?_tlgEvent@?3??Decision@ContextualProcessing@InputTraceLogging@@SAXPEBUInputInfo@@PEBGKW4ContextualProcessorState@@W4ContextualProcessorDecision@@2_NPEBUIInputTarget@@4444@Z@4U_unnamed_type__tlgEvent_@?3??123@SAX01K232454444@Z@B
+unsigned char __tlgEvent__3__Decision_ContextualProcessing_InputTraceLogging__SAXPEBUInputInfo__PEBGKW4ContextualProcessorState__W4ContextualProcessorDecision__2_NPEBUIInputTarget__4444_Z_4U_unnamed_type__tlgEvent___3__123_SAX01K232454444_Z_B = 0x06; // 6

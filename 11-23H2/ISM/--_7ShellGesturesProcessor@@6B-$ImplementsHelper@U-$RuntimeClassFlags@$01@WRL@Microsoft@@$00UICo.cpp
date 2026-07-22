@@ -1,0 +1,3 @@
+// RVA 0x1FFE10, .rdata
+// Symbol: ??_7ShellGesturesProcessor@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@$00UIContextualProcessorEventStreamEnded@@@Details@WRL@Microsoft@@@
+void *___7ShellGesturesProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIContextualProcessorEventStreamEnded___Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7ShellGesturesProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIContextualProcessorEventStreamEnded___Details_WRL_Microsoft___)>(0x000000018006A170); // 6442885488

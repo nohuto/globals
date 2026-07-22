@@ -1,0 +1,5 @@
+// RVA 0x11268, .text
+// Type: int[3]
+unsigned char _LoadFailureOperational[0xC] = {
+    0x08, 0x00, 0x00, 0x11, 0x04
+};

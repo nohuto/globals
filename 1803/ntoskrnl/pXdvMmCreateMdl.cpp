@@ -1,0 +1,2 @@
+// RVA 0x8744C8, PAGEVRFD
+__int64 pXdvMmCreateMdl = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x980080, PAGEVRFD
+__int64 pXdvCcDeferWrite = 0x0000000000000000; // 0

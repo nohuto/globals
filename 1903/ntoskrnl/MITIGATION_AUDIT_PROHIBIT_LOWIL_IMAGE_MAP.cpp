@@ -1,0 +1,2 @@
+// RVA 0x395E60, .rdata
+unsigned char MITIGATION_AUDIT_PROHIBIT_LOWIL_IMAGE_MAP = 0x05; // 5

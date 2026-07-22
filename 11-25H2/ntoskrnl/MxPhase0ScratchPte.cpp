@@ -1,0 +1,2 @@
+// RVA 0x10076C8, INITDATA
+__int64 MxPhase0ScratchPte = 0x0000000000000000; // 0

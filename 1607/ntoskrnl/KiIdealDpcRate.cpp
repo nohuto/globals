@@ -1,0 +1,2 @@
+// RVA 0x3A910C, ALMOSTRO
+int KiIdealDpcRate = 0x00000014; // 20

@@ -1,0 +1,2 @@
+// RVA 0x2D5EB8, .rdata
+unsigned char POP_ETW_EVENT_S4_TRIP_POINT_DIAGNOSTIC = 0x57; // 87

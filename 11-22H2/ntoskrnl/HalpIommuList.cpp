@@ -1,0 +1,2 @@
+// RVA 0xC61D90, .data
+ULONG_PTR HalpIommuList = 0x0000000000000000; // 0

@@ -1,0 +1,3 @@
+// RVA 0x256AFC, .data
+// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUwvorevibUhvieviUhbhgvnUlyquivUznwGEUkxsOlyq@InputDeliveryServer
+unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUwvorevibUhvieviUhbhgvnUlyquivUznwGEUkxsOlyq_InputDeliveryServer = 0x00; // 0

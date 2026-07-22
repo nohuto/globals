@@ -1,0 +1,2 @@
+// RVA 0xFFD148, PAGEVRFD
+__int64 pXdvKeInitializeEvent = 0x0000000000000000; // 0

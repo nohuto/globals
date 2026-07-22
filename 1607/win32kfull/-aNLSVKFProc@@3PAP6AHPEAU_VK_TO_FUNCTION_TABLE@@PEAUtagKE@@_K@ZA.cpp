@@ -1,0 +1,3 @@
+// RVA 0x2E63A0, .rdata
+// Symbol: ?aNLSVKFProc@@3PAP6AHPEAU_VK_TO_FUNCTION_TABLE@@PEAUtagKE@@_K@ZA
+int (* near *_aNLSVKFProc__3PAP6AHPEAU_VK_TO_FUNCTION_TABLE__PEAUtagKE___K_ZA)(struct _VK_TO_FUNCTION_TABLE *, struct tagKE *, unsigned __int64) = reinterpret_cast<decltype(_aNLSVKFProc__3PAP6AHPEAU_VK_TO_FUNCTION_TABLE__PEAUtagKE___K_ZA)>(0x00000001C0136250); // 7517463120

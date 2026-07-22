@@ -1,0 +1,3 @@
+// RVA 0x1F7558, .rdata
+// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIRawInputProvider@@UIMouseProcessorForwarding@@VMPCInputProviderBase@@@WRL@Microsoft@@6BIRawInputProvider@@@
+void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIRawInputProvider__UIMouseProcessorForwarding__VMPCInputProviderBase___WRL_Microsoft__6BIRawInputProvider___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIRawInputProvider__UIMouseProcessorForwarding__VMPCInputProviderBase___WRL_Microsoft__6BIRawInputProvider___)>(0x000000018001F210); // 6442578448

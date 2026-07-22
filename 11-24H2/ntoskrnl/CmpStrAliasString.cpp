@@ -1,0 +1,2 @@
+// RVA 0xC73EB0, INIT
+__int64 CmpStrAliasString = 0x00000000000C000A; // 786442

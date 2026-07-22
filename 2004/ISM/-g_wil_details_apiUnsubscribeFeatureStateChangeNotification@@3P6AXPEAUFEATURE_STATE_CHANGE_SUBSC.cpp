@@ -1,0 +1,3 @@
+// RVA 0x209358, .data
+// Symbol: ?g_wil_details_apiUnsubscribeFeatureStateChangeNotification@@3P6AXPEAUFEATURE_STATE_CHANGE_SUBSCRIPTION__@@@ZEA
+void (*_g_wil_details_apiUnsubscribeFeatureStateChangeNotification__3P6AXPEAUFEATURE_STATE_CHANGE_SUBSCRIPTION_____ZEA)(struct FEATURE_STATE_CHANGE_SUBSCRIPTION__ *) = reinterpret_cast<decltype(_g_wil_details_apiUnsubscribeFeatureStateChangeNotification__3P6AXPEAUFEATURE_STATE_CHANGE_SUBSCRIPTION_____ZEA)>(0x0000000000000000); // 0

@@ -1,0 +1,2 @@
+// RVA 0x7175C0, INITDATA
+__int64 VpPoolHitTag = 0x0000000000000000; // 0

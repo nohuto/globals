@@ -1,0 +1,2 @@
+// RVA 0x101F20, .rdata
+unsigned char SLEEPSTUDY_EVT_SCENARIO_BLOCKER = 0x01; // 1

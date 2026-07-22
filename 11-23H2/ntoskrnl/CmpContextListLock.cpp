@@ -1,0 +1,2 @@
+// RVA 0xC14828, .data
+ULONG_PTR CmpContextListLock = 0x0000000000000000; // 0

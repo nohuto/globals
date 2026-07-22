@@ -1,0 +1,5 @@
+// RVA 0x357550, .rdata
+// Type: PUART_HARDWARE_DRIVER[]
+unsigned char UartHardwareDrivers[0x8] = {
+    0x40, 0x27, 0x40, 0x40, 0x01
+};

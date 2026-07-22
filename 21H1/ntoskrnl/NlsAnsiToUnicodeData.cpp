@@ -1,0 +1,2 @@
+// RVA 0xD2C108, PAGEDATA
+__int64 NlsAnsiToUnicodeData = 0x0000000000000000; // 0

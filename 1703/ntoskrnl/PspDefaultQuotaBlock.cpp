@@ -1,0 +1,2 @@
+// RVA 0x7ACDA8, PAGEDATA
+__int64 PspDefaultQuotaBlock = 0x0000000000000000; // 0

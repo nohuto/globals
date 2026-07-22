@@ -1,0 +1,2 @@
+// RVA 0x319AE0, .data
+__int64 gLCIDSentToShell = 0x0000000000000000; // 0

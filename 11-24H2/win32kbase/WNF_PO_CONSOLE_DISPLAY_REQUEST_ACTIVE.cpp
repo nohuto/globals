@@ -1,0 +1,2 @@
+// RVA 0x26B858, .rdata
+unsigned char WNF_PO_CONSOLE_DISPLAY_REQUEST_ACTIVE = 0x75; // 117

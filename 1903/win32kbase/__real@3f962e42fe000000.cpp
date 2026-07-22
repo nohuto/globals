@@ -1,0 +1,3 @@
+// RVA 0x1DC1C0, .rdata
+// Symbol: __real@3f962e42fe000000
+const double __real_3f962e42fe000000 = 0.021660849335603416; // 0.021660849335603416

@@ -1,0 +1,2 @@
+// RVA 0xFE5120, PAGEVRFD
+__int64 pXdvRtlCheckRegistryKey = 0x0000000000000000; // 0

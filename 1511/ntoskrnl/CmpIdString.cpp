@@ -1,0 +1,2 @@
+// RVA 0x78A510, INIT
+__int64 CmpIdString = 0x0000000000060004; // 393220

@@ -1,0 +1,2 @@
+// RVA 0xC97F8, .rdata
+unsigned char OpenVirtualGpuStart = 0xC6; // 198

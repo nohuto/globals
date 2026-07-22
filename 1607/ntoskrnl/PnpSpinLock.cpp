@@ -1,0 +1,2 @@
+// RVA 0x31E550, .data
+KSPIN_LOCK PnpSpinLock = 0x0000000000000000; // 0

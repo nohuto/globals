@@ -1,0 +1,3 @@
+// RVA 0x1EACC0, .rdata
+// Symbol: ?Methods@?$IInputSystemInternalProxy_Receive@VBamoInputSystemInternalProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
+__int64 (__fastcall *_Methods___IInputSystemInternalProxy_Receive_VBamoInputSystemInternalProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IInputSystemInternalProxy_Receive_VBamoInputSystemInternalProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x000000018012A160); // 6443671904

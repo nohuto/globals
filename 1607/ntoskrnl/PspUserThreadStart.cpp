@@ -1,0 +1,2 @@
+// RVA 0x747F88, PAGEDATA
+__int64 PspUserThreadStart = 0x0000000000000000; // 0

@@ -1,0 +1,2 @@
+// RVA 0x34A340, .data
+ULONG_PTR PpmCheckStartDpc = 0x0000000000000000; // 0

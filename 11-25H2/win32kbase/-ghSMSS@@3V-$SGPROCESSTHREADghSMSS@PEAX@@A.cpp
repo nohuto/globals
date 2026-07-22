@@ -1,0 +1,3 @@
+// RVA 0x29F883, .data
+// Symbol: ?ghSMSS@@3V?$SGPROCESSTHREADghSMSS@PEAX@@A
+unsigned char _ghSMSS__3V__SGPROCESSTHREADghSMSS_PEAX__A = 0x00; // 0
