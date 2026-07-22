@@ -2,7 +2,7 @@
 
 Global = data object stored at a fixed location. This was created using IDA by combining matching PDB symbols & types with PE metadata.
 
-Used for the [diff](https://noverse.dev/diff) section, each file can include a symbol name, RVA, PE section, type, storage size, initial value (decimal as comment). Note that init value doesn't always equal to the current value, as for example the PE has `KeMaximumIncrement` of `0`, and during the kernel init it gets changed.
+Used for the [diff](https://noverse.dev/diff) section, each file can include a symbol name, RVA, PE section, type, storage size, initial value (decimal as comment). Note that the init value doesn't always equal to the current value, as for example the PE has `KeMaximumIncrement` of `0`, and during the kernel init it gets changed.
 
 ```cpp
 // RVA 0xD1EA54, ALMOSTRO
