@@ -1,3 +1,0 @@
-// RVA 0x1E4568, .rdata
-// Symbol: ??_7BamoPeer@ISMBamos_AutoBamos@@6B@
-void *___7BamoPeer_ISMBamos_AutoBamos__6B_ = reinterpret_cast<decltype(___7BamoPeer_ISMBamos_AutoBamos__6B_)>(0x0000000180072EE0); // 6442921696

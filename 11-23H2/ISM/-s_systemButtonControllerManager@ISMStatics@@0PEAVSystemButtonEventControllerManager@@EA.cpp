@@ -1,3 +1,0 @@
-// RVA 0x2689A8, .data
-// Symbol: ?s_systemButtonControllerManager@ISMStatics@@0PEAVSystemButtonEventControllerManager@@EA
-struct SystemButtonEventControllerManager *_s_systemButtonControllerManager_ISMStatics__0PEAVSystemButtonEventControllerManager__EA = reinterpret_cast<decltype(_s_systemButtonControllerManager_ISMStatics__0PEAVSystemButtonEventControllerManager__EA)>(0x0000000000000000); // 0

@@ -1,3 +1,0 @@
-// RVA 0x20A4C8, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUfgrorgrvhUhbhgvnxlmgvcgkilerwviUoryUlyquivUznwGEUkivxlnkOlyq@SystemContextProvider
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUfgrorgrvhUhbhgvnxlmgvcgkilerwviUoryUlyquivUznwGEUkivxlnkOlyq_SystemContextProvider = 0x00; // 0

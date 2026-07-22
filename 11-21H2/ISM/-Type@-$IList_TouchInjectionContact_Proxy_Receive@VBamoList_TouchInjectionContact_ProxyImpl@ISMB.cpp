@@ -1,3 +1,0 @@
-// RVA 0x1E23E0, .rdata
-// Symbol: ?Type@?$IList_TouchInjectionContact_Proxy_Receive@VBamoList_TouchInjectionContact_ProxyImpl@ISMBamos_AutoBamos@BamoImpl@Lib@Bamo@Microsoft@@@ISMBamos_AutoBamos@Lib@Bamo@Microsoft@@2UMsgCallTypeDefinition@@B
-unsigned char _Type___IList_TouchInjectionContact_Proxy_Receive_VBamoList_TouchInjectionContact_ProxyImpl_ISMBamos_AutoBamos_BamoImpl_Lib_Bamo_Microsoft___ISMBamos_AutoBamos_Lib_Bamo_Microsoft__2UMsgCallTypeDefinition__B = 0x01; // 1

@@ -1,3 +1,0 @@
-// RVA 0x2145F3, .rdata
-// Symbol: ?_tlgEvent@?6??LogOnOcclusionRectsChanging@BamoSystemContextEndpointPrincipal@@AEAAXPEAVBamoSystemContextEndpointStub@@PEAVBamoList_DisplayOcclusionRect_Proxy@ISMBamos_AutoBamos@Lib@Bamo@Microsoft@@@Z@4U_unnamed_type__tlgEvent_@?6??12@AEAAX01@Z@B
-unsigned char __tlgEvent__6__LogOnOcclusionRectsChanging_BamoSystemContextEndpointPrincipal__AEAAXPEAVBamoSystemContextEndpointStub__PEAVBamoList_DisplayOcclusionRect_Proxy_ISMBamos_AutoBamos_Lib_Bamo_Microsoft___Z_4U_unnamed_type__tlgEvent___6__12_AEAAX01_Z_B = 0x06; // 6

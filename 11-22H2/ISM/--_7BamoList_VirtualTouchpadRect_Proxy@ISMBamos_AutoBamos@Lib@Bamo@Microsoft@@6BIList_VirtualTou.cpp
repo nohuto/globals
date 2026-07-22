@@ -1,3 +1,0 @@
-// RVA 0x214CE0, .rdata
-// Symbol: ??_7BamoList_VirtualTouchpadRect_Proxy@ISMBamos_AutoBamos@Lib@Bamo@Microsoft@@6BIList_VirtualTouchpadRect_Proxy@1234@@
-void *___7BamoList_VirtualTouchpadRect_Proxy_ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_VirtualTouchpadRect_Proxy_1234__ = reinterpret_cast<decltype(___7BamoList_VirtualTouchpadRect_Proxy_ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_VirtualTouchpadRect_Proxy_1234__)>(0x000000018007B810); // 6442956816

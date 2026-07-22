@@ -1,3 +1,0 @@
-// RVA 0x1B09D0, .rdata
-// Symbol: ??_7?$_Ref_count_obj@VAsynchronousWorkItem@SpatialInteractionSourceDeviceCollection@SpatialInteractions@Internal@Windows@@@std@@6B@
-void *___7___Ref_count_obj_VAsynchronousWorkItem_SpatialInteractionSourceDeviceCollection_SpatialInteractions_Internal_Windows___std__6B_ = reinterpret_cast<decltype(___7___Ref_count_obj_VAsynchronousWorkItem_SpatialInteractionSourceDeviceCollection_SpatialInteractions_Internal_Windows___std__6B_)>(0x00000001800D3780); // 6443317120

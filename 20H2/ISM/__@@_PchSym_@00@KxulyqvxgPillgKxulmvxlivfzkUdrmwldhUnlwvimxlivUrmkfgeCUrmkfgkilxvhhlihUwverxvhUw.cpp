@@ -1,3 +1,0 @@
-// RVA 0x209460, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUwlxpUpvbylziwzkrUhvieviUlyquivUznwGEUkivxlnkOlyq@KeyboardDockServer
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUwlxpUpvbylziwzkrUhvieviUlyquivUznwGEUkivxlnkOlyq_KeyboardDockServer = 0x00; // 0

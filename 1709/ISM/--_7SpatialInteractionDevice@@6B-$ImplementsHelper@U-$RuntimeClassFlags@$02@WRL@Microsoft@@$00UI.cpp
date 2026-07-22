@@ -1,3 +1,0 @@
-// RVA 0xD7120, .rdata
-// Symbol: ??_7SpatialInteractionDevice@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$02@WRL@Microsoft@@$00UISpatialInteractionDevicePrivate@@@Details@WRL@Microsoft@@@
-void *___7SpatialInteractionDevice__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00UISpatialInteractionDevicePrivate___Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7SpatialInteractionDevice__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00UISpatialInteractionDevicePrivate___Details_WRL_Microsoft___)>(0x0000000180075D00); // 6442933504

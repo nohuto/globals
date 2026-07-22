@@ -1,3 +1,0 @@
-// RVA 0x202940, .rdata
-// Symbol: ?Methods@?$IGestureServicesPrincipal_Receive@VBamoGestureServicesPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IGestureServicesPrincipal_Receive_VBamoGestureServicesPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IGestureServicesPrincipal_Receive_VBamoGestureServicesPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180153F10); // 6443843344

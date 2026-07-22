@@ -1,3 +1,0 @@
-// RVA 0x1A9298, .rdata
-// Symbol: ??_7BamoDragNDropContextualProcessorPrincipal@@6BIDragNDropContextualProcessorPrincipal@@@
-void *___7BamoDragNDropContextualProcessorPrincipal__6BIDragNDropContextualProcessorPrincipal___ = reinterpret_cast<decltype(___7BamoDragNDropContextualProcessorPrincipal__6BIDragNDropContextualProcessorPrincipal___)>(0x000000018004B490); // 6442759312

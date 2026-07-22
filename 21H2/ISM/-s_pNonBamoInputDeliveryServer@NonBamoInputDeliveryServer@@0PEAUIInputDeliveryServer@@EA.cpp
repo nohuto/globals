@@ -1,3 +1,0 @@
-// RVA 0x209A50, .data
-// Symbol: ?s_pNonBamoInputDeliveryServer@NonBamoInputDeliveryServer@@0PEAUIInputDeliveryServer@@EA
-struct IInputDeliveryServer *_s_pNonBamoInputDeliveryServer_NonBamoInputDeliveryServer__0PEAUIInputDeliveryServer__EA = reinterpret_cast<decltype(_s_pNonBamoInputDeliveryServer_NonBamoInputDeliveryServer__0PEAUIInputDeliveryServer__EA)>(0x0000000000000000); // 0

@@ -1,3 +1,0 @@
-// RVA 0x1E7040, .rdata
-// Symbol: ?Methods@?$IDeviceDockServerPrincipal_Receive@VBamoDeviceDockServerPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IDeviceDockServerPrincipal_Receive_VBamoDeviceDockServerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IDeviceDockServerPrincipal_Receive_VBamoDeviceDockServerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180180320); // 6444024608

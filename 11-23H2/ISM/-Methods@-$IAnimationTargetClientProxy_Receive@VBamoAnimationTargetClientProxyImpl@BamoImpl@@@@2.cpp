@@ -1,3 +1,0 @@
-// RVA 0x2029D0, .rdata
-// Symbol: ?Methods@?$IAnimationTargetClientProxy_Receive@VBamoAnimationTargetClientProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IAnimationTargetClientProxy_Receive_VBamoAnimationTargetClientProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IAnimationTargetClientProxy_Receive_VBamoAnimationTargetClientProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180054F00); // 6442798848

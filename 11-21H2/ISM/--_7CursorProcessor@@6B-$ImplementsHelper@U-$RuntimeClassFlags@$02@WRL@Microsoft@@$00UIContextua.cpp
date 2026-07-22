@@ -1,3 +1,0 @@
-// RVA 0x1E9150, .rdata
-// Symbol: ??_7CursorProcessor@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$02@WRL@Microsoft@@$00UIContextualProcessor@@UIWeakReferenceSource@@VFtmBase@23@@Details@WRL@Microsoft@@@
-void *___7CursorProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00UIContextualProcessor__UIWeakReferenceSource__VFtmBase_23__Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7CursorProcessor__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00UIContextualProcessor__UIWeakReferenceSource__VFtmBase_23__Details_WRL_Microsoft___)>(0x0000000180050DA0); // 6442782112

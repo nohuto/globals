@@ -1,3 +1,0 @@
-// RVA 0x1AEC30, .rdata
-// Symbol: ?Methods@?$ICursorSuppressionPolicyObjectProxy_Receive@VBamoCursorSuppressionPolicyObjectProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___ICursorSuppressionPolicyObjectProxy_Receive_VBamoCursorSuppressionPolicyObjectProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___ICursorSuppressionPolicyObjectProxy_Receive_VBamoCursorSuppressionPolicyObjectProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x00000001800ED0C0); // 6443421888

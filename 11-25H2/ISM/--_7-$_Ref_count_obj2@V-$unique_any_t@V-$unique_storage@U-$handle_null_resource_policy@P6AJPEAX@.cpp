@@ -1,3 +1,0 @@
-// RVA 0x1D9D00, .rdata
-// Symbol: ??_7?$_Ref_count_obj2@V?$unique_any_t@V?$unique_storage@U?$handle_null_resource_policy@P6AJPEAX@Z$1?NtCloseCompositionInputSink@@YAJ0@Z@details@wil@@@details@wil@@@wil@@@std@@6B@
-void *___7___Ref_count_obj2_V__unique_any_t_V__unique_storage_U__handle_null_resource_policy_P6AJPEAX_Z_1_NtCloseCompositionInputSink__YAJ0_Z_details_wil___details_wil___wil___std__6B_ = reinterpret_cast<decltype(___7___Ref_count_obj2_V__unique_any_t_V__unique_storage_U__handle_null_resource_policy_P6AJPEAX_Z_1_NtCloseCompositionInputSink__YAJ0_Z_details_wil___details_wil___wil___std__6B_)>(0x0000000180076000); // 6442934272

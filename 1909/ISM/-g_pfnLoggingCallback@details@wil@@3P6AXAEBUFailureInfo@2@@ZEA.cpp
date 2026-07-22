@@ -1,3 +1,0 @@
-// RVA 0x1E1770, .data
-// Symbol: ?g_pfnLoggingCallback@details@wil@@3P6AXAEBUFailureInfo@2@@ZEA
-void (*_g_pfnLoggingCallback_details_wil__3P6AXAEBUFailureInfo_2__ZEA)(const struct wil::FailureInfo *) = reinterpret_cast<decltype(_g_pfnLoggingCallback_details_wil__3P6AXAEBUFailureInfo_2__ZEA)>(0x0000000000000000); // 0

@@ -1,3 +1,0 @@
-// RVA 0x1CBBC1, .rdata
-// Symbol: ?_tlgEvent@?3??SpatialObjectStartTracking_@SpatialInteractionTrace@SpatialInteractionDevices@@QEAAXAEBU_GUID@@JW4SPATIAL_TRACKING_STATE@@AEBUDynamicNodeInfo@Holographic@Internal@Windows@@@Z@4U_unnamed_type__tlgEvent_@?3??123@QEAAX0J12@Z@B
-unsigned char __tlgEvent__3__SpatialObjectStartTracking__SpatialInteractionTrace_SpatialInteractionDevices__QEAAXAEBU_GUID__JW4SPATIAL_TRACKING_STATE__AEBUDynamicNodeInfo_Holographic_Internal_Windows___Z_4U_unnamed_type__tlgEvent___3__123_QEAAX0J12_Z_B = 0x06; // 6

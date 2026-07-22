@@ -1,3 +1,0 @@
-// RVA 0xF2894, .rdata
-// Symbol: ?_TlgEvent@?3??ControllerNodeStartTracking_@SpatialInteractionTrace@SpatialInteractionDevices@@QEAAXJKW4SPATIAL_TRACKING_STATE@@_NKAEBUDynamicNodeInfo@Holographic@Internal@Windows@@@Z@4U_unnamed_type__TlgEvent_@?3??123@QEAAXJK01K2@Z@B
-unsigned char __TlgEvent__3__ControllerNodeStartTracking__SpatialInteractionTrace_SpatialInteractionDevices__QEAAXJKW4SPATIAL_TRACKING_STATE___NKAEBUDynamicNodeInfo_Holographic_Internal_Windows___Z_4U_unnamed_type__TlgEvent___3__123_QEAAXJK01K2_Z_B = 0x03; // 3

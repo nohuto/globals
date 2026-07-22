@@ -1,3 +1,0 @@
-// RVA 0x1B7898, .rdata
-// Symbol: ??_7HapticsEngine@SpatialInteractions@Internal@Windows@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$02@WRL@Microsoft@@$00U?$ImplementsMarker@VFtmBase@WRL@Microsoft@@@Details@23@@Details@WRL@Microsoft@@@
-void *___7HapticsEngine_SpatialInteractions_Internal_Windows__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00U__ImplementsMarker_VFtmBase_WRL_Microsoft___Details_23__Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7HapticsEngine_SpatialInteractions_Internal_Windows__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00U__ImplementsMarker_VFtmBase_WRL_Microsoft___Details_23__Details_WRL_Microsoft___)>(0x000000018004CC10); // 6442765328

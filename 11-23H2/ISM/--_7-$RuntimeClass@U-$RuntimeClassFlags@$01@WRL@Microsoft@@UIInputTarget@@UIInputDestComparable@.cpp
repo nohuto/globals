@@ -1,3 +1,0 @@
-// RVA 0x1FB260, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIInputTarget@@UIInputDestComparable@@UIInputSiteTarget@@@WRL@Microsoft@@6BIInputDestComparable@@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIInputTarget__UIInputDestComparable__UIInputSiteTarget___WRL_Microsoft__6BIInputDestComparable___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIInputTarget__UIInputDestComparable__UIInputSiteTarget___WRL_Microsoft__6BIInputDestComparable___)>(0x00000001800669B0); // 6442871216

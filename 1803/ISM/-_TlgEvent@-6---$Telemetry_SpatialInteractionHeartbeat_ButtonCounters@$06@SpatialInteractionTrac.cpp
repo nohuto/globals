@@ -1,3 +1,0 @@
-// RVA 0x112C6C, .rdata
-// Symbol: ?_TlgEvent@?6???$Telemetry_SpatialInteractionHeartbeat_ButtonCounters@$06@SpatialInteractionTrace@SpatialInteractionDevices@@SAXAEBU_GUID@@GGGIAEAY06$$CBW4ButtonFlags@2@AEAY06$$CBI@Z@4U_unnamed_type__TlgEvent_@?6???$Telemetry_SpatialInteractionHeartbeat_ButtonCounters@$06@12@SAX0GGGI12@Z@B
-unsigned char __TlgEvent__6____Telemetry_SpatialInteractionHeartbeat_ButtonCounters__06_SpatialInteractionTrace_SpatialInteractionDevices__SAXAEBU_GUID__GGGIAEAY06__CBW4ButtonFlags_2_AEAY06__CBI_Z_4U_unnamed_type__TlgEvent___6____Telemetry_SpatialInteractionHeartbeat_ButtonCounters__06_12_SAX0GGGI12_Z_B = 0x03; // 3

@@ -1,3 +1,0 @@
-// RVA 0x209464, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUtzavUsrwUoryUlyquivUznwGEUkivxlnkOlyq@GazeHidParser
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUtzavUsrwUoryUlyquivUznwGEUkivxlnkOlyq_GazeHidParser = 0x00; // 0

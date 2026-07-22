@@ -1,3 +1,0 @@
-// RVA 0x209478, .rdata
-// Symbol: ??_7HomeGestureReadyChangedEventArgs@@6BIHomeGestureReadyChangedEventArgs@MPCManager@Input@Internal@Windows@@@
-void *___7HomeGestureReadyChangedEventArgs__6BIHomeGestureReadyChangedEventArgs_MPCManager_Input_Internal_Windows___ = reinterpret_cast<decltype(___7HomeGestureReadyChangedEventArgs__6BIHomeGestureReadyChangedEventArgs_MPCManager_Input_Internal_Windows___)>(0x000000018017BDA0); // 6444006816

@@ -1,3 +1,0 @@
-// RVA 0x207D40, .rdata
-// Symbol: ??_7?$ListPrincipal@UVirtualTouchpadRect@@@ISMBamos_AutoBamos@Lib@Bamo@Microsoft@@6BIList_VirtualTouchpadRect_Principal@1234@@
-void *___7__ListPrincipal_UVirtualTouchpadRect___ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_VirtualTouchpadRect_Principal_1234__ = reinterpret_cast<decltype(___7__ListPrincipal_UVirtualTouchpadRect___ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_VirtualTouchpadRect_Principal_1234__)>(0x0000000180067D50); // 6442876240

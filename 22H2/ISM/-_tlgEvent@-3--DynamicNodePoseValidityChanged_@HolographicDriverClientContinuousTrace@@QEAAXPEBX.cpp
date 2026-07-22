@@ -1,3 +1,0 @@
-// RVA 0x1CFE55, .rdata
-// Symbol: ?_tlgEvent@?3??DynamicNodePoseValidityChanged_@HolographicDriverClientContinuousTrace@@QEAAXPEBXAEBUSPATIAL_NODE_ID@@W4SPATIAL_TRACKING_VALIDITY_FLAGS@@_N@Z@4U_unnamed_type__tlgEvent_@?3??12@QEAAX0123@Z@B
-unsigned char __tlgEvent__3__DynamicNodePoseValidityChanged__HolographicDriverClientContinuousTrace__QEAAXPEBXAEBUSPATIAL_NODE_ID__W4SPATIAL_TRACKING_VALIDITY_FLAGS___N_Z_4U_unnamed_type__tlgEvent___3__12_QEAAX0123_Z_B = 0x06; // 6

@@ -1,3 +1,0 @@
-// RVA 0x1AD060, .rdata
-// Symbol: ??_7ISMHeatFrameworkHost@@6BIHeatFrameworkHost@@@
-void *___7ISMHeatFrameworkHost__6BIHeatFrameworkHost___ = reinterpret_cast<decltype(___7ISMHeatFrameworkHost__6BIHeatFrameworkHost___)>(0x000000018012D4C0); // 6443685056

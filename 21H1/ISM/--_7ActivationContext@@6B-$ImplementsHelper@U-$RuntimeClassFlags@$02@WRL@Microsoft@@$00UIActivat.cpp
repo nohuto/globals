@@ -1,3 +1,0 @@
-// RVA 0x1B8B10, .rdata
-// Symbol: ??_7ActivationContext@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$02@WRL@Microsoft@@$00UIActivationContext@@UIWeakReferenceSource@@VFtmBase@23@@Details@WRL@Microsoft@@@
-void *___7ActivationContext__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00UIActivationContext__UIWeakReferenceSource__VFtmBase_23__Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7ActivationContext__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00UIActivationContext__UIWeakReferenceSource__VFtmBase_23__Details_WRL_Microsoft___)>(0x000000018004D300); // 6442767104

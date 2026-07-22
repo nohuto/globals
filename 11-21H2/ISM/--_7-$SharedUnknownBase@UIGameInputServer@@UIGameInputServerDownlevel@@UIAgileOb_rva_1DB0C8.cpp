@@ -1,3 +1,0 @@
-// RVA 0x1DB0C8, .rdata
-// Symbol: ??_7?$SharedUnknownBase@UIGameInputServer@@UIGameInputServerDownlevel@@UIAgileObject@@UINoMarshal@@@@6BIGameInputServerDownlevel@@@
-void *___7__SharedUnknownBase_UIGameInputServer__UIGameInputServerDownlevel__UIAgileObject__UINoMarshal____6BIGameInputServerDownlevel___ = reinterpret_cast<decltype(___7__SharedUnknownBase_UIGameInputServer__UIGameInputServerDownlevel__UIAgileObject__UINoMarshal____6BIGameInputServerDownlevel___)>(0x0000000180050240); // 6442779200

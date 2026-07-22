@@ -1,3 +1,0 @@
-// RVA 0x1E82E0, .rdata
-// Symbol: ?Methods@?$IInputProcessManagerPrincipal_Receive@VBamoInputProcessManagerPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IInputProcessManagerPrincipal_Receive_VBamoInputProcessManagerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IInputProcessManagerPrincipal_Receive_VBamoInputProcessManagerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180194A70); // 6444108400

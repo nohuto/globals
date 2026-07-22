@@ -1,3 +1,0 @@
-// RVA 0x26985C, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgslhgUxlnklmvmghUfrzsrggvhgUhvieviUlyquivUznwGEUkxsOlyq@UIAHitTestServer
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgslhgUxlnklmvmghUfrzsrggvhgUhvieviUlyquivUznwGEUkxsOlyq_UIAHitTestServer = 0x00; // 0

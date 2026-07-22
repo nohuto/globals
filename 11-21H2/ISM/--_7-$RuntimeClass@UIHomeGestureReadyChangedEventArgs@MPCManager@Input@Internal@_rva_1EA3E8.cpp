@@ -1,3 +1,0 @@
-// RVA 0x1EA3E8, .rdata
-// Symbol: ??_7?$RuntimeClass@UIHomeGestureReadyChangedEventArgs@MPCManager@Input@Internal@Windows@@@WRL@Microsoft@@6BIHomeGestureReadyChangedEventArgs@MPCManager@Input@Internal@Windows@@@
-void *___7__RuntimeClass_UIHomeGestureReadyChangedEventArgs_MPCManager_Input_Internal_Windows___WRL_Microsoft__6BIHomeGestureReadyChangedEventArgs_MPCManager_Input_Internal_Windows___ = reinterpret_cast<decltype(___7__RuntimeClass_UIHomeGestureReadyChangedEventArgs_MPCManager_Input_Internal_Windows___WRL_Microsoft__6BIHomeGestureReadyChangedEventArgs_MPCManager_Input_Internal_Windows___)>(0x000000018015C980); // 6443878784

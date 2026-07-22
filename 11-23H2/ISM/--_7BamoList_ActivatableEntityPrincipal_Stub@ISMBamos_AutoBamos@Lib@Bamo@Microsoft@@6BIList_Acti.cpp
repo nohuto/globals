@@ -1,3 +1,0 @@
-// RVA 0x1F75E0, .rdata
-// Symbol: ??_7BamoList_ActivatableEntityPrincipal_Stub@ISMBamos_AutoBamos@Lib@Bamo@Microsoft@@6BIList_ActivatableEntityPrincipal_Stub@1234@@
-void *___7BamoList_ActivatableEntityPrincipal_Stub_ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_ActivatableEntityPrincipal_Stub_1234__ = reinterpret_cast<decltype(___7BamoList_ActivatableEntityPrincipal_Stub_ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_ActivatableEntityPrincipal_Stub_1234__)>(0x0000000180065C50); // 6442867792

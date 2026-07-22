@@ -1,3 +1,0 @@
-// RVA 0x256BD8, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUszkgrxUzkrUhvieviUlyquivUznwGEUkivxlnkOlyq@HapticDeviceServer
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUszkgrxUzkrUhvieviUlyquivUznwGEUkivxlnkOlyq_HapticDeviceServer = 0x00; // 0

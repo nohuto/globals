@@ -1,3 +1,0 @@
-// RVA 0x222D72, .rdata
-// Symbol: ?_tlgEvent@?3??VirtualTouchpadController@VirtualTouchpad@InputTraceLogging@@SAXUVPTP_ID@@AEBUtagRECT@@AEBUtagVIRTUAL_PTP_CONFIG@@AEBUVirtualTouchpadSize@Input@Internal@UI@Windows@@AEBUPhysicalClickZone@89UI@Windows@@4@Z@4U_unnamed_type__tlgEvent_@?3??123@SAX012344@Z@B
-unsigned char __tlgEvent__3__VirtualTouchpadController_VirtualTouchpad_InputTraceLogging__SAXUVPTP_ID__AEBUtagRECT__AEBUtagVIRTUAL_PTP_CONFIG__AEBUVirtualTouchpadSize_Input_Internal_UI_Windows__AEBUPhysicalClickZone_89UI_Windows__4_Z_4U_unnamed_type__tlgEvent___3__123_SAX012344_Z_B = 0x06; // 6

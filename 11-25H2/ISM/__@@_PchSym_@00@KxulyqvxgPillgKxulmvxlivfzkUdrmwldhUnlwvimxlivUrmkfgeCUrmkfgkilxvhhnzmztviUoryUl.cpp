@@ -1,3 +1,0 @@
-// RVA 0x247BD0, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhnzmztviUoryUlyquivUznwGEUkxsOlyq@InputProcessManager
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhnzmztviUoryUlyquivUznwGEUkxsOlyq_InputProcessManager = 0x00; // 0

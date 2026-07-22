@@ -1,3 +1,0 @@
-// RVA 0x1ACAB0, .rdata
-// Symbol: ??_7MPCManagerClient@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$02@WRL@Microsoft@@$00UIWeakReferenceSource@@UIMPCManagerClient@MPCManager@Input@Internal@Windows@@UIMPCManagerConnection@6789@@Details@WRL@Microsoft@@@
-void *___7MPCManagerClient__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00UIWeakReferenceSource__UIMPCManagerClient_MPCManager_Input_Internal_Windows__UIMPCManagerConnection_6789__Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7MPCManagerClient__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00UIWeakReferenceSource__UIMPCManagerClient_MPCManager_Input_Internal_Windows__UIMPCManagerConnection_6789__Details_WRL_Microsoft___)>(0x000000018004C460); // 6442763360

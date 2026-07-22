@@ -1,3 +1,0 @@
-// RVA 0x1B1268, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIHidDevice@SpatialInteractions@Internal@Windows@@VFtmBase@23@@WRL@Microsoft@@6BIHidDevice@SpatialInteractions@Internal@Windows@@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIHidDevice_SpatialInteractions_Internal_Windows__VFtmBase_23__WRL_Microsoft__6BIHidDevice_SpatialInteractions_Internal_Windows___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIHidDevice_SpatialInteractions_Internal_Windows__VFtmBase_23__WRL_Microsoft__6BIHidDevice_SpatialInteractions_Internal_Windows___)>(0x0000000180095340); // 6443062080

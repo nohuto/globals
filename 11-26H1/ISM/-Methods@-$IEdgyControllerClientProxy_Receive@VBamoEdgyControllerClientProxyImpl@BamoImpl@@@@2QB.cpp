@@ -1,3 +1,0 @@
-// RVA 0x1EFB20, .rdata
-// Symbol: ?Methods@?$IEdgyControllerClientProxy_Receive@VBamoEdgyControllerClientProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IEdgyControllerClientProxy_Receive_VBamoEdgyControllerClientProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IEdgyControllerClientProxy_Receive_VBamoEdgyControllerClientProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x000000018015A430); // 6443869232

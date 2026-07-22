@@ -1,3 +1,0 @@
-// RVA 0x1F43D0, .rdata
-// Symbol: ?Methods@?$ISimpleHapticsControllerPrincipal_Receive@VBamoSimpleHapticsControllerPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___ISimpleHapticsControllerPrincipal_Receive_VBamoSimpleHapticsControllerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___ISimpleHapticsControllerPrincipal_Receive_VBamoSimpleHapticsControllerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x000000018018CD10); // 6444076304

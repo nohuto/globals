@@ -1,3 +1,0 @@
-// RVA 0x1AFDD0, .rdata
-// Symbol: ?Methods@?$IDragNDropContextualProcessorPrincipal_Receive@VBamoDragNDropContextualProcessorPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IDragNDropContextualProcessorPrincipal_Receive_VBamoDragNDropContextualProcessorPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IDragNDropContextualProcessorPrincipal_Receive_VBamoDragNDropContextualProcessorPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x00000001800F64F0); // 6443459824

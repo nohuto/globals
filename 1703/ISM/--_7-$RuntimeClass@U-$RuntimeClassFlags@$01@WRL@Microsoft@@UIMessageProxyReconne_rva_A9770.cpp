@@ -1,3 +1,0 @@
-// RVA 0xA9770, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIMessageProxyReconnectAdapter@@UIMessageProxyListener@@VNil@Details@23@V6723@V6723@V6723@V6723@V6723@V6723@@WRL@Microsoft@@6BIMessageProxyReconnectAdapter@@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIMessageProxyReconnectAdapter__UIMessageProxyListener__VNil_Details_23_V6723_V6723_V6723_V6723_V6723_V6723__WRL_Microsoft__6BIMessageProxyReconnectAdapter___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIMessageProxyReconnectAdapter__UIMessageProxyListener__VNil_Details_23_V6723_V6723_V6723_V6723_V6723_V6723__WRL_Microsoft__6BIMessageProxyReconnectAdapter___)>(0x0000000180096180); // 6443065728

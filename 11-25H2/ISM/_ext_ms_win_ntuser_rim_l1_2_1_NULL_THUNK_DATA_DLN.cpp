@@ -1,2 +1,0 @@
-// RVA 0x23E878, .rdata
-__int64 _ext_ms_win_ntuser_rim_l1_2_1_NULL_THUNK_DATA_DLN = 0x0000000000000000; // 0

@@ -1,3 +1,0 @@
-// RVA 0x278AD0, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUhgbofhUvevmghUhvieviUlyquivUznwGEUkxsOlyq@PenEventsServer
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUhgbofhUvevmghUhvieviUlyquivUznwGEUkxsOlyq_PenEventsServer = 0x00; // 0

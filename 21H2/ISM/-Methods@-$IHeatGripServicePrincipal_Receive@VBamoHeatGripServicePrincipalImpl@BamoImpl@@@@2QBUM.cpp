@@ -1,3 +1,0 @@
-// RVA 0x1B00D0, .rdata
-// Symbol: ?Methods@?$IHeatGripServicePrincipal_Receive@VBamoHeatGripServicePrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IHeatGripServicePrincipal_Receive_VBamoHeatGripServicePrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IHeatGripServicePrincipal_Receive_VBamoHeatGripServicePrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x000000018012B1A0); // 6443676064

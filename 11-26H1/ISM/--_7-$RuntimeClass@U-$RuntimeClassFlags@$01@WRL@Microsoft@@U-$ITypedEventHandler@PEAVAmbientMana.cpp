@@ -1,3 +1,0 @@
-// RVA 0x1E9988, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@U?$ITypedEventHandler@PEAVAmbientManager@Internal@Lights@Devices@Windows@@PEAVAmbientDeviceMappingChangedEventArgs@2345@@Foundation@Windows@@@WRL@Microsoft@@6B@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__U__ITypedEventHandler_PEAVAmbientManager_Internal_Lights_Devices_Windows__PEAVAmbientDeviceMappingChangedEventArgs_2345__Foundation_Windows___WRL_Microsoft__6B_ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__U__ITypedEventHandler_PEAVAmbientManager_Internal_Lights_Devices_Windows__PEAVAmbientDeviceMappingChangedEventArgs_2345__Foundation_Windows___WRL_Microsoft__6B_)>(0x00000001800E4550); // 6443386192

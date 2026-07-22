@@ -1,3 +1,0 @@
-// RVA 0x209504, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUizdrmkfgUnvgzwzgzUlyquivUznwGEUkxsOlyq@InfoMetadata
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUizdrmkfgUnvgzwzgzUlyquivUznwGEUkxsOlyq_InfoMetadata = 0x00; // 0

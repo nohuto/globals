@@ -1,3 +1,0 @@
-// RVA 0xD37E0, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIDisplayBinding@@UIInputDisplay@@UIPropertyChangedListener@Input@@UIInputDisplayOrientationListener@@@WRL@Microsoft@@6BIDisplayBinding@@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIDisplayBinding__UIInputDisplay__UIPropertyChangedListener_Input__UIInputDisplayOrientationListener___WRL_Microsoft__6BIDisplayBinding___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIDisplayBinding__UIInputDisplay__UIPropertyChangedListener_Input__UIInputDisplayOrientationListener___WRL_Microsoft__6BIDisplayBinding___)>(0x000000018001E160); // 6442574176

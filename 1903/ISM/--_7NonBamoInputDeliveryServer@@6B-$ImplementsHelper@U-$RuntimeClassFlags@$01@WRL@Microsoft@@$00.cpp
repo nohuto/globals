@@ -1,3 +1,0 @@
-// RVA 0x16BAB8, .rdata
-// Symbol: ??_7NonBamoInputDeliveryServer@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@$00UIInputServiceProxyOwner@@@Details@WRL@Microsoft@@@
-void *___7NonBamoInputDeliveryServer__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIInputServiceProxyOwner___Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7NonBamoInputDeliveryServer__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIInputServiceProxyOwner___Details_WRL_Microsoft___)>(0x00000001800396A0); // 6442686112

@@ -1,3 +1,0 @@
-// RVA 0x1F0828, .rdata
-// Symbol: ??_7?$RuntimeClass@UIHomeGestureReadyChangedEventArgs@MPCManager@Input@Internal@Windows@@@WRL@Microsoft@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$00@WRL@Microsoft@@$00UIWeakReferenceSource@@@Details@12@@
-void *___7__RuntimeClass_UIHomeGestureReadyChangedEventArgs_MPCManager_Input_Internal_Windows___WRL_Microsoft__6B__ImplementsHelper_U__RuntimeClassFlags__00_WRL_Microsoft___00UIWeakReferenceSource___Details_12__ = reinterpret_cast<decltype(___7__RuntimeClass_UIHomeGestureReadyChangedEventArgs_MPCManager_Input_Internal_Windows___WRL_Microsoft__6B__ImplementsHelper_U__RuntimeClassFlags__00_WRL_Microsoft___00UIWeakReferenceSource___Details_12__)>(0x00000001801685F0); // 6443927024

@@ -1,7 +1,0 @@
-// RVA 0xFE130, .rdata
-// Symbol: ?ProtocolId@?1??GetProtocolId@dataproviderBamoConnection@@EEBAAEBU_GUID@@XZ@4U3@B
-// Type: GUID
-unsigned char _ProtocolId__1__GetProtocolId_dataproviderBamoConnection__EEBAAEBU_GUID__XZ_4U3_B[0x10] = {
-    0x81, 0x41, 0x8F, 0x0D, 0x6D, 0x04, 0x4A, 0x66, 0x30, 0xD0, 0xEC, 0x20,
-    0x1F, 0x80, 0x3E, 0x3F
-};

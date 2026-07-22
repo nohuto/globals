@@ -1,3 +1,0 @@
-// RVA 0x17A320, .rdata
-// Symbol: ??_7?$ListPrincipal@VBamoPenDevicePrincipal@@@ISMBamos_AutoBamos@Lib@Bamo@Microsoft@@6BIList_PenDevicePrincipal_Principal@1234@@
-void *___7__ListPrincipal_VBamoPenDevicePrincipal___ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_PenDevicePrincipal_Principal_1234__ = reinterpret_cast<decltype(___7__ListPrincipal_VBamoPenDevicePrincipal___ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_PenDevicePrincipal_Principal_1234__)>(0x000000018003A1A0); // 6442688928

@@ -1,3 +1,0 @@
-// RVA 0x10EEC0, .data
-// Symbol: ?g_wil_details_pfnRtlUnsubscribeWnfNotificationWaitForCompletion@@3P6AJPEAU__WIL__WNF_USER_SUBSCRIPTION@@@ZEA
-int (*_g_wil_details_pfnRtlUnsubscribeWnfNotificationWaitForCompletion__3P6AJPEAU__WIL__WNF_USER_SUBSCRIPTION___ZEA)(struct __WIL__WNF_USER_SUBSCRIPTION *) = reinterpret_cast<decltype(_g_wil_details_pfnRtlUnsubscribeWnfNotificationWaitForCompletion__3P6AJPEAU__WIL__WNF_USER_SUBSCRIPTION___ZEA)>(0x0000000000000000); // 0

@@ -1,3 +1,0 @@
-// RVA 0x278A88, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlmgvcgfzokilxvhhlihUkilxvhhlihUvwtbUhbhgvnUoryUlyquivUznwGEUkxsOlyq@EdgyProcessor
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlmgvcgfzokilxvhhlihUkilxvhhlihUvwtbUhbhgvnUoryUlyquivUznwGEUkxsOlyq_EdgyProcessor = 0x00; // 0

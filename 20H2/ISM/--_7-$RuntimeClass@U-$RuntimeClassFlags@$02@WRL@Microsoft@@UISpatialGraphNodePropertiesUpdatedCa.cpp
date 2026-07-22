@@ -1,3 +1,0 @@
-// RVA 0x1B7960, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$02@WRL@Microsoft@@UISpatialGraphNodePropertiesUpdatedCallback@Holographic@Internal@Windows@@VFtmBase@23@@WRL@Microsoft@@6B@
-void *___7__RuntimeClass_U__RuntimeClassFlags__02_WRL_Microsoft__UISpatialGraphNodePropertiesUpdatedCallback_Holographic_Internal_Windows__VFtmBase_23__WRL_Microsoft__6B_ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__02_WRL_Microsoft__UISpatialGraphNodePropertiesUpdatedCallback_Holographic_Internal_Windows__VFtmBase_23__WRL_Microsoft__6B_)>(0x000000018016E170); // 6443950448

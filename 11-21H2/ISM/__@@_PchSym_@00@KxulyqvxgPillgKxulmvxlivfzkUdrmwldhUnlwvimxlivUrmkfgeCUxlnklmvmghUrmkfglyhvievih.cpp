@@ -1,3 +1,0 @@
-// RVA 0x2435E8, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlnklmvmghUrmkfglyhvievihUhvieviUlyquivUznwGEUkxsOlyq@InputObserverServer
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlnklmvmghUrmkfglyhvievihUhvieviUlyquivUznwGEUkxsOlyq_InputObserverServer = 0x00; // 0

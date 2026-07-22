@@ -1,3 +1,0 @@
-// RVA 0x1728F0, .rdata
-// Symbol: ?Methods@?$IBamoPeer_MPCManagerBamo_AutoBamos_Receive@VBamoPeerImpl@MPCManagerBamo_AutoBamos@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-_UNKNOWN *_Methods___IBamoPeer_MPCManagerBamo_AutoBamos_Receive_VBamoPeerImpl_MPCManagerBamo_AutoBamos_BamoImpl____2QBUMsgCallMethodDefinition__B = reinterpret_cast<decltype(_Methods___IBamoPeer_MPCManagerBamo_AutoBamos_Receive_VBamoPeerImpl_MPCManagerBamo_AutoBamos_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x000000018007F630); // 6442972720

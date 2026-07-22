@@ -1,2 +1,0 @@
-// RVA 0x10D000, .data
-REGHANDLE _MinInput_Context = 0x0000000000000000; // 0

@@ -1,3 +1,0 @@
-// RVA 0x2695F0, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUhbhgvnrmkfgilfgvihUnkxUoryUlyquivUznwGEUkivxlnkOlyq@MPCInputRouter
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUhbhgvnrmkfgilfgvihUnkxUoryUlyquivUznwGEUkivxlnkOlyq_MPCInputRouter = 0x00; // 0

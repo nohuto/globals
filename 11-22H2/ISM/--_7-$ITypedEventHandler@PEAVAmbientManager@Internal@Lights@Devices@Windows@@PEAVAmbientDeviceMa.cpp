@@ -1,3 +1,0 @@
-// RVA 0x20A478, .rdata
-// Symbol: ??_7?$ITypedEventHandler@PEAVAmbientManager@Internal@Lights@Devices@Windows@@PEAVAmbientDeviceMappingChangedEventArgs@2345@@Foundation@Windows@@6B@
-void *___7__ITypedEventHandler_PEAVAmbientManager_Internal_Lights_Devices_Windows__PEAVAmbientDeviceMappingChangedEventArgs_2345__Foundation_Windows__6B_ = reinterpret_cast<decltype(___7__ITypedEventHandler_PEAVAmbientManager_Internal_Lights_Devices_Windows__PEAVAmbientDeviceMappingChangedEventArgs_2345__Foundation_Windows__6B_)>(0x0000000180057310); // 6442808080

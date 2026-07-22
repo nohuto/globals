@@ -1,3 +1,0 @@
-// RVA 0x1F0D58, .rdata
-// Symbol: ??_7HomeGestureEventArgs@MPCManager@Input@Internal@Windows@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$00@WRL@Microsoft@@$00U?$ImplementsMarker@VFtmBase@WRL@Microsoft@@@Details@23@@Details@WRL@Microsoft@@@
-void *___7HomeGestureEventArgs_MPCManager_Input_Internal_Windows__6B__ImplementsHelper_U__RuntimeClassFlags__00_WRL_Microsoft___00U__ImplementsMarker_VFtmBase_WRL_Microsoft___Details_23__Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7HomeGestureEventArgs_MPCManager_Input_Internal_Windows__6B__ImplementsHelper_U__RuntimeClassFlags__00_WRL_Microsoft___00U__ImplementsMarker_VFtmBase_WRL_Microsoft___Details_23__Details_WRL_Microsoft___)>(0x0000000180168540); // 6443926848

@@ -1,3 +1,0 @@
-// RVA 0xF3918, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$02@WRL@Microsoft@@UIHapticsTimerCallback@SpatialInteractions@Internal@Windows@@VFtmBase@23@@WRL@Microsoft@@6BIInspectable@@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__02_WRL_Microsoft__UIHapticsTimerCallback_SpatialInteractions_Internal_Windows__VFtmBase_23__WRL_Microsoft__6BIInspectable___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__02_WRL_Microsoft__UIHapticsTimerCallback_SpatialInteractions_Internal_Windows__VFtmBase_23__WRL_Microsoft__6BIInspectable___)>(0x00000001800D9B20); // 6443342624

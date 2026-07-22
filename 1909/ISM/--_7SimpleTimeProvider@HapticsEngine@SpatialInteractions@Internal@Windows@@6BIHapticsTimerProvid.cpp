@@ -1,3 +1,0 @@
-// RVA 0x17B7C0, .rdata
-// Symbol: ??_7SimpleTimeProvider@HapticsEngine@SpatialInteractions@Internal@Windows@@6BIHapticsTimerProvider@234@@
-void *___7SimpleTimeProvider_HapticsEngine_SpatialInteractions_Internal_Windows__6BIHapticsTimerProvider_234__ = reinterpret_cast<decltype(___7SimpleTimeProvider_HapticsEngine_SpatialInteractions_Internal_Windows__6BIHapticsTimerProvider_234__)>(0x00000001801677E0); // 6443923424

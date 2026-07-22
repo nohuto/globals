@@ -1,3 +1,0 @@
-// RVA 0x278ABC, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUxlmgilooviUoryUlyquivUznwGEUkxsOlyq@ControllerProcessor
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUxlmgilooviUoryUlyquivUznwGEUkxsOlyq_ControllerProcessor = 0x00; // 0

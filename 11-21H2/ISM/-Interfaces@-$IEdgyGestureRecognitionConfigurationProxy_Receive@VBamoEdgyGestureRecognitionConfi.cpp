@@ -1,3 +1,0 @@
-// RVA 0x1E3EB0, .rdata
-// Symbol: ?Interfaces@?$IEdgyGestureRecognitionConfigurationProxy_Receive@VBamoEdgyGestureRecognitionConfigurationProxyImpl@BamoImpl@@@@2QBUMsgCallInterfaceTableEntry@@B
-unsigned char _Interfaces___IEdgyGestureRecognitionConfigurationProxy_Receive_VBamoEdgyGestureRecognitionConfigurationProxyImpl_BamoImpl____2QBUMsgCallInterfaceTableEntry__B = 0x26; // 38

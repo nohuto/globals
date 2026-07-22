@@ -1,3 +1,0 @@
-// RVA 0x1A8C80, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIInputTarget@@UIInputSiteTarget@@@WRL@Microsoft@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@$00UIInputSiteTarget@@@Details@12@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIInputTarget__UIInputSiteTarget___WRL_Microsoft__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIInputSiteTarget___Details_12__ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIInputTarget__UIInputSiteTarget___WRL_Microsoft__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIInputSiteTarget___Details_12__)>(0x000000018004D2A0); // 6442767008

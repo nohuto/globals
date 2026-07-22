@@ -1,3 +1,0 @@
-// RVA 0x256628, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUfgrorgrvhUrhnhgzgrxhUhbhgvnUlyquivUznwGEUkxsOlyq@ISMStatics
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUfgrorgrvhUrhnhgzgrxhUhbhgvnUlyquivUznwGEUkxsOlyq_ISMStatics = 0x00; // 0

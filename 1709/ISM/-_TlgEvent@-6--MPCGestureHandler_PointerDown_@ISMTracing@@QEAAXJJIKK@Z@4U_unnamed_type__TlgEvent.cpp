@@ -1,3 +1,0 @@
-// RVA 0xEF074, .rdata
-// Symbol: ?_TlgEvent@?6??MPCGestureHandler_PointerDown_@ISMTracing@@QEAAXJJIKK@Z@4U_unnamed_type__TlgEvent_@?6??12@QEAAXJJIKK@Z@B
-unsigned char __TlgEvent__6__MPCGestureHandler_PointerDown__ISMTracing__QEAAXJJIKK_Z_4U_unnamed_type__TlgEvent___6__12_QEAAXJJIKK_Z_B = 0x03; // 3

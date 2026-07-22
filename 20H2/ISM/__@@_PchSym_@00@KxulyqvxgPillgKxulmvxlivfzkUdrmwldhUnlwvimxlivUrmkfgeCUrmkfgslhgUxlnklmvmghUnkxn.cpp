@@ -1,3 +1,0 @@
-// RVA 0x209458, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgslhgUxlnklmvmghUnkxnzmztviUoryUlyquivUznwGEUkivxlnkOlyq@MPCManagerClient
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgslhgUxlnklmvmghUnkxnzmztviUoryUlyquivUznwGEUkivxlnkOlyq_MPCManagerClient = 0x00; // 0

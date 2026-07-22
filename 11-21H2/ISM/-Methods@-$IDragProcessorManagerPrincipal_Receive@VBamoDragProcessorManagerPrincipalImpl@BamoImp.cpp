@@ -1,3 +1,0 @@
-// RVA 0x1E3800, .rdata
-// Symbol: ?Methods@?$IDragProcessorManagerPrincipal_Receive@VBamoDragProcessorManagerPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IDragProcessorManagerPrincipal_Receive_VBamoDragProcessorManagerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IDragProcessorManagerPrincipal_Receive_VBamoDragProcessorManagerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x000000018013AFC0); // 6443741120

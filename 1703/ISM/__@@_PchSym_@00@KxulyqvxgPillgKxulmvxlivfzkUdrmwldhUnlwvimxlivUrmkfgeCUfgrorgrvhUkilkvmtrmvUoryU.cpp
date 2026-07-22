@@ -1,3 +1,0 @@
-// RVA 0xD3800, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUfgrorgrvhUkilkvmtrmvUoryUlyquivUznwGEUhgwzucOlyq@InputProp
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUfgrorgrvhUkilkvmtrmvUoryUlyquivUznwGEUhgwzucOlyq_InputProp = 0x00; // 0

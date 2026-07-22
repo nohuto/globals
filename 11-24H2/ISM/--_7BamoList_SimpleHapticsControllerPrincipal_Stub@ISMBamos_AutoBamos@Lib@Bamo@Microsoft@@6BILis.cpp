@@ -1,3 +1,0 @@
-// RVA 0x1F48A0, .rdata
-// Symbol: ??_7BamoList_SimpleHapticsControllerPrincipal_Stub@ISMBamos_AutoBamos@Lib@Bamo@Microsoft@@6BIList_SimpleHapticsControllerPrincipal_Stub@1234@@
-void *___7BamoList_SimpleHapticsControllerPrincipal_Stub_ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_SimpleHapticsControllerPrincipal_Stub_1234__ = reinterpret_cast<decltype(___7BamoList_SimpleHapticsControllerPrincipal_Stub_ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_SimpleHapticsControllerPrincipal_Stub_1234__)>(0x00000001801919C0); // 6444095936

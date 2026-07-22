@@ -1,3 +1,0 @@
-// RVA 0x205EF6, .rdata
-// Symbol: ?_tlgEvent@?6??LogOnTouchpadRectsChanging@BamoSystemContextEndpointPrincipal@@AEAAXPEAVBamoSystemContextEndpointStub@@PEAVBamoList_VirtualTouchpadRect_Proxy@ISMBamos_AutoBamos@Lib@Bamo@Microsoft@@@Z@4U_unnamed_type__tlgEvent_@?6??12@AEAAX01@Z@B
-unsigned char __tlgEvent__6__LogOnTouchpadRectsChanging_BamoSystemContextEndpointPrincipal__AEAAXPEAVBamoSystemContextEndpointStub__PEAVBamoList_VirtualTouchpadRect_Proxy_ISMBamos_AutoBamos_Lib_Bamo_Microsoft___Z_4U_unnamed_type__tlgEvent___6__12_AEAAX01_Z_B = 0x06; // 6

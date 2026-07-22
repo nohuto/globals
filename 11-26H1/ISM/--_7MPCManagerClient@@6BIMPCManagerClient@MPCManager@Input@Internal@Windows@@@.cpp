@@ -1,3 +1,0 @@
-// RVA 0x1F09A0, .rdata
-// Symbol: ??_7MPCManagerClient@@6BIMPCManagerClient@MPCManager@Input@Internal@Windows@@@
-void *___7MPCManagerClient__6BIMPCManagerClient_MPCManager_Input_Internal_Windows___ = reinterpret_cast<decltype(___7MPCManagerClient__6BIMPCManagerClient_MPCManager_Input_Internal_Windows___)>(0x0000000180168830); // 6443927600

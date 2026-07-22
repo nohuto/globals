@@ -1,3 +1,0 @@
-// RVA 0x1EB100, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIMessageProxyReconnectAdapterOwner@@UITextInputStateAdapter@@@WRL@Microsoft@@6BIMessageProxyReconnectAdapterOwner@@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIMessageProxyReconnectAdapterOwner__UITextInputStateAdapter___WRL_Microsoft__6BIMessageProxyReconnectAdapterOwner___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIMessageProxyReconnectAdapterOwner__UITextInputStateAdapter___WRL_Microsoft__6BIMessageProxyReconnectAdapterOwner___)>(0x00000001801C77E0); // 6444316640

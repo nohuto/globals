@@ -1,3 +1,0 @@
-// RVA 0x1EE450, .rdata
-// Symbol: ?Methods@?$IWindowsMessageDeliveryProxy_Receive@VBamoWindowsMessageDeliveryProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IWindowsMessageDeliveryProxy_Receive_VBamoWindowsMessageDeliveryProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IWindowsMessageDeliveryProxy_Receive_VBamoWindowsMessageDeliveryProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x00000001800607C0); // 6442846144

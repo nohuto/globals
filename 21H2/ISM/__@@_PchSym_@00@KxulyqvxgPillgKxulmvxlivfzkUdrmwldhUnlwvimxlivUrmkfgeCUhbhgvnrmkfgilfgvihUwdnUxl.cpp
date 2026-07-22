@@ -1,3 +1,0 @@
-// RVA 0x20A49C, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUhbhgvnrmkfgilfgvihUwdnUxlnklmvmghUxfihliUhvierxvUoryUlyquivUznwGEUkxsOlyq@SystemCursorService
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUhbhgvnrmkfgilfgvihUwdnUxlnklmvmghUxfihliUhvierxvUoryUlyquivUznwGEUkxsOlyq_SystemCursorService = 0x00; // 0

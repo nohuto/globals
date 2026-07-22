@@ -1,3 +1,0 @@
-// RVA 0x1E2028, .rdata
-// Symbol: ??_7BamoList_DisplayOcclusionRect_Stub@ISMBamos_AutoBamos@Lib@Bamo@Microsoft@@6BIList_DisplayOcclusionRect_Stub@1234@@
-void *___7BamoList_DisplayOcclusionRect_Stub_ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_DisplayOcclusionRect_Stub_1234__ = reinterpret_cast<decltype(___7BamoList_DisplayOcclusionRect_Stub_ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_DisplayOcclusionRect_Stub_1234__)>(0x000000018013C770); // 6443747184

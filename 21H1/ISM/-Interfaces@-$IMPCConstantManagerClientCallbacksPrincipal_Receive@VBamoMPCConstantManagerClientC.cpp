@@ -1,3 +1,0 @@
-// RVA 0x1B05A0, .rdata
-// Symbol: ?Interfaces@?$IMPCConstantManagerClientCallbacksPrincipal_Receive@VBamoMPCConstantManagerClientCallbacksPrincipalImpl@BamoImpl@@@@2QBUMsgCallInterfaceTableEntry@@B
-unsigned char _Interfaces___IMPCConstantManagerClientCallbacksPrincipal_Receive_VBamoMPCConstantManagerClientCallbacksPrincipalImpl_BamoImpl____2QBUMsgCallInterfaceTableEntry__B = 0x02; // 2

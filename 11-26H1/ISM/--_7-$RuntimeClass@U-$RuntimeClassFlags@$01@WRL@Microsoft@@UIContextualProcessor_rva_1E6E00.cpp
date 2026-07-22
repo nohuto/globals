@@ -1,3 +1,0 @@
-// RVA 0x1E6E00, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIContextualProcessor@@UIShellHandwritingHostServerOwner@@@WRL@Microsoft@@6BIContextualProcessor@@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIContextualProcessor__UIShellHandwritingHostServerOwner___WRL_Microsoft__6BIContextualProcessor___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIContextualProcessor__UIShellHandwritingHostServerOwner___WRL_Microsoft__6BIContextualProcessor___)>(0x00000001801B5A70); // 6444243568

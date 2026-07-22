@@ -1,3 +1,0 @@
-// RVA 0x1A9300, .rdata
-// Symbol: ??_7SpatialInteractionSourceDeviceCollection@SpatialInteractions@Internal@Windows@@6BISpatialObjectDeviceWatcherCallback@Holographic@23@@
-void *___7SpatialInteractionSourceDeviceCollection_SpatialInteractions_Internal_Windows__6BISpatialObjectDeviceWatcherCallback_Holographic_23__ = reinterpret_cast<decltype(___7SpatialInteractionSourceDeviceCollection_SpatialInteractions_Internal_Windows__6BISpatialObjectDeviceWatcherCallback_Holographic_23__)>(0x000000018004C430); // 6442763312

@@ -1,3 +1,0 @@
-// RVA 0x20FA50, .rdata
-// Symbol: ?Methods@?$ISystemContextManagerPrincipal_Receive@VBamoSystemContextManagerPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___ISystemContextManagerPrincipal_Receive_VBamoSystemContextManagerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___ISystemContextManagerPrincipal_Receive_VBamoSystemContextManagerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x000000018015F7D0); // 6443890640

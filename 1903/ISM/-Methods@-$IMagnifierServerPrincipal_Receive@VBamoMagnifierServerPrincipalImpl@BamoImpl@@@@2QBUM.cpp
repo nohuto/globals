@@ -1,3 +1,0 @@
-// RVA 0x172770, .rdata
-// Symbol: ?Methods@?$IMagnifierServerPrincipal_Receive@VBamoMagnifierServerPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IMagnifierServerPrincipal_Receive_VBamoMagnifierServerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IMagnifierServerPrincipal_Receive_VBamoMagnifierServerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x00000001800704C0); // 6442910912

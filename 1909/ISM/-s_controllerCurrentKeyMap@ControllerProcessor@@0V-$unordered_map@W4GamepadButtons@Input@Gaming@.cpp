@@ -1,3 +1,0 @@
-// RVA 0x1E1500, .data
-// Symbol: ?s_controllerCurrentKeyMap@ControllerProcessor@@0V?$unordered_map@W4GamepadButtons@Input@Gaming@Windows@@GU?$hash@W4GamepadButtons@Input@Gaming@Windows@@@std@@U?$equal_to@W4GamepadButtons@Input@Gaming@Windows@@@6@V?$allocator@U?$pair@$$CBW4GamepadButtons@Input@Gaming@Windows@@G@std@@@6@@std@@A
-int _s_controllerCurrentKeyMap_ControllerProcessor__0V__unordered_map_W4GamepadButtons_Input_Gaming_Windows__GU__hash_W4GamepadButtons_Input_Gaming_Windows___std__U__equal_to_W4GamepadButtons_Input_Gaming_Windows___6_V__allocator_U__pair___CBW4GamepadButtons_Input_Gaming_Windows__G_std___6__std__A = 0x00000000; // 0

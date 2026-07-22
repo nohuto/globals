@@ -1,3 +1,0 @@
-// RVA 0x1E8808, .rdata
-// Symbol: ??_7MPCGestureHandler@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$02@WRL@Microsoft@@$00UIRawInputProvider@@UIWeakReferenceSource@@VFtmBase@23@@Details@WRL@Microsoft@@@
-void *___7MPCGestureHandler__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00UIRawInputProvider__UIWeakReferenceSource__VFtmBase_23__Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7MPCGestureHandler__6B__ImplementsHelper_U__RuntimeClassFlags__02_WRL_Microsoft___00UIRawInputProvider__UIWeakReferenceSource__VFtmBase_23__Details_WRL_Microsoft___)>(0x00000001800BF360); // 6443234144

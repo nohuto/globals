@@ -1,3 +1,0 @@
-// RVA 0x2094E0, .rdata
-// Symbol: ??_7HomeGestureReadyChangedEventArgs@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$00@WRL@Microsoft@@$00UIWeakReferenceSource@@@Details@WRL@Microsoft@@@
-void *___7HomeGestureReadyChangedEventArgs__6B__ImplementsHelper_U__RuntimeClassFlags__00_WRL_Microsoft___00UIWeakReferenceSource___Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7HomeGestureReadyChangedEventArgs__6B__ImplementsHelper_U__RuntimeClassFlags__00_WRL_Microsoft___00UIWeakReferenceSource___Details_WRL_Microsoft___)>(0x00000001800688F0); // 6442879216

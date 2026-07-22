@@ -1,3 +1,0 @@
-// RVA 0x20C970, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIContextualProcessor@@UITextInputStateAdapterOwner@@UIInputServiceProxyOwner@@@WRL@Microsoft@@6BITextInputStateAdapterOwner@@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIContextualProcessor__UITextInputStateAdapterOwner__UIInputServiceProxyOwner___WRL_Microsoft__6BITextInputStateAdapterOwner___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIContextualProcessor__UITextInputStateAdapterOwner__UIInputServiceProxyOwner___WRL_Microsoft__6BITextInputStateAdapterOwner___)>(0x000000018006A190); // 6442885520

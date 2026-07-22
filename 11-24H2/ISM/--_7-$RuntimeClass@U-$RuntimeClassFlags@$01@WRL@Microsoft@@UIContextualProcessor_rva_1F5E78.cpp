@@ -1,3 +1,0 @@
-// RVA 0x1F5E78, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIContextualProcessor@@UIContextualProcessorEventStreamEnded@@@WRL@Microsoft@@6BIContextualProcessor@@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIContextualProcessor__UIContextualProcessorEventStreamEnded___WRL_Microsoft__6BIContextualProcessor___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIContextualProcessor__UIContextualProcessorEventStreamEnded___WRL_Microsoft__6BIContextualProcessor___)>(0x0000000180083840); // 6442989632

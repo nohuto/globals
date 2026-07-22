@@ -1,3 +1,0 @@
-// RVA 0x20946C, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUhgbofhUzkrUhvieviUlyquivUznwGEUkivxlnkOlyq@PenDeviceServer
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUhgbofhUzkrUhvieviUlyquivUznwGEUkivxlnkOlyq_PenDeviceServer = 0x00; // 0

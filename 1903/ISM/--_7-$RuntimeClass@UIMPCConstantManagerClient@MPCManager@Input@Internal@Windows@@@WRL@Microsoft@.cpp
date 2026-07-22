@@ -1,3 +1,0 @@
-// RVA 0x179DF0, .rdata
-// Symbol: ??_7?$RuntimeClass@UIMPCConstantManagerClient@MPCManager@Input@Internal@Windows@@@WRL@Microsoft@@6BIMPCConstantManagerClient@MPCManager@Input@Internal@Windows@@@
-void *___7__RuntimeClass_UIMPCConstantManagerClient_MPCManager_Input_Internal_Windows___WRL_Microsoft__6BIMPCConstantManagerClient_MPCManager_Input_Internal_Windows___ = reinterpret_cast<decltype(___7__RuntimeClass_UIMPCConstantManagerClient_MPCManager_Input_Internal_Windows___WRL_Microsoft__6BIMPCConstantManagerClient_MPCManager_Input_Internal_Windows___)>(0x00000001801131B0); // 6443577776

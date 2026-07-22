@@ -1,3 +1,0 @@
-// RVA 0x207AE8, .data
-// Symbol: ?s_DynamicNodeInfoBindingAttemptsCount@SpatialInteractionSourceController@SpatialInteractions@Internal@Windows@@0KA
-unsigned int _s_DynamicNodeInfoBindingAttemptsCount_SpatialInteractionSourceController_SpatialInteractions_Internal_Windows__0KA = 0x00000001; // 1

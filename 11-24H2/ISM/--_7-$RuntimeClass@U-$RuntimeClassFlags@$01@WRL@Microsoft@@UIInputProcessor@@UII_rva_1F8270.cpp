@@ -1,3 +1,0 @@
-// RVA 0x1F8270, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIInputProcessor@@UIInputProcessorDeviceQueryRemove@@@WRL@Microsoft@@6BIInputProcessor@@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIInputProcessor__UIInputProcessorDeviceQueryRemove___WRL_Microsoft__6BIInputProcessor___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIInputProcessor__UIInputProcessorDeviceQueryRemove___WRL_Microsoft__6BIInputProcessor___)>(0x00000001801CB020); // 6444331040

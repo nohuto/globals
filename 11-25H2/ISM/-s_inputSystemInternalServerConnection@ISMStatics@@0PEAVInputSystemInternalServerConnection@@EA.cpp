@@ -1,3 +1,0 @@
-// RVA 0x246D28, .data
-// Symbol: ?s_inputSystemInternalServerConnection@ISMStatics@@0PEAVInputSystemInternalServerConnection@@EA
-struct InputSystemInternalServerConnection *_s_inputSystemInternalServerConnection_ISMStatics__0PEAVInputSystemInternalServerConnection__EA = reinterpret_cast<decltype(_s_inputSystemInternalServerConnection_ISMStatics__0PEAVInputSystemInternalServerConnection__EA)>(0x0000000000000000); // 0

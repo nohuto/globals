@@ -1,3 +1,0 @@
-// RVA 0x111EE2, .rdata
-// Symbol: ?_TlgEvent@?3??GetDynamicNodeTrackingCapabilities_@HolographicDriverClientTrace@@QEAAXPEBXAEBU_GUID@@AEBUSPATIAL_NODE_ID@@W4SPATIAL_TRACKING_CAPABILITY_FLAGS@@@Z@4U_unnamed_type__TlgEvent_@?3??12@QEAAX0123@Z@B
-unsigned char __TlgEvent__3__GetDynamicNodeTrackingCapabilities__HolographicDriverClientTrace__QEAAXPEBXAEBU_GUID__AEBUSPATIAL_NODE_ID__W4SPATIAL_TRACKING_CAPABILITY_FLAGS___Z_4U_unnamed_type__TlgEvent___3__12_QEAAX0123_Z_B = 0x03; // 3

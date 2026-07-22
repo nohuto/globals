@@ -1,3 +1,0 @@
-// RVA 0x20A4C8, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlmgvcgfzokilxvhhlihUkilxvhhlihUrmkfgulidziwviUhbhgvnUoryUlyquivUznwGEUkxsOlyq@InputForwardProcessor
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlmgvcgfzokilxvhhlihUkilxvhhlihUrmkfgulidziwviUhbhgvnUoryUlyquivUznwGEUkxsOlyq_InputForwardProcessor = 0x00; // 0

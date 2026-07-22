@@ -1,3 +1,0 @@
-// RVA 0x202DA0, .rdata
-// Symbol: ?Methods@?$IPenEventsDispatcherPrincipal_Receive@VBamoPenEventsDispatcherPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IPenEventsDispatcherPrincipal_Receive_VBamoPenEventsDispatcherPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IPenEventsDispatcherPrincipal_Receive_VBamoPenEventsDispatcherPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x000000018004F2E0); // 6442775264

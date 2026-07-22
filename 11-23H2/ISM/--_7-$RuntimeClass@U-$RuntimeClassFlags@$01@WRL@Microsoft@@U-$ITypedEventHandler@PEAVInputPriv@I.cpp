@@ -1,3 +1,0 @@
-// RVA 0x204528, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@U?$ITypedEventHandler@PEAVInputPriv@Internal@Spatial@Input@UI@Windows@@PEAVPrivVoiceEventArgs@23456@@Foundation@Windows@@@WRL@Microsoft@@6B@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__U__ITypedEventHandler_PEAVInputPriv_Internal_Spatial_Input_UI_Windows__PEAVPrivVoiceEventArgs_23456__Foundation_Windows___WRL_Microsoft__6B_ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__U__ITypedEventHandler_PEAVInputPriv_Internal_Spatial_Input_UI_Windows__PEAVPrivVoiceEventArgs_23456__Foundation_Windows___WRL_Microsoft__6B_)>(0x00000001800D06D0); // 6443304656

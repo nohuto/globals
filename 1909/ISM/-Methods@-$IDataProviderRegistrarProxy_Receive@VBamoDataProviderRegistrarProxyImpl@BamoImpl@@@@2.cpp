@@ -1,3 +1,0 @@
-// RVA 0x172B00, .rdata
-// Symbol: ?Methods@?$IDataProviderRegistrarProxy_Receive@VBamoDataProviderRegistrarProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IDataProviderRegistrarProxy_Receive_VBamoDataProviderRegistrarProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IDataProviderRegistrarProxy_Receive_VBamoDataProviderRegistrarProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x00000001800D1B80); // 6443309952

@@ -1,3 +1,0 @@
-// RVA 0xEFDA8, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@U?$IEventHandler@PEAVUserProfileEventArgs@Internal@System@Windows@@@Foundation@Windows@@@WRL@Microsoft@@6B@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__U__IEventHandler_PEAVUserProfileEventArgs_Internal_System_Windows___Foundation_Windows___WRL_Microsoft__6B_ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__U__IEventHandler_PEAVUserProfileEventArgs_Internal_System_Windows___Foundation_Windows___WRL_Microsoft__6B_)>(0x0000000180077D10); // 6442941712

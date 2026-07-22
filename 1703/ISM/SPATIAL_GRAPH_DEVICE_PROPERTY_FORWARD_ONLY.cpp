@@ -1,2 +1,0 @@
-// RVA 0xB1CC8, .rdata
-unsigned char SPATIAL_GRAPH_DEVICE_PROPERTY_FORWARD_ONLY = 0xD0; // 208

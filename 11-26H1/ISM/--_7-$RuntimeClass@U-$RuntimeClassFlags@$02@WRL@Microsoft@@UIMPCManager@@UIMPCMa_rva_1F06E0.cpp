@@ -1,3 +1,0 @@
-// RVA 0x1F06E0, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$02@WRL@Microsoft@@UIMPCManager@@UIMPCManagerClient@MPCManager@Input@Internal@Windows@@UIMPCManagerConnection@6789@@WRL@Microsoft@@6BIMPCManager@@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__02_WRL_Microsoft__UIMPCManager__UIMPCManagerClient_MPCManager_Input_Internal_Windows__UIMPCManagerConnection_6789__WRL_Microsoft__6BIMPCManager___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__02_WRL_Microsoft__UIMPCManager__UIMPCManagerClient_MPCManager_Input_Internal_Windows__UIMPCManagerConnection_6789__WRL_Microsoft__6BIMPCManager___)>(0x0000000180168810); // 6443927568

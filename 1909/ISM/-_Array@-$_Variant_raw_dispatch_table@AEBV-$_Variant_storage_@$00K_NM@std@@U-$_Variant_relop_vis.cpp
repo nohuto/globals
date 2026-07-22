@@ -1,3 +1,0 @@
-// RVA 0x16FCE8, .rdata
-// Symbol: ?_Array@?$_Variant_raw_dispatch_table@AEBV?$_Variant_storage_@$00K_NM@std@@U?$_Variant_relop_visitor@Uequal_to@std@@K_NM@2@U?$integer_sequence@_K$0A@$00$01@2@@std@@2QBQ6A_NAEBV?$_Variant_storage_@$00K_NM@2@$$QEAU?$_Variant_relop_visitor@Uequal_to@std@@K_NM@2@@ZB
-unsigned long long __Array____Variant_raw_dispatch_table_AEBV___Variant_storage___00K_NM_std__U___Variant_relop_visitor_Uequal_to_std__K_NM_2_U__integer_sequence__K_0A__00_01_2__std__2QBQ6A_NAEBV___Variant_storage___00K_NM_2___QEAU___Variant_relop_visitor_Uequal_to_std__K_NM_2__ZB = 0x0000000180088800; // 6443010048

@@ -1,3 +1,0 @@
-// RVA 0xBA4ED, .rdata
-// Symbol: ?_TlgEvent@?6???$Telemetry_GetPoseAtTime_CountsByTrackingValidityFlags@$03@HolographicDriverClientTrace@@SAXAEBU_GUID@@AEBUSPATIAL_NODE_ID@@0W4GetPoseAtTimePurpose@Holographic@Internal@Windows@@AEAY03$$CBI33@Z@4U_unnamed_type__TlgEvent_@?6???$Telemetry_GetPoseAtTime_CountsByTrackingValidityFlags@$03@1@SAX0102333@Z@B
-unsigned char __TlgEvent__6____Telemetry_GetPoseAtTime_CountsByTrackingValidityFlags__03_HolographicDriverClientTrace__SAXAEBU_GUID__AEBUSPATIAL_NODE_ID__0W4GetPoseAtTimePurpose_Holographic_Internal_Windows__AEAY03__CBI33_Z_4U_unnamed_type__TlgEvent___6____Telemetry_GetPoseAtTime_CountsByTrackingValidityFlags__03_1_SAX0102333_Z_B = 0x03; // 3

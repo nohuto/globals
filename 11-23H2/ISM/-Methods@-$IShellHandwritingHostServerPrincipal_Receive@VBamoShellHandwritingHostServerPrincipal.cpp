@@ -1,3 +1,0 @@
-// RVA 0x202B50, .rdata
-// Symbol: ?Methods@?$IShellHandwritingHostServerPrincipal_Receive@VBamoShellHandwritingHostServerPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IShellHandwritingHostServerPrincipal_Receive_VBamoShellHandwritingHostServerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IShellHandwritingHostServerPrincipal_Receive_VBamoShellHandwritingHostServerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180063500); // 6442857728

@@ -1,3 +1,0 @@
-// RVA 0x1F8508, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIInputDeliveryServer@@UIInputServiceProxyOwner@@@WRL@Microsoft@@6BIInputDeliveryServer@@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIInputDeliveryServer__UIInputServiceProxyOwner___WRL_Microsoft__6BIInputDeliveryServer___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIInputDeliveryServer__UIInputServiceProxyOwner___WRL_Microsoft__6BIInputDeliveryServer___)>(0x0000000180033AE0); // 6442662624

@@ -1,3 +1,0 @@
-// RVA 0x20A444, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlmgvcgfzokilxvhhlihUkilxvhhlihUnztmrurviUkilxvhhliUlyquivUznwGEUkxsOlyq@MagnifierProcessor
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlmgvcgfzokilxvhhlihUkilxvhhlihUnztmrurviUkilxvhhliUlyquivUznwGEUkxsOlyq_MagnifierProcessor = 0x00; // 0

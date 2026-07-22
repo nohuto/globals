@@ -1,3 +1,0 @@
-// RVA 0x176208, .rdata
-// Symbol: ??_7DisplayChangedHandler@SpatialInteractionSourceDeviceCollection@SpatialInteractions@Internal@Windows@@6B@
-void *___7DisplayChangedHandler_SpatialInteractionSourceDeviceCollection_SpatialInteractions_Internal_Windows__6B_ = reinterpret_cast<decltype(___7DisplayChangedHandler_SpatialInteractionSourceDeviceCollection_SpatialInteractions_Internal_Windows__6B_)>(0x00000001800E4080); // 6443384960

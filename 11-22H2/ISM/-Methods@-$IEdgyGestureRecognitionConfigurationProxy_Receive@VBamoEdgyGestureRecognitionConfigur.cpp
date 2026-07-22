@@ -1,3 +1,0 @@
-// RVA 0x20F2D0, .rdata
-// Symbol: ?Methods@?$IEdgyGestureRecognitionConfigurationProxy_Receive@VBamoEdgyGestureRecognitionConfigurationProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IEdgyGestureRecognitionConfigurationProxy_Receive_VBamoEdgyGestureRecognitionConfigurationProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IEdgyGestureRecognitionConfigurationProxy_Receive_VBamoEdgyGestureRecognitionConfigurationProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180141E10); // 6443769360

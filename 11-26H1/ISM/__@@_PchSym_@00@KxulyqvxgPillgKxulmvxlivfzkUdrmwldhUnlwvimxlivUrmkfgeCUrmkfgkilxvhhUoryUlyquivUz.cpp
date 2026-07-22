@@ -1,3 +1,0 @@
-// RVA 0x2567EC, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhUoryUlyquivUznwGEUkxsOlyq@InputProcess
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhUoryUlyquivUznwGEUkxsOlyq_InputProcess = 0x00; // 0

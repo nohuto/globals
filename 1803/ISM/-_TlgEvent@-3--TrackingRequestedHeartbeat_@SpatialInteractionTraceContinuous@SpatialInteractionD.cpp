@@ -1,3 +1,0 @@
-// RVA 0x110318, .rdata
-// Symbol: ?_TlgEvent@?3??TrackingRequestedHeartbeat_@SpatialInteractionTraceContinuous@SpatialInteractionDevices@@QEAAXPEB_WKKI_N10AEBU_GUID@@IAEAY02$$CBMAEAY03$$CBM34@Z@4U_unnamed_type__TlgEvent_@?3??123@QEAAX0KKI1102I3434@Z@B
-unsigned char __TlgEvent__3__TrackingRequestedHeartbeat__SpatialInteractionTraceContinuous_SpatialInteractionDevices__QEAAXPEB_WKKI_N10AEBU_GUID__IAEAY02__CBMAEAY03__CBM34_Z_4U_unnamed_type__TlgEvent___3__123_QEAAX0KKI1102I3434_Z_B = 0x03; // 3

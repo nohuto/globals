@@ -1,3 +1,0 @@
-// RVA 0x1ED6F8, .rdata
-// Symbol: ?Methods@?$IDelegatedInkCanvasInputObjectProxy_Receive@VBamoDelegatedInkCanvasInputObjectProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IDelegatedInkCanvasInputObjectProxy_Receive_VBamoDelegatedInkCanvasInputObjectProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IDelegatedInkCanvasInputObjectProxy_Receive_VBamoDelegatedInkCanvasInputObjectProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180128C70); // 6443666544

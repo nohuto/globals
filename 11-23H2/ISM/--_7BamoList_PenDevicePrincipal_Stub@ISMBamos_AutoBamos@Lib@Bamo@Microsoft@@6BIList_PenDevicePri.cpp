@@ -1,3 +1,0 @@
-// RVA 0x1F7538, .rdata
-// Symbol: ??_7BamoList_PenDevicePrincipal_Stub@ISMBamos_AutoBamos@Lib@Bamo@Microsoft@@6BIList_PenDevicePrincipal_Stub@1234@@
-void *___7BamoList_PenDevicePrincipal_Stub_ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_PenDevicePrincipal_Stub_1234__ = reinterpret_cast<decltype(___7BamoList_PenDevicePrincipal_Stub_ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_PenDevicePrincipal_Stub_1234__)>(0x0000000180069CB0); // 6442884272

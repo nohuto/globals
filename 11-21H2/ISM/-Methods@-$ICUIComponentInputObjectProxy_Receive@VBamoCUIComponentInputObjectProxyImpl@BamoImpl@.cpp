@@ -1,3 +1,0 @@
-// RVA 0x1E3620, .rdata
-// Symbol: ?Methods@?$ICUIComponentInputObjectProxy_Receive@VBamoCUIComponentInputObjectProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___ICUIComponentInputObjectProxy_Receive_VBamoCUIComponentInputObjectProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)(Microsoft::BamoImpl::BamoProxyImpl *this) = reinterpret_cast<decltype(_Methods___ICUIComponentInputObjectProxy_Receive_VBamoCUIComponentInputObjectProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180127070); // 6443659376

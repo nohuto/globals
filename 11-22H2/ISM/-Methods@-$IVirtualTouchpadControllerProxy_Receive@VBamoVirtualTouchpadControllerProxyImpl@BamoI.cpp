@@ -1,3 +1,0 @@
-// RVA 0x20F910, .rdata
-// Symbol: ?Methods@?$IVirtualTouchpadControllerProxy_Receive@VBamoVirtualTouchpadControllerProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IVirtualTouchpadControllerProxy_Receive_VBamoVirtualTouchpadControllerProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IVirtualTouchpadControllerProxy_Receive_VBamoVirtualTouchpadControllerProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180154030); // 6443843632

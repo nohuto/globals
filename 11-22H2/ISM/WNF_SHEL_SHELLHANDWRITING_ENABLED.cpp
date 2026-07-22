@@ -1,2 +1,0 @@
-// RVA 0x2261A8, .rdata
-unsigned char WNF_SHEL_SHELLHANDWRITING_ENABLED = 0x75; // 117

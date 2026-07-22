@@ -1,3 +1,0 @@
-// RVA 0xA81C0, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIMessageProxyListener@@UIMessageListListener@@UIViewHeirarchy@@VNil@Details@23@V7823@V7823@V7823@V7823@V7823@@WRL@Microsoft@@6B@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIMessageProxyListener__UIMessageListListener__UIViewHeirarchy__VNil_Details_23_V7823_V7823_V7823_V7823_V7823__WRL_Microsoft__6B_ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIMessageProxyListener__UIMessageListListener__UIViewHeirarchy__VNil_Details_23_V7823_V7823_V7823_V7823_V7823__WRL_Microsoft__6B_)>(0x000000018006E610); // 6442903056

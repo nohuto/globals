@@ -1,3 +1,0 @@
-// RVA 0x1B6538, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIContextualProcessor@@UITextInputStateAdapterOwner@@@WRL@Microsoft@@6BIContextualProcessor@@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIContextualProcessor__UITextInputStateAdapterOwner___WRL_Microsoft__6BIContextualProcessor___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIContextualProcessor__UITextInputStateAdapterOwner___WRL_Microsoft__6BIContextualProcessor___)>(0x00000001801389A0); // 6443731360

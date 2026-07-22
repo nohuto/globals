@@ -1,3 +1,0 @@
-// RVA 0x177E50, .rdata
-// Symbol: ??_7BamoMPCConstantManagerClientCallbacksProxy@@6BIMPCConstantManagerClientCallbacksProxy@@@
-void *___7BamoMPCConstantManagerClientCallbacksProxy__6BIMPCConstantManagerClientCallbacksProxy___ = reinterpret_cast<decltype(___7BamoMPCConstantManagerClientCallbacksProxy__6BIMPCConstantManagerClientCallbacksProxy___)>(0x00000001800393D0); // 6442685392

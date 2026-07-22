@@ -1,3 +1,0 @@
-// RVA 0x256D30, .data
-// Symbol: ??$factory_cache_entry_v@UWindowManagementPreview@Preview@WindowManagement@UI@Windows@winrt@@UIWindowManagementPreviewStatics2@23456@@impl@winrt@@3U?$factory_cache_entry@UWindowManagementPreview@Preview@WindowManagement@UI@Windows@winrt@@UIWindowManagementPreviewStatics2@23456@@12@A
-__int64 ___factory_cache_entry_v_UWindowManagementPreview_Preview_WindowManagement_UI_Windows_winrt__UIWindowManagementPreviewStatics2_23456__impl_winrt__3U__factory_cache_entry_UWindowManagementPreview_Preview_WindowManagement_UI_Windows_winrt__UIWindowManagementPreviewStatics2_23456__12_A = 0x0000000000000000; // 0

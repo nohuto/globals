@@ -1,3 +1,0 @@
-// RVA 0x1A8878, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@UIMessageProxyReconnectAdapter@@UIMessageProxyListener@@@WRL@Microsoft@@6BIMessageProxyReconnectAdapter@@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIMessageProxyReconnectAdapter__UIMessageProxyListener___WRL_Microsoft__6BIMessageProxyReconnectAdapter___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__UIMessageProxyReconnectAdapter__UIMessageProxyListener___WRL_Microsoft__6BIMessageProxyReconnectAdapter___)>(0x00000001800BE980); // 6443231616

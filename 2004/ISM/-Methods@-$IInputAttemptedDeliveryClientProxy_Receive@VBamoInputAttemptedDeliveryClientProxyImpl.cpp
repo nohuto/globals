@@ -1,3 +1,0 @@
-// RVA 0x1AE7D0, .rdata
-// Symbol: ?Methods@?$IInputAttemptedDeliveryClientProxy_Receive@VBamoInputAttemptedDeliveryClientProxyImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-_UNKNOWN *_Methods___IInputAttemptedDeliveryClientProxy_Receive_VBamoInputAttemptedDeliveryClientProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B = reinterpret_cast<decltype(_Methods___IInputAttemptedDeliveryClientProxy_Receive_VBamoInputAttemptedDeliveryClientProxyImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180005370); // 6442472304

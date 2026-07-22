@@ -1,3 +1,0 @@
-// RVA 0x1E1728, .data
-// Symbol: ?g_wil_details_recordFeatureUsage@@3P6AXIW4wil_details_ServiceReportingKind@@IPEATwil_details_FeaturePropertyCache@@PEAUwil_details_RecordUsageResult@@@ZEA
-void (__high *_g_wil_details_recordFeatureUsage__3P6AXIW4wil_details_ServiceReportingKind__IPEATwil_details_FeaturePropertyCache__PEAUwil_details_RecordUsageResult___ZEA)(unsigned int, enum wil_details_ServiceReportingKind, unsigned int, union wil_details_FeaturePropertyCache *, struct wil_details_RecordUsageResult *) = reinterpret_cast<decltype(_g_wil_details_recordFeatureUsage__3P6AXIW4wil_details_ServiceReportingKind__IPEATwil_details_FeaturePropertyCache__PEAUwil_details_RecordUsageResult___ZEA)>(0x0000000000000000); // 0

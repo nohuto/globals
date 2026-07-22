@@ -1,2 +1,0 @@
-// RVA 0x24D6C8, .rdata
-__int64 _dwmcore_NULL_THUNK_DATA_DLN = 0x0000000000000000; // 0

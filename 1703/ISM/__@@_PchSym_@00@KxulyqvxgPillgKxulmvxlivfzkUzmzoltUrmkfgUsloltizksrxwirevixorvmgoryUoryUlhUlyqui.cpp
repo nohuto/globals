@@ -1,3 +1,0 @@
-// RVA 0xD3B20, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUzmzoltUrmkfgUsloltizksrxwirevixorvmgoryUoryUlhUlyquivUznwGEUkivxlnkOlyq@HolographicDriverClient
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUzmzoltUrmkfgUsloltizksrxwirevixorvmgoryUoryUlhUlyquivUznwGEUkivxlnkOlyq_HolographicDriverClient = 0x00; // 0

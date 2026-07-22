@@ -1,3 +1,0 @@
-// RVA 0xD3AC8, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUrmkfgUwvorevibUfgrorgrvhUervdsvrizixsbUfxigUlyquivUznwGEUkxsOlyq@ViewHeirarchy
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUrmkfgUwvorevibUfgrorgrvhUervdsvrizixsbUfxigUlyquivUznwGEUkxsOlyq_ViewHeirarchy = 0x00; // 0

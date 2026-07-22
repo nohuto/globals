@@ -1,3 +1,0 @@
-// RVA 0x1E68A0, .rdata
-// Symbol: ?Methods@?$IControllerNavigationManagerPrincipal_Receive@VBamoControllerNavigationManagerPrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IControllerNavigationManagerPrincipal_Receive_VBamoControllerNavigationManagerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IControllerNavigationManagerPrincipal_Receive_VBamoControllerNavigationManagerPrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x0000000180175E60); // 6443982432

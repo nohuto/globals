@@ -1,3 +1,0 @@
-// RVA 0x16B610, .rdata
-// Symbol: ??_7MessageProxyReconnectAdapter@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@$00UIMessageProxyListener@@@Details@WRL@Microsoft@@@
-void *___7MessageProxyReconnectAdapter__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIMessageProxyListener___Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7MessageProxyReconnectAdapter__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIMessageProxyListener___Details_WRL_Microsoft___)>(0x0000000180037CB0); // 6442679472

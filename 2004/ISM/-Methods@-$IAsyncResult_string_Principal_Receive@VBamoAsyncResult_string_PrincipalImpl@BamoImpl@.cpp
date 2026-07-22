@@ -1,3 +1,0 @@
-// RVA 0x1AEFE0, .rdata
-// Symbol: ?Methods@?$IAsyncResult_string_Principal_Receive@VBamoAsyncResult_string_PrincipalImpl@BamoImpl@@@@2QBUMsgCallMethodDefinition@@B
-__int64 (__fastcall *_Methods___IAsyncResult_string_Principal_Receive_VBamoAsyncResult_string_PrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)() = reinterpret_cast<decltype(_Methods___IAsyncResult_string_Principal_Receive_VBamoAsyncResult_string_PrincipalImpl_BamoImpl____2QBUMsgCallMethodDefinition__B)>(0x000000018011B2F0); // 6443610864

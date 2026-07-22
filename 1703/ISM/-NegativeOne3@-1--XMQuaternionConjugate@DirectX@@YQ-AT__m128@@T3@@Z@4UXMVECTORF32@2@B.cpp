@@ -1,7 +1,0 @@
-// RVA 0xB02E0, .rdata
-// Symbol: ?NegativeOne3@?1??XMQuaternionConjugate@DirectX@@YQ?AT__m128@@T3@@Z@4UXMVECTORF32@2@B
-// Type: __int128
-unsigned char _NegativeOne3__1__XMQuaternionConjugate_DirectX__YQ_AT__m128__T3__Z_4UXMVECTORF32_2_B[0x10] = {
-    0x00, 0x00, 0x80, 0xBF, 0x00, 0x00, 0x80, 0xBF, 0x00, 0x00, 0x80, 0xBF,
-    0x00, 0x00, 0x80, 0x3F
-};

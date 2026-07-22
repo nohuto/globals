@@ -1,3 +1,0 @@
-// RVA 0x278AC0, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUwlxpUhvieviUlyquivUznwGEUkivxlnkOlyq@DeviceDockServer
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUrmkfgkilxvhhlihUwverxvhUwlxpUhvieviUlyquivUznwGEUkivxlnkOlyq_DeviceDockServer = 0x00; // 0

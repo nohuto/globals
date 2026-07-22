@@ -1,3 +1,0 @@
-// RVA 0xEF4AB, .rdata
-// Symbol: ?_TlgEvent@?3??TelemetrySpatialInteractionDeviceOpened_@SpatialInteractionTrace@SpatialInteractionDevices@@QEAAXKPEB_WPEAX@Z@4U_unnamed_type__TlgEvent_@?3??123@QEAAXK01@Z@B
-unsigned char __TlgEvent__3__TelemetrySpatialInteractionDeviceOpened__SpatialInteractionTrace_SpatialInteractionDevices__QEAAXKPEB_WPEAX_Z_4U_unnamed_type__TlgEvent___3__123_QEAAXK01_Z_B = 0x03; // 3

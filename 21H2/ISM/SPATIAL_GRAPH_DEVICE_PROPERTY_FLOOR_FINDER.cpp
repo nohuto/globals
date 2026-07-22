@@ -1,2 +1,0 @@
-// RVA 0x1D50A8, .rdata
-unsigned char SPATIAL_GRAPH_DEVICE_PROPERTY_FLOOR_FINDER = 0x1A; // 26

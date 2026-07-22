@@ -1,3 +1,0 @@
-// RVA 0x247788, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUizdrmkfgkilerwvihUrmqvxgrlmUoryUlyquivUznwGEUkxsOlyq@InjectionRawInputProvider
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUizdrmkfgkilerwvihUrmqvxgrlmUoryUlyquivUznwGEUkxsOlyq_InjectionRawInputProvider = 0x00; // 0

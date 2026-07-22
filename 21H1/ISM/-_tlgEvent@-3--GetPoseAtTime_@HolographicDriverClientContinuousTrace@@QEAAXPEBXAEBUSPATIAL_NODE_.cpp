@@ -1,3 +1,0 @@
-// RVA 0x1D0EB7, .rdata
-// Symbol: ?_tlgEvent@?3??GetPoseAtTime_@HolographicDriverClientContinuousTrace@@QEAAXPEBXAEBUSPATIAL_NODE_ID@@_J2222W4TracePredictionType@@AEBUSPATIAL_GRAPH_DYNAMIC_NODE_POSE@@_NI@Z@4U_unnamed_type__tlgEvent_@?3??12@QEAAX0122222345I@Z@B
-unsigned char __tlgEvent__3__GetPoseAtTime__HolographicDriverClientContinuousTrace__QEAAXPEBXAEBUSPATIAL_NODE_ID___J2222W4TracePredictionType__AEBUSPATIAL_GRAPH_DYNAMIC_NODE_POSE___NI_Z_4U_unnamed_type__tlgEvent___3__12_QEAAX0122222345I_Z_B = 0x06; // 6

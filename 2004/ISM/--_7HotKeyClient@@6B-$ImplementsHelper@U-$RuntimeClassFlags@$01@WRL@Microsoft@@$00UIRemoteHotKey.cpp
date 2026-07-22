@@ -1,3 +1,0 @@
-// RVA 0x1ACAA8, .rdata
-// Symbol: ??_7HotKeyClient@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@$00UIRemoteHotKeyCallBack@@UIMessageProxyReconnectAdapterOwner@@UIUnknown@@@Details@WRL@Microsoft@@@
-void *___7HotKeyClient__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIRemoteHotKeyCallBack__UIMessageProxyReconnectAdapterOwner__UIUnknown___Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7HotKeyClient__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIRemoteHotKeyCallBack__UIMessageProxyReconnectAdapterOwner__UIUnknown___Details_WRL_Microsoft___)>(0x000000018004C7D0); // 6442764240

@@ -1,3 +1,0 @@
-// RVA 0xEC888, .rdata
-// Symbol: ??_7InputServiceProxy@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@$00UIMessageProxyReconnectAdapterOwner@@@Details@WRL@Microsoft@@@
-void *___7InputServiceProxy__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIMessageProxyReconnectAdapterOwner___Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7InputServiceProxy__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIMessageProxyReconnectAdapterOwner___Details_WRL_Microsoft___)>(0x0000000180026280); // 6442607232

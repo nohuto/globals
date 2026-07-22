@@ -1,3 +1,0 @@
-// RVA 0x254210, .data
-// Symbol: ?_Static@?1???$_Immortalize_memcpy_image@V_Future_error_category2@std@@@std@@YAAEBV_Future_error_category2@1@XZ@4U?$_Constexpr_immortalize_impl@V_Future_error_category2@std@@@1@A
-void **__Static__1_____Immortalize_memcpy_image_V_Future_error_category2_std___std__YAAEBV_Future_error_category2_1_XZ_4U___Constexpr_immortalize_impl_V_Future_error_category2_std___1_A = reinterpret_cast<decltype(__Static__1_____Immortalize_memcpy_image_V_Future_error_category2_std___std__YAAEBV_Future_error_category2_1_XZ_4U___Constexpr_immortalize_impl_V_Future_error_category2_std___1_A)>(0x00000001801E9C20); // 6444456992

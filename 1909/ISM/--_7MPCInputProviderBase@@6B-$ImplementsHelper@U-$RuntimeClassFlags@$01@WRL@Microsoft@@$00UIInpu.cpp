@@ -1,3 +1,0 @@
-// RVA 0x16C660, .rdata
-// Symbol: ??_7MPCInputProviderBase@@6B?$ImplementsHelper@U?$RuntimeClassFlags@$01@WRL@Microsoft@@$00UIInputProcessorDeviceUpdate@@UIInputFocusListener@@UIMPCInputProviderBase@@@Details@WRL@Microsoft@@@
-void *___7MPCInputProviderBase__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIInputProcessorDeviceUpdate__UIInputFocusListener__UIMPCInputProviderBase___Details_WRL_Microsoft___ = reinterpret_cast<decltype(___7MPCInputProviderBase__6B__ImplementsHelper_U__RuntimeClassFlags__01_WRL_Microsoft___00UIInputProcessorDeviceUpdate__UIInputFocusListener__UIMPCInputProviderBase___Details_WRL_Microsoft___)>(0x000000018002C160); // 6442631520

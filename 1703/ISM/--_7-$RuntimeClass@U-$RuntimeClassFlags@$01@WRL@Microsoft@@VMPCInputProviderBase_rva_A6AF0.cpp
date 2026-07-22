@@ -1,3 +1,0 @@
-// RVA 0xA6AF0, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$01@WRL@Microsoft@@VMPCInputProviderBase@@VNil@Details@23@V5623@V5623@V5623@V5623@V5623@V5623@V5623@@WRL@Microsoft@@6BIInputFocusListener@@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__VMPCInputProviderBase__VNil_Details_23_V5623_V5623_V5623_V5623_V5623_V5623_V5623__WRL_Microsoft__6BIInputFocusListener___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__01_WRL_Microsoft__VMPCInputProviderBase__VNil_Details_23_V5623_V5623_V5623_V5623_V5623_V5623_V5623__WRL_Microsoft__6BIInputFocusListener___)>(0x0000000180046E40); // 6442741312

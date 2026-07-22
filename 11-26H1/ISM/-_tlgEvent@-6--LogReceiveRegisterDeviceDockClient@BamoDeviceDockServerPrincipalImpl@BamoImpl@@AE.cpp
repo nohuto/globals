@@ -1,3 +1,0 @@
-// RVA 0x22960F, .rdata
-// Symbol: ?_tlgEvent@?6??LogReceiveRegisterDeviceDockClient@BamoDeviceDockServerPrincipalImpl@BamoImpl@@AEAAXPEAVBamoDeviceDockClientProxy@@W4DockWatcherRoutingPolicy@Input@Internal@UI@Windows@@@Z@4U_unnamed_type__tlgEvent_@?6??123@AEAAX01@Z@B
-unsigned char __tlgEvent__6__LogReceiveRegisterDeviceDockClient_BamoDeviceDockServerPrincipalImpl_BamoImpl__AEAAXPEAVBamoDeviceDockClientProxy__W4DockWatcherRoutingPolicy_Input_Internal_UI_Windows___Z_4U_unnamed_type__tlgEvent___6__123_AEAAX01_Z_B = 0x06; // 6

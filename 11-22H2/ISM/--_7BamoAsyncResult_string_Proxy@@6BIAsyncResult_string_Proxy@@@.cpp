@@ -1,3 +1,0 @@
-// RVA 0x216708, .rdata
-// Symbol: ??_7BamoAsyncResult_string_Proxy@@6BIAsyncResult_string_Proxy@@@
-void *___7BamoAsyncResult_string_Proxy__6BIAsyncResult_string_Proxy___ = reinterpret_cast<decltype(___7BamoAsyncResult_string_Proxy__6BIAsyncResult_string_Proxy___)>(0x000000018007C590); // 6442960272

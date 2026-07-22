@@ -1,3 +1,0 @@
-// RVA 0x1B0D20, .rdata
-// Symbol: ??_7?$RuntimeClass@U?$RuntimeClassFlags@$02@WRL@Microsoft@@UISpatialObjectWatcherCallback@Holographic@Internal@Windows@@VFtmBase@23@@WRL@Microsoft@@6BIInspectable@@@
-void *___7__RuntimeClass_U__RuntimeClassFlags__02_WRL_Microsoft__UISpatialObjectWatcherCallback_Holographic_Internal_Windows__VFtmBase_23__WRL_Microsoft__6BIInspectable___ = reinterpret_cast<decltype(___7__RuntimeClass_U__RuntimeClassFlags__02_WRL_Microsoft__UISpatialObjectWatcherCallback_Holographic_Internal_Windows__VFtmBase_23__WRL_Microsoft__6BIInspectable___)>(0x00000001800D7FE0); // 6443335648

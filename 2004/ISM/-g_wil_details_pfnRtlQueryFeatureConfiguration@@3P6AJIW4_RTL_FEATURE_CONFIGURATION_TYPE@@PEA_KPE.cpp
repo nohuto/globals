@@ -1,3 +1,0 @@
-// RVA 0x208260, .data
-// Symbol: ?g_wil_details_pfnRtlQueryFeatureConfiguration@@3P6AJIW4_RTL_FEATURE_CONFIGURATION_TYPE@@PEA_KPEAU_RTL_FEATURE_CONFIGURATION@@@ZEA
-int (__high *_g_wil_details_pfnRtlQueryFeatureConfiguration__3P6AJIW4_RTL_FEATURE_CONFIGURATION_TYPE__PEA_KPEAU_RTL_FEATURE_CONFIGURATION___ZEA)(unsigned int, enum _RTL_FEATURE_CONFIGURATION_TYPE, unsigned __int64 *, struct _RTL_FEATURE_CONFIGURATION *) = reinterpret_cast<decltype(_g_wil_details_pfnRtlQueryFeatureConfiguration__3P6AJIW4_RTL_FEATURE_CONFIGURATION_TYPE__PEA_KPEAU_RTL_FEATURE_CONFIGURATION___ZEA)>(0x0000000000000000); // 0

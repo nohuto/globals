@@ -1,3 +1,0 @@
-// RVA 0x278340, .data
-// Symbol: ??$factory_cache_entry_v@UAppViewInProc@WindowManagement@ApplicationModel@Internal@Windows@winrt@@UIAppViewStatics@23456@@impl@winrt@@3U?$factory_cache_entry@UAppViewInProc@WindowManagement@ApplicationModel@Internal@Windows@winrt@@UIAppViewStatics@23456@@12@A
-__int64 ___factory_cache_entry_v_UAppViewInProc_WindowManagement_ApplicationModel_Internal_Windows_winrt__UIAppViewStatics_23456__impl_winrt__3U__factory_cache_entry_UAppViewInProc_WindowManagement_ApplicationModel_Internal_Windows_winrt__UIAppViewStatics_23456__12_A = 0x0000000000000000; // 0

@@ -1,3 +1,0 @@
-// RVA 0x209448, .data
-// Symbol: __@@_PchSym_@00@KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlmgvcgfzokilxvhhlihUkilxvhhlihUhsvootvhgfivhUkilxvhhliUlyquivUznwGEUkxsOlyq@ShellGesturesProcessor
-unsigned char _____PchSym__00_KxulyqvxgPillgKxulmvxlivfzkUdrmwldhUnlwvimxlivUrmkfgeCUxlmgvcgfzokilxvhhlihUkilxvhhlihUhsvootvhgfivhUkilxvhhliUlyquivUznwGEUkxsOlyq_ShellGesturesProcessor = 0x00; // 0

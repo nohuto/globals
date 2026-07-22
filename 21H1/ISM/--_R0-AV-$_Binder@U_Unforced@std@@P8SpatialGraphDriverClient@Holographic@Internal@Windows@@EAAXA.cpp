@@ -1,3 +1,0 @@
-// RVA 0x207CD0, .data
-// Symbol: ??_R0?AV?$_Binder@U_Unforced@std@@P8SpatialGraphDriverClient@Holographic@Internal@Windows@@EAAXAEAVV2NodePropertyRequest@456@J@ZPEAV3456@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@@8
-void **___R0_AV___Binder_U_Unforced_std__P8SpatialGraphDriverClient_Holographic_Internal_Windows__EAAXAEAVV2NodePropertyRequest_456_J_ZPEAV3456_AEBU___Ph__00_2_AEBU___Ph__01_2__std___8 = reinterpret_cast<decltype(___R0_AV___Binder_U_Unforced_std__P8SpatialGraphDriverClient_Holographic_Internal_Windows__EAAXAEAVV2NodePropertyRequest_456_J_ZPEAV3456_AEBU___Ph__00_2_AEBU___Ph__01_2__std___8)>(0x00000001801AB880); // 6444202112

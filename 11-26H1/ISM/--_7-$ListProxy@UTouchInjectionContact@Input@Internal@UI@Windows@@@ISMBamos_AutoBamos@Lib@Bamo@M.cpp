@@ -1,3 +1,0 @@
-// RVA 0x1F57F0, .rdata
-// Symbol: ??_7?$ListProxy@UTouchInjectionContact@Input@Internal@UI@Windows@@@ISMBamos_AutoBamos@Lib@Bamo@Microsoft@@6BIList_TouchInjectionContact_Proxy@1234@@
-void *___7__ListProxy_UTouchInjectionContact_Input_Internal_UI_Windows___ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_TouchInjectionContact_Proxy_1234__ = reinterpret_cast<decltype(___7__ListProxy_UTouchInjectionContact_Input_Internal_UI_Windows___ISMBamos_AutoBamos_Lib_Bamo_Microsoft__6BIList_TouchInjectionContact_Proxy_1234__)>(0x00000001801A2E30); // 6444166704
